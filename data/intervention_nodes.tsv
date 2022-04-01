@@ -1,0 +1,2489 @@
+?intervention	?interventionLabel
+<http://www.wikidata.org/entity/Q2025>	"carbon monoxide"@en
+<http://www.wikidata.org/entity/Q3515>	"(RS)-rabeprazole"@en
+<http://www.wikidata.org/entity/Q7739>	"arsenic trioxide"@en
+<http://www.wikidata.org/entity/Q153>	"ethanol"@en
+<http://www.wikidata.org/entity/Q18936>	"doxorubicin"@en
+<http://www.wikidata.org/entity/Q8366>	"algorithm"@en
+<http://www.wikidata.org/entity/Q9530>	"breathing"@en
+<http://www.wikidata.org/entity/Q12140>	"medication"@en
+<http://www.wikidata.org/entity/Q18939>	"azathioprine"@en
+<http://www.wikidata.org/entity/Q11016>	"technology"@en
+<http://www.wikidata.org/entity/Q12187>	"antibiotic"@en
+<http://www.wikidata.org/entity/Q19161>	"hemagglutinin"@en
+<http://www.wikidata.org/entity/Q19484>	"metformin"@en
+<http://www.wikidata.org/entity/Q1057>	"metabolism"@en
+<http://www.wikidata.org/entity/Q18216>	"aspirin"@en
+<http://www.wikidata.org/entity/Q23767>	"calcium carbonate"@en
+<http://www.wikidata.org/entity/Q26272>	"atropine"@en
+<http://www.wikidata.org/entity/Q26963>	"progesterone"@en
+<http://www.wikidata.org/entity/Q31030>	"xylometazoline"@en
+<http://www.wikidata.org/entity/Q29417>	"tretinoin"@en
+<http://www.wikidata.org/entity/Q30612>	"clinical trial"@en
+<http://www.wikidata.org/entity/Q32089>	"sirolimus"@en
+<http://www.wikidata.org/entity/Q41576>	"cocaine"@en
+<http://www.wikidata.org/entity/Q20994>	"nimesulide"@en
+<http://www.wikidata.org/entity/Q23118>	"lysergic acid diethylamide"@en
+<http://www.wikidata.org/entity/Q42038>	"maleic acid"@en
+<http://www.wikidata.org/entity/Q44944>	"tegaserod"@en
+<http://www.wikidata.org/entity/Q116269>	"silicon dioxide"@en
+<http://www.wikidata.org/entity/Q118551>	"clarithromycin"@en
+<http://www.wikidata.org/entity/Q57055>	"paracetamol"@en
+<http://www.wikidata.org/entity/Q58614>	"loxapine"@en
+<http://www.wikidata.org/entity/Q58713>	"clomipramine"@en
+<http://www.wikidata.org/entity/Q29310>	"tropicamide"@en
+<http://www.wikidata.org/entity/Q59412>	"tolfenamic acid"@en
+<http://www.wikidata.org/entity/Q60168>	"heroin"@en
+<http://www.wikidata.org/entity/Q60235>	"caffeine"@en
+<http://www.wikidata.org/entity/Q44931>	"sarpogrelate"@en
+<http://www.wikidata.org/entity/Q69488>	"MDMA"@en
+<http://www.wikidata.org/entity/Q61233>	"histamine"@en
+<http://www.wikidata.org/entity/Q155954>	"tenofovir"@en
+<http://www.wikidata.org/entity/Q45044>	"magnesium citrate"@en
+<http://www.wikidata.org/entity/Q45050>	"tenoxicam"@en
+<http://www.wikidata.org/entity/Q45816>	"Boswellic acid"@en
+<http://www.wikidata.org/entity/Q46994>	"telehealth"@en
+<http://www.wikidata.org/entity/Q47512>	"acetic acid"@en
+<http://www.wikidata.org/entity/Q48196>	"stem cell"@en
+<http://www.wikidata.org/entity/Q52353>	"benzyl alcohol"@en
+<http://www.wikidata.org/entity/Q48832>	"tea tree oil"@en
+<http://www.wikidata.org/entity/Q55434>	"pethidine"@en
+<http://www.wikidata.org/entity/Q158348>	"alpha-tocopherol"@en
+<http://www.wikidata.org/entity/Q126440>	"motilin"@en
+<http://www.wikidata.org/entity/Q125083>	"atrasentan"@en
+<http://www.wikidata.org/entity/Q127060>	"folic acid"@en
+<http://www.wikidata.org/entity/Q130365>	"riboflavin"@en
+<http://www.wikidata.org/entity/Q132501>	"glycerol"@en
+<http://www.wikidata.org/entity/Q132621>	"epinephrine"@en
+<http://www.wikidata.org/entity/Q134658>	"niacin"@en
+<http://www.wikidata.org/entity/Q39111>	"nifedipine"@en
+<http://www.wikidata.org/entity/Q139195>	"calcitriol"@en
+<http://www.wikidata.org/entity/Q139307>	"calcifediol"@en
+<http://www.wikidata.org/entity/Q139347>	"cholecalciferol"@en
+<http://www.wikidata.org/entity/Q58396>	"imipramine"@en
+<http://www.wikidata.org/entity/Q181003>	"L-Tryptophan"@en
+<http://www.wikidata.org/entity/Q58397>	"amitriptyline"@en
+<http://www.wikidata.org/entity/Q181354>	"biotin"@en
+<http://www.wikidata.org/entity/Q81225>	"morphine"@en
+<http://www.wikidata.org/entity/Q183011>	"arginine vasopressin"@en
+<http://www.wikidata.org/entity/Q167934>	"serotonin"@en
+<http://www.wikidata.org/entity/Q183206>	"vitamin B"@en
+<http://www.wikidata.org/entity/Q170304>	"dopamine"@en
+<http://www.wikidata.org/entity/Q105522>	"uric acid"@en
+<http://www.wikidata.org/entity/Q60894>	"health education"@en
+<http://www.wikidata.org/entity/Q83187>	"thiamine(1+) ion"@en
+<http://www.wikidata.org/entity/Q61387>	"nortriptyline"@en
+<http://www.wikidata.org/entity/Q68566>	"mosapride"@en
+<http://www.wikidata.org/entity/Q68484>	"prucalopride"@en
+<http://www.wikidata.org/entity/Q68414>	"renzapride"@en
+<http://www.wikidata.org/entity/Q170591>	"hydrogen sulfide"@en
+<http://www.wikidata.org/entity/Q170617>	"glucagon"@en
+<http://www.wikidata.org/entity/Q128381>	"harmine"@en
+<http://www.wikidata.org/entity/Q130336>	"phenol"@en
+<http://www.wikidata.org/entity/Q165399>	"azithromycin"@en
+<http://www.wikidata.org/entity/Q169569>	"metronidazole"@en
+<http://www.wikidata.org/entity/Q166476>	"darifenacin"@en
+<http://www.wikidata.org/entity/Q166825>	"ibandronic acid"@en
+<http://www.wikidata.org/entity/Q165930>	"tyramine"@en
+<http://www.wikidata.org/entity/Q145052>	"zaleplon"@en
+<http://www.wikidata.org/entity/Q144085>	"pimozide"@en
+<http://www.wikidata.org/entity/Q180983>	"cytarabine"@en
+<http://www.wikidata.org/entity/Q169960>	"oxytocin"@en
+<http://www.wikidata.org/entity/Q73972>	"hydroxocobalamin"@en
+<http://www.wikidata.org/entity/Q80250>	"cyclopropane"@en
+<http://www.wikidata.org/entity/Q80863>	"adenosine triphosphate"@en
+<http://www.wikidata.org/entity/Q80868>	"tolonium chloride"@en
+<http://www.wikidata.org/entity/Q81166>	"mustard gas"@en
+<http://www.wikidata.org/entity/Q159683>	"citric acid"@en
+<http://www.wikidata.org/entity/Q183554>	"fosfomycin"@en
+<http://www.wikidata.org/entity/Q180912>	"melatonin"@en
+<http://www.wikidata.org/entity/Q185331>	"rocuronium"@en
+<http://www.wikidata.org/entity/Q81890>	"bismuth subsalicylate"@en
+<http://www.wikidata.org/entity/Q93978>	"antispasmodic"@en
+<http://www.wikidata.org/entity/Q104219>	"bilirubin"@en
+<http://www.wikidata.org/entity/Q185916>	"fludarabine phosphate"@en
+<http://www.wikidata.org/entity/Q146075>	"zanamivir"@en
+<http://www.wikidata.org/entity/Q185690>	"corticotropin"@en
+<http://www.wikidata.org/entity/Q134808>	"vaccine"@en
+<http://www.wikidata.org/entity/Q155683>	"calcipotriene"@en
+<http://www.wikidata.org/entity/Q151313>	"ethylene"@en
+<http://www.wikidata.org/entity/Q107184>	"cupric sulfate"@en
+<http://www.wikidata.org/entity/Q155685>	"dihydrotachysterol"@en
+<http://www.wikidata.org/entity/Q155890>	"heavy water"@en
+<http://www.wikidata.org/entity/Q139160>	"dienogest"@en
+<http://www.wikidata.org/entity/Q155883>	"alfacalcidol"@en
+<http://www.wikidata.org/entity/Q155753>	"γ-tocopherol"@en
+<http://www.wikidata.org/entity/Q186242>	"norepinephrine"@en
+<http://www.wikidata.org/entity/Q186969>	"ibuprofen"@en
+<http://www.wikidata.org/entity/Q174723>	"codeine"@en
+<http://www.wikidata.org/entity/Q171877>	"hydrogen peroxide"@en
+<http://www.wikidata.org/entity/Q161210>	"formaldehyde"@en
+<http://www.wikidata.org/entity/Q162564>	"ultrasound"@en
+<http://www.wikidata.org/entity/Q173235>	"analgesic"@en
+<http://www.wikidata.org/entity/Q162657>	"neurotransmitter"@en
+<http://www.wikidata.org/entity/Q162867>	"nitroglycerin"@en
+<http://www.wikidata.org/entity/Q176301>	"oxcarbazepine"@en
+<http://www.wikidata.org/entity/Q176533>	"alfentanil"@en
+<http://www.wikidata.org/entity/Q179661>	"treatment"@en
+<http://www.wikidata.org/entity/Q179748>	"isosorbide dinitrate"@en
+<http://www.wikidata.org/entity/Q173670>	"L-Arginine"@en
+<http://www.wikidata.org/entity/Q174259>	"droperidol"@en
+<http://www.wikidata.org/entity/Q163901>	"cefixime"@en
+<http://www.wikidata.org/entity/Q179894>	"pantothenic acid"@en
+<http://www.wikidata.org/entity/Q180507>	"radiation therapy"@en
+<http://www.wikidata.org/entity/Q180623>	"acetylcholine"@en
+<http://www.wikidata.org/entity/Q179996>	"(RS)-methadone"@en
+<http://www.wikidata.org/entity/Q192423>	"niacinamide"@en
+<http://www.wikidata.org/entity/Q186093>	"(E)-phytonadione"@en
+<http://www.wikidata.org/entity/Q188269>	"interferon"@en
+<http://www.wikidata.org/entity/Q186127>	"dactinomycin"@en
+<http://www.wikidata.org/entity/Q188724>	"non-steroidal anti-inflammatory drug"@en
+<http://www.wikidata.org/entity/Q191924>	"D-methamphetamine"@en
+<http://www.wikidata.org/entity/Q189522>	"quinine"@en
+<http://www.wikidata.org/entity/Q190012>	"adenosine"@en
+<http://www.wikidata.org/entity/Q192354>	"menatetrenone"@en
+<http://www.wikidata.org/entity/Q194974>	"letrozole"@en
+<http://www.wikidata.org/entity/Q198473>	"ziconotide"@en
+<http://www.wikidata.org/entity/Q198504>	"zidovudine"@en
+<http://www.wikidata.org/entity/Q193045>	"tetracycline"@en
+<http://www.wikidata.org/entity/Q211509>	"oseltamivir"@en
+<http://www.wikidata.org/entity/Q193572>	"salicylic acid"@en
+<http://www.wikidata.org/entity/Q193598>	"DL-ascorbic acid"@en
+<http://www.wikidata.org/entity/Q211737>	"sodium sulfate"@en
+<http://www.wikidata.org/entity/Q212171>	"rizatriptan"@en
+<http://www.wikidata.org/entity/Q212272>	"hydroxyurea"@en
+<http://www.wikidata.org/entity/Q213511>	"erythromycin"@en
+<http://www.wikidata.org/entity/Q193166>	"choline"@en
+<http://www.wikidata.org/entity/Q216935>	"lidocaine"@en
+<http://www.wikidata.org/entity/Q202218>	"ethyl ether"@en
+<http://www.wikidata.org/entity/Q202998>	"zileuton"@en
+<http://www.wikidata.org/entity/Q193978>	"cinacalcet"@en
+<http://www.wikidata.org/entity/Q203174>	"thalidomide"@en
+<http://www.wikidata.org/entity/Q201928>	"amoxicillin"@en
+<http://www.wikidata.org/entity/Q192464>	"levoleucovorin"@en
+<http://www.wikidata.org/entity/Q190016>	"heparin"@en
+<http://www.wikidata.org/entity/Q190077>	"zinc oxide"@en
+<http://www.wikidata.org/entity/Q221174>	"topiramate"@en
+<http://www.wikidata.org/entity/Q221361>	"clozapine"@en
+<http://www.wikidata.org/entity/Q191700>	"benzoic acid"@en
+<http://www.wikidata.org/entity/Q191907>	"carotenoid"@en
+<http://www.wikidata.org/entity/Q193213>	"butyric acid"@en
+<http://www.wikidata.org/entity/Q229924>	"4-aminosalicylic acid"@en
+<http://www.wikidata.org/entity/Q193521>	"titanium dioxide"@en
+<http://www.wikidata.org/entity/Q198728>	"ponatinib"@en
+<http://www.wikidata.org/entity/Q201872>	"olanzapine"@en
+<http://www.wikidata.org/entity/Q204954>	"zinc sulfate"@en
+<http://www.wikidata.org/entity/Q205130>	"vitamin B6"@en
+<http://www.wikidata.org/entity/Q238512>	"fluorouracil"@en
+<http://www.wikidata.org/entity/Q192717>	"streptomycin"@en
+<http://www.wikidata.org/entity/Q205517>	"ziprasidone"@en
+<http://www.wikidata.org/entity/Q223020>	"tenamfetamine"@en
+<http://www.wikidata.org/entity/Q221520>	"triamterene"@en
+<http://www.wikidata.org/entity/Q221637>	"ambroxol"@en
+<http://www.wikidata.org/entity/Q221391>	"locust bean gum"@en
+<http://www.wikidata.org/entity/Q223412>	"(RS)-clenbuterol"@en
+<http://www.wikidata.org/entity/Q226905>	"zotepine"@en
+<http://www.wikidata.org/entity/Q210402>	"diazepam"@en
+<http://www.wikidata.org/entity/Q210420>	"corticosteroid"@en
+<http://www.wikidata.org/entity/Q211036>	"stimulant"@en
+<http://www.wikidata.org/entity/Q206844>	"theobromine"@en
+<http://www.wikidata.org/entity/Q207442>	"silver nitrate"@en
+<http://www.wikidata.org/entity/Q207843>	"nitric oxide"@en
+<http://www.wikidata.org/entity/Q204036>	"(E)-cinnamaldehyde"@en
+<http://www.wikidata.org/entity/Q204594>	"zinc protoporphyrin"@en
+<http://www.wikidata.org/entity/Q204602>	"pyrithione zinc"@en
+<http://www.wikidata.org/entity/Q218284>	"zofenopril"@en
+<http://www.wikidata.org/entity/Q218507>	"zoledronic acid"@en
+<http://www.wikidata.org/entity/Q210021>	"γ-aminobutyric acid"@en
+<http://www.wikidata.org/entity/Q209313>	"2-aminopurine"@en
+<http://www.wikidata.org/entity/Q219067>	"physical exercise"@en
+<http://www.wikidata.org/entity/Q263713>	"nevirapine"@en
+<http://www.wikidata.org/entity/Q238474>	"aminolevulinic acid"@en
+<http://www.wikidata.org/entity/Q238490>	"5-fluorocytosine"@en
+<http://www.wikidata.org/entity/Q214769>	"magnesium oxide"@en
+<http://www.wikidata.org/entity/Q219626>	"(−)-ephedrine"@en
+<http://www.wikidata.org/entity/Q215118>	"anticoagulant"@en
+<http://www.wikidata.org/entity/Q240642>	"valproic acid"@en
+<http://www.wikidata.org/entity/Q241150>	"(RS)-aminoglutethimide"@en
+<http://www.wikidata.org/entity/Q241374>	"ursodiol"@en
+<http://www.wikidata.org/entity/Q244150>	"ampicillin"@en
+<http://www.wikidata.org/entity/Q219957>	"zonisamide"@en
+<http://www.wikidata.org/entity/Q269111>	"apomorphine"@en
+<http://www.wikidata.org/entity/Q239426>	"mitoxantrone"@en
+<http://www.wikidata.org/entity/Q269829>	"placebo"@en
+<http://www.wikidata.org/entity/Q239569>	"amodiaquine"@en
+<http://www.wikidata.org/entity/Q244408>	"diclofenac"@en
+<http://www.wikidata.org/entity/Q239778>	"bromhexine"@en
+<http://www.wikidata.org/entity/Q271980>	"bisphenol A"@en
+<http://www.wikidata.org/entity/Q273169>	"capsaicin"@en
+<http://www.wikidata.org/entity/Q279504>	"(S)-ropivacaine"@en
+<http://www.wikidata.org/entity/Q218820>	"zolmitriptan"@en
+<http://www.wikidata.org/entity/Q274515>	"chloramphenicol"@en
+<http://www.wikidata.org/entity/Q275926>	"bumetanide"@en
+<http://www.wikidata.org/entity/Q282629>	"Vinblastine"@en
+<http://www.wikidata.org/entity/Q241516>	"povidone-iodine"@en
+<http://www.wikidata.org/entity/Q218842>	"zolpidem"@en
+<http://www.wikidata.org/entity/Q208118>	"psilocybin"@en
+<http://www.wikidata.org/entity/Q321285>	"ubidecarenone"@en
+<http://www.wikidata.org/entity/Q208130>	"lycopene"@en
+<http://www.wikidata.org/entity/Q288266>	"magnesium sulfate"@en
+<http://www.wikidata.org/entity/Q277979>	"nalbuphine"@en
+<http://www.wikidata.org/entity/Q209120>	"TEMPO"@en
+<http://www.wikidata.org/entity/Q209463>	"phenylethyl alcohol"@en
+<http://www.wikidata.org/entity/Q209727>	"palmitic acid"@en
+<http://www.wikidata.org/entity/Q324147>	"terlipressin"@en
+<http://www.wikidata.org/entity/Q220426>	"zopiclone"@en
+<http://www.wikidata.org/entity/Q374826>	"solifenacin succinate"@en
+<http://www.wikidata.org/entity/Q375613>	"acetylcysteine"@en
+<http://www.wikidata.org/entity/Q263958>	"(+)-pseudoephedrine"@en
+<http://www.wikidata.org/entity/Q263962>	"transcranial magnetic stimulation"@en
+<http://www.wikidata.org/entity/Q266321>	"mitiglinide"@en
+<http://www.wikidata.org/entity/Q267669>	"Cisatracurium besylate"@en
+<http://www.wikidata.org/entity/Q267896>	"phenprocoumon"@en
+<http://www.wikidata.org/entity/Q288280>	"ACE inhibitor"@en
+<http://www.wikidata.org/entity/Q367700>	"cyclosporine"@en
+<http://www.wikidata.org/entity/Q245280>	"D-sorbitol"@en
+<http://www.wikidata.org/entity/Q248466>	"natamycin"@en
+<http://www.wikidata.org/entity/Q248550>	"leflunomide"@en
+<http://www.wikidata.org/entity/Q258591>	"cilostazol"@en
+<http://www.wikidata.org/entity/Q368995>	"betahistine"@en
+<http://www.wikidata.org/entity/Q249619>	"immunosuppressive drug"@en
+<http://www.wikidata.org/entity/Q251347>	"haloperidol"@en
+<http://www.wikidata.org/entity/Q259930>	"fusidic acid"@en
+<http://www.wikidata.org/entity/Q369648>	"tolperisone"@en
+<http://www.wikidata.org/entity/Q260286>	"iniparib"@en
+<http://www.wikidata.org/entity/Q261167>	"ibudilast"@en
+<http://www.wikidata.org/entity/Q263284>	"olaflur"@en
+<http://www.wikidata.org/entity/Q251005>	"Nystatin"@en
+<http://www.wikidata.org/entity/Q251698>	"amifostine"@en
+<http://www.wikidata.org/entity/Q348260>	"adalimumab"@en
+<http://www.wikidata.org/entity/Q254296>	"lansoprazole"@en
+<http://www.wikidata.org/entity/Q304330>	"abacavir"@en
+<http://www.wikidata.org/entity/Q255680>	"mazindol"@en
+<http://www.wikidata.org/entity/Q255968>	"aminocaproic acid"@en
+<http://www.wikidata.org/entity/Q256602>	"ciprofloxacin"@en
+<http://www.wikidata.org/entity/Q280786>	"terazosin"@en
+<http://www.wikidata.org/entity/Q282902>	"naloxone"@en
+<http://www.wikidata.org/entity/Q258450>	"penicillin G"@en
+<http://www.wikidata.org/entity/Q385347>	"6-thioguanine"@en
+<http://www.wikidata.org/entity/Q385858>	"Ajmaline"@en
+<http://www.wikidata.org/entity/Q386119>	"Natalizumab"@en
+<http://www.wikidata.org/entity/Q286846>	"pantoprazole"@en
+<http://www.wikidata.org/entity/Q287029>	"isotretinoin"@en
+<http://www.wikidata.org/entity/Q285044>	"angiotensin II receptor antagonist"@en
+<http://www.wikidata.org/entity/Q407721>	"buprenorphine"@en
+<http://www.wikidata.org/entity/Q338005>	"acarbose"@en
+<http://www.wikidata.org/entity/Q386441>	"(RS)-meclizine"@en
+<http://www.wikidata.org/entity/Q389496>	"Obinutuzumab"@en
+<http://www.wikidata.org/entity/Q339866>	"sodium thiosulfate"@en
+<http://www.wikidata.org/entity/Q407646>	"D-(-)-mannitol"@en
+<http://www.wikidata.org/entity/Q325101>	"enkephalin"@en
+<http://www.wikidata.org/entity/Q328692>	"imidazole"@en
+<http://www.wikidata.org/entity/Q326224>	"(S)-(−)-colchicine"@en
+<http://www.wikidata.org/entity/Q335099>	"edaravone"@en
+<http://www.wikidata.org/entity/Q393339>	"epigallocatechin gallate"@en
+<http://www.wikidata.org/entity/Q337188>	"L-scopolamine"@en
+<http://www.wikidata.org/entity/Q238544>	"oxitriptan"@en
+<http://www.wikidata.org/entity/Q238521>	"5-HT3 antagonist"@en
+<http://www.wikidata.org/entity/Q402607>	"tyrosol"@en
+<http://www.wikidata.org/entity/Q402625>	"oleuropein"@en
+<http://www.wikidata.org/entity/Q284321>	"mefenamic acid"@en
+<http://www.wikidata.org/entity/Q407125>	"aluminum hydroxide"@en
+<http://www.wikidata.org/entity/Q370015>	"Hylands Park"@en
+<http://www.wikidata.org/entity/Q372539>	"dalfampridine"@en
+<http://www.wikidata.org/entity/Q372725>	"thiethylperazine"@en
+<http://www.wikidata.org/entity/Q407172>	"chorionic gonadotropin"@en
+<http://www.wikidata.org/entity/Q407669>	"methyl salicylate"@en
+<http://www.wikidata.org/entity/Q407204>	"sodium hypochlorite"@en
+<http://www.wikidata.org/entity/Q341045>	"mindfulness"@en
+<http://www.wikidata.org/entity/Q341500>	"acitretin"@en
+<http://www.wikidata.org/entity/Q300989>	"levodopa"@en
+<http://www.wikidata.org/entity/Q407329>	"resveratrol"@en
+<http://www.wikidata.org/entity/Q312266>	"curcumin"@en
+<http://www.wikidata.org/entity/Q407535>	"oxycodone"@en
+<http://www.wikidata.org/entity/Q347613>	"valdecoxib"@en
+<http://www.wikidata.org/entity/Q347337>	"balsalazide"@en
+<http://www.wikidata.org/entity/Q342108>	"aconitine"@en
+<http://www.wikidata.org/entity/Q347941>	"parecoxib"@en
+<http://www.wikidata.org/entity/Q315860>	"Calcitonin"@en
+<http://www.wikidata.org/entity/Q319877>	"alprazolam"@en
+<http://www.wikidata.org/entity/Q303646>	"hydromorphone"@en
+<http://www.wikidata.org/entity/Q376061>	"flavin mononucleotide"@en
+<http://www.wikidata.org/entity/Q377036>	"polidocanol"@en
+<http://www.wikidata.org/entity/Q377342>	"propylthiouracil"@en
+<http://www.wikidata.org/entity/Q377458>	"COX-2 inhibitor"@en
+<http://www.wikidata.org/entity/Q379842>	"tetrodotoxin"@en
+<http://www.wikidata.org/entity/Q379123>	"Chlorophyllin"@en
+<http://www.wikidata.org/entity/Q348922>	"busulfan"@en
+<http://www.wikidata.org/entity/Q349427>	"Bombesin"@en
+<http://www.wikidata.org/entity/Q384295>	"gemfibrozil"@en
+<http://www.wikidata.org/entity/Q385140>	"anthranilic acid"@en
+<http://www.wikidata.org/entity/Q352348>	"adapalene"@en
+<http://www.wikidata.org/entity/Q407541>	"fentanyl"@en
+<http://www.wikidata.org/entity/Q353551>	"adefovir"@en
+<http://www.wikidata.org/entity/Q337668>	"acamprosate"@en
+<http://www.wikidata.org/entity/Q407781>	"dextromethorphan"@en
+<http://www.wikidata.org/entity/Q290001>	"gliclazide"@en
+<http://www.wikidata.org/entity/Q407841>	"reserpine"@en
+<http://www.wikidata.org/entity/Q407857>	"rutin"@en
+<http://www.wikidata.org/entity/Q407883>	"Ketoconazole"@en
+<http://www.wikidata.org/entity/Q305555>	"abarelix"@en
+<http://www.wikidata.org/entity/Q306135>	"β-carotene"@en
+<http://www.wikidata.org/entity/Q310286>	"beta-lactamase inhibitors"@en
+<http://www.wikidata.org/entity/Q309438>	"anabolic steroid"@en
+<http://www.wikidata.org/entity/Q407927>	"dimethyl sulfoxide"@en
+<http://www.wikidata.org/entity/Q312229>	"(RS)-thioctic acid"@en
+<http://www.wikidata.org/entity/Q311992>	"acetylcarnitine"@en
+<http://www.wikidata.org/entity/Q407936>	"trichloroethylene"@en
+<http://www.wikidata.org/entity/Q407972>	"chlorpromazine"@en
+<http://www.wikidata.org/entity/Q408524>	"(RS)-cyclophosphamide"@en
+<http://www.wikidata.org/entity/Q408376>	"dehydroepiandrosterone"@en
+<http://www.wikidata.org/entity/Q407592>	"(R,R) tramadol"@en
+<http://www.wikidata.org/entity/Q408471>	"paroxetine"@en
+<http://www.wikidata.org/entity/Q304088>	"acenocoumarol"@en
+<http://www.wikidata.org/entity/Q408510>	"chitosan"@en
+<http://www.wikidata.org/entity/Q407617>	"sertraline"@en
+<http://www.wikidata.org/entity/Q407418>	"L-menthol"@en
+<http://www.wikidata.org/entity/Q407520>	"sodium fluoride"@en
+<http://www.wikidata.org/entity/Q407997>	"inositol"@en
+<http://www.wikidata.org/entity/Q407217>	"dimethyltryptamine"@en
+<http://www.wikidata.org/entity/Q407241>	"phenobarbital"@en
+<http://www.wikidata.org/entity/Q407308>	"theophylline"@en
+<http://www.wikidata.org/entity/Q408032>	"edetic acid"@en
+<http://www.wikidata.org/entity/Q407548>	"magnesium hydroxide"@en
+<http://www.wikidata.org/entity/Q408163>	"anagrelide"@en
+<http://www.wikidata.org/entity/Q408283>	"denosumab"@en
+<http://www.wikidata.org/entity/Q408289>	"gestodene"@en
+<http://www.wikidata.org/entity/Q407988>	"clonazepam"@en
+<http://www.wikidata.org/entity/Q409267>	"diethylcarbamazine"@en
+<http://www.wikidata.org/entity/Q409292>	"piperazine"@en
+<http://www.wikidata.org/entity/Q408099>	"brivaracetam"@en
+<http://www.wikidata.org/entity/Q409366>	"lupeol"@en
+<http://www.wikidata.org/entity/Q409357>	"iminodiacetic acid"@en
+<http://www.wikidata.org/entity/Q409373>	"glycolic acid"@en
+<http://www.wikidata.org/entity/Q408155>	"catumaxomab"@en
+<http://www.wikidata.org/entity/Q408132>	"Molsidomine"@en
+<http://www.wikidata.org/entity/Q409478>	"quercetin"@en
+<http://www.wikidata.org/entity/Q409492>	"cimetidine"@en
+<http://www.wikidata.org/entity/Q409583>	"pimagedine"@en
+<http://www.wikidata.org/entity/Q409587>	"naltrexone"@en
+<http://www.wikidata.org/entity/Q409665>	"disulfiram"@en
+<http://www.wikidata.org/entity/Q409231>	"indomethacin"@en
+<http://www.wikidata.org/entity/Q408529>	"amikacin"@en
+<http://www.wikidata.org/entity/Q408556>	"levobunolol"@en
+<http://www.wikidata.org/entity/Q408566>	"neurokinin A"@en
+<http://www.wikidata.org/entity/Q408565>	"rufinamide"@en
+<http://www.wikidata.org/entity/Q408570>	"methoxsalen"@en
+<http://www.wikidata.org/entity/Q408637>	"dronedarone"@en
+<http://www.wikidata.org/entity/Q409804>	"allantoin"@en
+<http://www.wikidata.org/entity/Q409981>	"metaraminol"@en
+<http://www.wikidata.org/entity/Q410011>	"ondansetron"@en
+<http://www.wikidata.org/entity/Q409236>	"fluvoxamine"@en
+<http://www.wikidata.org/entity/Q408724>	"risedronic acid"@en
+<http://www.wikidata.org/entity/Q408732>	"daidzein"@en
+<http://www.wikidata.org/entity/Q409672>	"(RS)-citalopram"@en
+<http://www.wikidata.org/entity/Q408801>	"celecoxib"@en
+<http://www.wikidata.org/entity/Q408977>	"vincristine"@en
+<http://www.wikidata.org/entity/Q409251>	"calcium acetate"@en
+<http://www.wikidata.org/entity/Q409262>	"methicillin"@en
+<http://www.wikidata.org/entity/Q410074>	"losartan"@en
+<http://www.wikidata.org/entity/Q409728>	"trisodium citrate"@en
+<http://www.wikidata.org/entity/Q409729>	"almotriptan"@en
+<http://www.wikidata.org/entity/Q409761>	"amantadine"@en
+<http://www.wikidata.org/entity/Q408641>	"L-citrulline"@en
+<http://www.wikidata.org/entity/Q408646>	"triclosan"@en
+<http://www.wikidata.org/entity/Q408676>	"piroxicam"@en
+<http://www.wikidata.org/entity/Q411188>	"aripiprazole"@en
+<http://www.wikidata.org/entity/Q410352>	"gabapentin"@en
+<http://www.wikidata.org/entity/Q410374>	"papaverine"@en
+<http://www.wikidata.org/entity/Q409765>	"idoxuridine"@en
+<http://www.wikidata.org/entity/Q410400>	"phenytoin"@en
+<http://www.wikidata.org/entity/Q410412>	"carbamazepin"@en
+<http://www.wikidata.org/entity/Q410513>	"megestrol"@en
+<http://www.wikidata.org/entity/Q410534>	"miconazole"@en
+<http://www.wikidata.org/entity/Q410346>	"lamotrigine"@en
+<http://www.wikidata.org/entity/Q410546>	"neostigmine"@en
+<http://www.wikidata.org/entity/Q408883>	"thymol"@en
+<http://www.wikidata.org/entity/Q409712>	"ceftaroline fosamil"@en
+<http://www.wikidata.org/entity/Q410588>	"oxypurinol"@en
+<http://www.wikidata.org/entity/Q410595>	"physostigmine"@en
+<http://www.wikidata.org/entity/Q410656>	"Ofatumumab"@en
+<http://www.wikidata.org/entity/Q410441>	"modafinil"@en
+<http://www.wikidata.org/entity/Q411240>	"mifepristone"@en
+<http://www.wikidata.org/entity/Q411330>	"Varenicline"@en
+<http://www.wikidata.org/entity/Q410069>	"piracetam"@en
+<http://www.wikidata.org/entity/Q410061>	"amiodarone"@en
+<http://www.wikidata.org/entity/Q410078>	"nitrazepam"@en
+<http://www.wikidata.org/entity/Q410083>	"polyethylene glycol"@en
+<http://www.wikidata.org/entity/Q410174>	"lithium carbonate"@en
+<http://www.wikidata.org/entity/Q411377>	"linezolid"@en
+<http://www.wikidata.org/entity/Q409595>	"isocarboxazid"@en
+<http://www.wikidata.org/entity/Q410663>	"fluoxymesterone"@en
+<http://www.wikidata.org/entity/Q409632>	"pentobarbital"@en
+<http://www.wikidata.org/entity/Q410492>	"lercanidipine"@en
+<http://www.wikidata.org/entity/Q412127>	"gallopamil"@en
+<http://www.wikidata.org/entity/Q412050>	"epoprostenol"@en
+<http://www.wikidata.org/entity/Q412102>	"tramazoline"@en
+<http://www.wikidata.org/entity/Q412133>	"dexmedetomidine"@en
+<http://www.wikidata.org/entity/Q409641>	"allicin"@en
+<http://www.wikidata.org/entity/Q410789>	"ambrisentan"@en
+<http://www.wikidata.org/entity/Q411629>	"albendazo"@en
+<http://www.wikidata.org/entity/Q411635>	"permethrin"@en
+<http://www.wikidata.org/entity/Q411517>	"brinzolamide"@en
+<http://www.wikidata.org/entity/Q411552>	"doripenem"@en
+<http://www.wikidata.org/entity/Q411648>	"tacrolimus"@en
+<http://www.wikidata.org/entity/Q411557>	"sulfadoxine"@en
+<http://www.wikidata.org/entity/Q411229>	"itraconazole"@en
+<http://www.wikidata.org/entity/Q411441>	"hydrocodone"@en
+<http://www.wikidata.org/entity/Q410291>	"verapamil"@en
+<http://www.wikidata.org/entity/Q410965>	"insulin detemir"@en
+<http://www.wikidata.org/entity/Q411054>	"dihydrotestosterone"@en
+<http://www.wikidata.org/entity/Q411159>	"famotidine"@en
+<http://www.wikidata.org/entity/Q411094>	"ibotenic acid"@en
+<http://www.wikidata.org/entity/Q411041>	"substance P"@en
+<http://www.wikidata.org/entity/Q411175>	"mifamurtide"@en
+<http://www.wikidata.org/entity/Q408984>	"terephthalic acid"@en
+<http://www.wikidata.org/entity/Q410435>	"benzbromarone"@en
+<http://www.wikidata.org/entity/Q409133>	"chloroethane"@en
+<http://www.wikidata.org/entity/Q409192>	"ketoprofen"@en
+<http://www.wikidata.org/entity/Q411659>	"daunorubicin"@en
+<http://www.wikidata.org/entity/Q411412>	"rofecoxib"@en
+<http://www.wikidata.org/entity/Q411707>	"amifampridine"@en
+<http://www.wikidata.org/entity/Q411770>	"silodosin"@en
+<http://www.wikidata.org/entity/Q411781>	"Teriparatide"@en
+<http://www.wikidata.org/entity/Q411417>	"cephalexin"@en
+<http://www.wikidata.org/entity/Q411235>	"iron(II,III) oxide"@en
+<http://www.wikidata.org/entity/Q411424>	"benzoyl peroxide"@en
+<http://www.wikidata.org/entity/Q412197>	"irinotecan"@en
+<http://www.wikidata.org/entity/Q411582>	"nifurtimox"@en
+<http://www.wikidata.org/entity/Q411594>	"methoxyflurane"@en
+<http://www.wikidata.org/entity/Q410189>	"Blinatumomab"@en
+<http://www.wikidata.org/entity/Q410195>	"frovatriptan"@en
+<http://www.wikidata.org/entity/Q410237>	"clopidogrel"@en
+<http://www.wikidata.org/entity/Q410285>	"rolipram"@en
+<http://www.wikidata.org/entity/Q410273>	"eslicarbazepine acetate"@en
+<http://www.wikidata.org/entity/Q412178>	"tamoxifen"@en
+<http://www.wikidata.org/entity/Q411447>	"DL-ofloxacin"@en
+<http://www.wikidata.org/entity/Q410794>	"afamelanotide"@en
+<http://www.wikidata.org/entity/Q410842>	"phenylacetic acid"@en
+<http://www.wikidata.org/entity/Q410884>	"cantharidin"@en
+<http://www.wikidata.org/entity/Q411456>	"methocarbamol"@en
+<http://www.wikidata.org/entity/Q411457>	"trazodone"@en
+<http://www.wikidata.org/entity/Q410958>	"diminazene"@en
+<http://www.wikidata.org/entity/Q412182>	"stiripentol"@en
+<http://www.wikidata.org/entity/Q412189>	"memantine"@en
+<http://www.wikidata.org/entity/Q411461>	"pilocarpine"@en
+<http://www.wikidata.org/entity/Q412323>	"rituximab"@en
+<http://www.wikidata.org/entity/Q412174>	"pregabalin"@en
+<http://www.wikidata.org/entity/Q411478>	"fluconazole"@en
+<http://www.wikidata.org/entity/Q411515>	"methylnaltrexone"@en
+<http://www.wikidata.org/entity/Q411787>	"miltefosine"@en
+<http://www.wikidata.org/entity/Q411887>	"rivastigmine"@en
+<http://www.wikidata.org/entity/Q411917>	"glycopyrrolate"@en
+<http://www.wikidata.org/entity/Q412221>	"clonidine"@en
+<http://www.wikidata.org/entity/Q412318>	"ethambutol"@en
+<http://www.wikidata.org/entity/Q412236>	"voriconazole"@en
+<http://www.wikidata.org/entity/Q411985>	"(6S)-rotigotine"@en
+<http://www.wikidata.org/entity/Q412299>	"oxazepam"@en
+<http://www.wikidata.org/entity/Q412415>	"cisplatin"@en
+<http://www.wikidata.org/entity/Q412223>	"amphotericin B"@en
+<http://www.wikidata.org/entity/Q412194>	"buspirone"@en
+<http://www.wikidata.org/entity/Q412399>	"calcium oxalate"@en
+<http://www.wikidata.org/entity/Q411905>	"HU-210"@en
+<http://www.wikidata.org/entity/Q412205>	"bisphosphonate"@en
+<http://www.wikidata.org/entity/Q412208>	"lisinopril"@en
+<http://www.wikidata.org/entity/Q412226>	"yohimbine"@en
+<http://www.wikidata.org/entity/Q413299>	"bevacizumab"@en
+<http://www.wikidata.org/entity/Q412534>	"(±)-carvedilol"@en
+<http://www.wikidata.org/entity/Q412616>	"trastuzumab"@en
+<http://www.wikidata.org/entity/Q412621>	"methyldopa"@en
+<http://www.wikidata.org/entity/Q412340>	"Chloral hydrate"@en
+<http://www.wikidata.org/entity/Q412443>	"risperidone"@en
+<http://www.wikidata.org/entity/Q412666>	"ramipril"@en
+<http://www.wikidata.org/entity/Q412677>	"pitavastatin"@en
+<http://www.wikidata.org/entity/Q412685>	"gemtuzumab ozogamicin"@en
+<http://www.wikidata.org/entity/Q412690>	"galantamine"@en
+<http://www.wikidata.org/entity/Q412765>	"Palivizumab"@en
+<http://www.wikidata.org/entity/Q412734>	"peramivir"@en
+<http://www.wikidata.org/entity/Q412909>	"Certolizumab pegol"@en
+<http://www.wikidata.org/entity/Q412827>	"carnosic acid"@en
+<http://www.wikidata.org/entity/Q412867>	"nadroparin calcium"@en
+<http://www.wikidata.org/entity/Q412888>	"Drotrecogin alfa"@en
+<http://www.wikidata.org/entity/Q413050>	"tetrabenazine"@en
+<http://www.wikidata.org/entity/Q412920>	"Daclizumab"@en
+<http://www.wikidata.org/entity/Q413486>	"diphenhydramine"@en
+<http://www.wikidata.org/entity/Q413512>	"salvinorin A"@en
+<http://www.wikidata.org/entity/Q413504>	"azelaic acid"@en
+<http://www.wikidata.org/entity/Q413546>	"clotrimazole"@en
+<http://www.wikidata.org/entity/Q413578>	"mupirocin"@en
+<http://www.wikidata.org/entity/Q413581>	"bromocriptine"@en
+<http://www.wikidata.org/entity/Q414143>	"gemcitabine"@en
+<http://www.wikidata.org/entity/Q413586>	"naftifine"@en
+<http://www.wikidata.org/entity/Q413591>	"sotalol"@en
+<http://www.wikidata.org/entity/Q413598>	"prilocaine"@en
+<http://www.wikidata.org/entity/Q413621>	"telbivudine"@en
+<http://www.wikidata.org/entity/Q414225>	"(S)-(−)-carbidopa monohydrate"@en
+<http://www.wikidata.org/entity/Q415081>	"donepezil"@en
+<http://www.wikidata.org/entity/Q413690>	"acetazolamide"@en
+<http://www.wikidata.org/entity/Q415122>	"fexofenadine"@en
+<http://www.wikidata.org/entity/Q415118>	"pipamperone"@en
+<http://www.wikidata.org/entity/Q413717>	"(RS)-baclofen"@en
+<http://www.wikidata.org/entity/Q415107>	"vidarabine"@en
+<http://www.wikidata.org/entity/Q415178>	"ivermectin"@en
+<http://www.wikidata.org/entity/Q415173>	"cefpodoxime"@en
+<http://www.wikidata.org/entity/Q413728>	"cefuroxime"@en
+<http://www.wikidata.org/entity/Q413722>	"selenious acid"@en
+<http://www.wikidata.org/entity/Q413762>	"Hyoscyamine"@en
+<http://www.wikidata.org/entity/Q413744>	"lumiracoxib"@en
+<http://www.wikidata.org/entity/Q413918>	"isoflurane"@en
+<http://www.wikidata.org/entity/Q413840>	"tolcapone"@en
+<http://www.wikidata.org/entity/Q413877>	"mivacurium"@en
+<http://www.wikidata.org/entity/Q413805>	"Tibolone"@en
+<http://www.wikidata.org/entity/Q415167>	"cefaclor"@en
+<http://www.wikidata.org/entity/Q413976>	"piribedil"@en
+<http://www.wikidata.org/entity/Q413894>	"atipamezole"@en
+<http://www.wikidata.org/entity/Q413994>	"(S)-(−)-timolol"@en
+<http://www.wikidata.org/entity/Q414030>	"cladribine"@en
+<http://www.wikidata.org/entity/Q415220>	"pemetrexed"@en
+<http://www.wikidata.org/entity/Q413147>	"(+)-norephedrin"@en
+<http://www.wikidata.org/entity/Q413184>	"eszopiclone"@en
+<http://www.wikidata.org/entity/Q412939>	"Estramustine"@en
+<http://www.wikidata.org/entity/Q413288>	"bile acids"@en
+<http://www.wikidata.org/entity/Q414270>	"Ranibizumab"@en
+<http://www.wikidata.org/entity/Q413349>	"selenic acid"@en
+<http://www.wikidata.org/entity/Q412479>	"mesalazine"@en
+<http://www.wikidata.org/entity/Q413370>	"(RS)-tegafur"@en
+<http://www.wikidata.org/entity/Q414116>	"trans-caffeic acid"@en
+<http://www.wikidata.org/entity/Q414762>	"etravirine"@en
+<http://www.wikidata.org/entity/Q412486>	"allopurinol"@en
+<http://www.wikidata.org/entity/Q414089>	"keto-D-tagatose"@en
+<http://www.wikidata.org/entity/Q414896>	"NMDA receptor"@en
+<http://www.wikidata.org/entity/Q414914>	"biperiden"@en
+<http://www.wikidata.org/entity/Q414796>	"temazepam"@en
+<http://www.wikidata.org/entity/Q415190>	"benzimidazole"@en
+<http://www.wikidata.org/entity/Q414873>	"isradipine"@en
+<http://www.wikidata.org/entity/Q414986>	"estrone"@en
+<http://www.wikidata.org/entity/Q415051>	"midodrine"@en
+<http://www.wikidata.org/entity/Q415032>	"eletriptan"@en
+<http://www.wikidata.org/entity/Q415049>	"monobasic potassium phosphate"@en
+<http://www.wikidata.org/entity/Q412529>	"rimonabant"@en
+<http://www.wikidata.org/entity/Q415020>	"lactitol"@en
+<http://www.wikidata.org/entity/Q413634>	"vanadyl sulfate"@en
+<http://www.wikidata.org/entity/Q414013>	"carbimazole"@en
+<http://www.wikidata.org/entity/Q414028>	"meloxicam"@en
+<http://www.wikidata.org/entity/Q415343>	"Etanercept"@en
+<http://www.wikidata.org/entity/Q415366>	"tirofiban"@en
+<http://www.wikidata.org/entity/Q415378>	"lomustine"@en
+<http://www.wikidata.org/entity/Q415392>	"Omalizumab"@en
+<http://www.wikidata.org/entity/Q415238>	"tolnaftate"@en
+<http://www.wikidata.org/entity/Q415259>	"terbinafine"@en
+<http://www.wikidata.org/entity/Q415242>	"altretamine"@en
+<http://www.wikidata.org/entity/Q415588>	"carboplatin"@en
+<http://www.wikidata.org/entity/Q415401>	"dorzolamide"@en
+<http://www.wikidata.org/entity/Q415403>	"flupirtine"@en
+<http://www.wikidata.org/entity/Q415411>	"anakinra"@en
+<http://www.wikidata.org/entity/Q415433>	"naphazoline"@en
+<http://www.wikidata.org/entity/Q415571>	"Bleomycin"@en
+<http://www.wikidata.org/entity/Q415264>	"infliximab"@en
+<http://www.wikidata.org/entity/Q416132>	"betamethasone"@en
+<http://www.wikidata.org/entity/Q416199>	"artemether"@en
+<http://www.wikidata.org/entity/Q416237>	"flunarizine"@en
+<http://www.wikidata.org/entity/Q416206>	"pentamidine"@en
+<http://www.wikidata.org/entity/Q416260>	"ursolic acid"@en
+<http://www.wikidata.org/entity/Q416073>	"rifaximin"@en
+<http://www.wikidata.org/entity/Q416331>	"pentoxifylline"@en
+<http://www.wikidata.org/entity/Q416451>	"azacitidine"@en
+<http://www.wikidata.org/entity/Q416096>	"griseofulvin"@en
+<http://www.wikidata.org/entity/Q415265>	"proanthocyanidins"@en
+<http://www.wikidata.org/entity/Q415578>	"antipyrine"@en
+<http://www.wikidata.org/entity/Q415304>	"desogestrel"@en
+<http://www.wikidata.org/entity/Q415336>	"minocycline"@en
+<http://www.wikidata.org/entity/Q415970>	"candesartan"@en
+<http://www.wikidata.org/entity/Q415997>	"ketanserin"@en
+<http://www.wikidata.org/entity/Q416025>	"misoprostol"@en
+<http://www.wikidata.org/entity/Q416562>	"opipramol"@en
+<http://www.wikidata.org/entity/Q416584>	"nitrendipine"@en
+<http://www.wikidata.org/entity/Q416579>	"triclocarban"@en
+<http://www.wikidata.org/entity/Q416660>	"Vindesine"@en
+<http://www.wikidata.org/entity/Q416667>	"medroxyprogesterone"@en
+<http://www.wikidata.org/entity/Q416475>	"glutaral"@en
+<http://www.wikidata.org/entity/Q416463>	"alosetron"@en
+<http://www.wikidata.org/entity/Q416485>	"Streptokinase"@en
+<http://www.wikidata.org/entity/Q416494>	"Muromonab"@en
+<http://www.wikidata.org/entity/Q416341>	"flufenamic acid"@en
+<http://www.wikidata.org/entity/Q416370>	"iron(II) fumarate"@en
+<http://www.wikidata.org/entity/Q416431>	"diphenoxylate"@en
+<http://www.wikidata.org/entity/Q416444>	"entacapone"@en
+<http://www.wikidata.org/entity/Q415625>	"paromomycin"@en
+<http://www.wikidata.org/entity/Q416507>	"thiotepa"@en
+<http://www.wikidata.org/entity/Q415709>	"clavulanic acid"@en
+<http://www.wikidata.org/entity/Q416760>	"mepivacaine"@en
+<http://www.wikidata.org/entity/Q416821>	"Menotropins"@en
+<http://www.wikidata.org/entity/Q416791>	"cidoxepin"@en
+<http://www.wikidata.org/entity/Q416905>	"carisoprodol"@en
+<http://www.wikidata.org/entity/Q415843>	"sulfamethoxazole"@en
+<http://www.wikidata.org/entity/Q416516>	"enoxaparin sodium"@en
+<http://www.wikidata.org/entity/Q416728>	"diethylenetriamine"@en
+<http://www.wikidata.org/entity/Q416740>	"enflurane"@en
+<http://www.wikidata.org/entity/Q416701>	"(RS)-mianserin"@en
+<http://www.wikidata.org/entity/Q416950>	"levonorgestrel"@en
+<http://www.wikidata.org/entity/Q415869>	"carmustine"@en
+<http://www.wikidata.org/entity/Q415939>	"chlorambucil"@en
+<http://www.wikidata.org/entity/Q414275>	"tolbutamide"@en
+<http://www.wikidata.org/entity/Q416975>	"dacarbazine"@en
+<http://www.wikidata.org/entity/Q414501>	"piperine"@en
+<http://www.wikidata.org/entity/Q414462>	"apixaban"@en
+<http://www.wikidata.org/entity/Q414413>	"enrofloxacin"@en
+<http://www.wikidata.org/entity/Q414599>	"potassium iodate"@en
+<http://www.wikidata.org/entity/Q414626>	"sodium selenite"@en
+<http://www.wikidata.org/entity/Q417208>	"quinacrine"@en
+<http://www.wikidata.org/entity/Q417222>	"methylprednisolone"@en
+<http://www.wikidata.org/entity/Q414745>	"buserelin"@en
+<http://www.wikidata.org/entity/Q414547>	"sodium salicylate"@en
+<http://www.wikidata.org/entity/Q414754>	"apocynin"@en
+<http://www.wikidata.org/entity/Q417571>	"pyrazinamide"@en
+<http://www.wikidata.org/entity/Q417625>	"mitomycins"@en
+<http://www.wikidata.org/entity/Q417597>	"procainamide"@en
+<http://www.wikidata.org/entity/Q417640>	"ganciclovir"@en
+<http://www.wikidata.org/entity/Q417740>	"lovastatin"@en
+<http://www.wikidata.org/entity/Q417762>	"exenatide"@en
+<http://www.wikidata.org/entity/Q415734>	"aminopterin"@en
+<http://www.wikidata.org/entity/Q415739>	"cefazolin"@en
+<http://www.wikidata.org/entity/Q415744>	"riluzole"@en
+<http://www.wikidata.org/entity/Q415752>	"pergolide"@en
+<http://www.wikidata.org/entity/Q416682>	"picolinic acid"@en
+<http://www.wikidata.org/entity/Q416487>	"pentetic acid"@en
+<http://www.wikidata.org/entity/Q417813>	"oxymetazoline"@en
+<http://www.wikidata.org/entity/Q416677>	"Racecadotril"@en
+<http://www.wikidata.org/entity/Q417765>	"pioglitazone"@en
+<http://www.wikidata.org/entity/Q417902>	"remifentanil"@en
+<http://www.wikidata.org/entity/Q416510>	"Serpin family G member 1"@en
+<http://www.wikidata.org/entity/Q416554>	"dinoprostone"@en
+<http://www.wikidata.org/entity/Q417227>	"(S)-etiracetam"@en
+<http://www.wikidata.org/entity/Q416978>	"sumatriptan"@en
+<http://www.wikidata.org/entity/Q417296>	"febuxostat"@en
+<http://www.wikidata.org/entity/Q417097>	"levamisole"@en
+<http://www.wikidata.org/entity/Q417767>	"montelukast"@en
+<http://www.wikidata.org/entity/Q417317>	"insulin glargine"@en
+<http://www.wikidata.org/entity/Q415957>	"genistein"@en
+<http://www.wikidata.org/entity/Q417178>	"clomethiazole"@en
+<http://www.wikidata.org/entity/Q417141>	"(RS)-econazole"@en
+<http://www.wikidata.org/entity/Q418157>	"phentermine"@en
+<http://www.wikidata.org/entity/Q417909>	"terfenadine"@en
+<http://www.wikidata.org/entity/Q418179>	"atovaquone"@en
+<http://www.wikidata.org/entity/Q418167>	"mebeverine"@en
+<http://www.wikidata.org/entity/Q418529>	"mercaptopurine"@en
+<http://www.wikidata.org/entity/Q418546>	"aztreonam"@en
+<http://www.wikidata.org/entity/Q418192>	"bexarotene"@en
+<http://www.wikidata.org/entity/Q418560>	"ifosfamide"@en
+<http://www.wikidata.org/entity/Q418274>	"glatiramer acetate"@en
+<http://www.wikidata.org/entity/Q418201>	"cilastatin"@en
+<http://www.wikidata.org/entity/Q417542>	"sunitinib"@en
+<http://www.wikidata.org/entity/Q417555>	"teniposide"@en
+<http://www.wikidata.org/entity/Q417465>	"mitotane"@en
+<http://www.wikidata.org/entity/Q417362>	"ferulic acid"@en
+<http://www.wikidata.org/entity/Q418594>	"valacyclovir"@en
+<http://www.wikidata.org/entity/Q417489>	"pimecrolimus"@en
+<http://www.wikidata.org/entity/Q416545>	"asenapine"@en
+<http://www.wikidata.org/entity/Q418480>	"tamsulosin"@en
+<http://www.wikidata.org/entity/Q418611>	"clofazimine"@en
+<http://www.wikidata.org/entity/Q418656>	"procarbazine"@en
+<http://www.wikidata.org/entity/Q418625>	"aprotinin"@en
+<http://www.wikidata.org/entity/Q418607>	"carbendazim"@en
+<http://www.wikidata.org/entity/Q418571>	"ethacrynic acid"@en
+<http://www.wikidata.org/entity/Q418374>	"naringenin"@en
+<http://www.wikidata.org/entity/Q418386>	"triethylenetetramine"@en
+<http://www.wikidata.org/entity/Q418384>	"fisetin"@en
+<http://www.wikidata.org/entity/Q418586>	"entecavir"@en
+<http://www.wikidata.org/entity/Q418445>	"etomidate"@en
+<http://www.wikidata.org/entity/Q417915>	"sufentanil"@en
+<http://www.wikidata.org/entity/Q418508>	"cycloserine"@en
+<http://www.wikidata.org/entity/Q418523>	"niclosamide"@en
+<http://www.wikidata.org/entity/Q418011>	"mechlorethamine"@en
+<http://www.wikidata.org/entity/Q419319>	"bortezomib"@en
+<http://www.wikidata.org/entity/Q417824>	"gefitinib"@en
+<http://www.wikidata.org/entity/Q419345>	"dabigatran"@en
+<http://www.wikidata.org/entity/Q418050>	"sertindole"@en
+<http://www.wikidata.org/entity/Q419374>	"dipyridamole"@en
+<http://www.wikidata.org/entity/Q419164>	"hydroquinone"@en
+<http://www.wikidata.org/entity/Q417874>	"bisacodyl"@en
+<http://www.wikidata.org/entity/Q419383>	"desflurane"@en
+<http://www.wikidata.org/entity/Q419215>	"strontium ranelate"@en
+<http://www.wikidata.org/entity/Q419170>	"iron(III) oxide"@en
+<http://www.wikidata.org/entity/Q419394>	"sevoflurane"@en
+<http://www.wikidata.org/entity/Q417775>	"Panitumumab"@en
+<http://www.wikidata.org/entity/Q418669>	"flutamide"@en
+<http://www.wikidata.org/entity/Q418702>	"Basiliximab"@en
+<http://www.wikidata.org/entity/Q418705>	"glycyrrhizin"@en
+<http://www.wikidata.org/entity/Q418725>	"oxacillin"@en
+<http://www.wikidata.org/entity/Q418730>	"clomiphene"@en
+<http://www.wikidata.org/entity/Q418666>	"tranexamic acid"@en
+<http://www.wikidata.org/entity/Q420436>	"docetaxel"@en
+<http://www.wikidata.org/entity/Q419964>	"camptothecin"@en
+<http://www.wikidata.org/entity/Q420439>	"dimenhydrinate"@en
+<http://www.wikidata.org/entity/Q420454>	"proflavine"@en
+<http://www.wikidata.org/entity/Q420532>	"vinorelbine"@en
+<http://www.wikidata.org/entity/Q419977>	"GIP"@en
+<http://www.wikidata.org/entity/Q419940>	"dasatinib"@en
+<http://www.wikidata.org/entity/Q417897>	"norfloxacin"@en
+<http://www.wikidata.org/entity/Q417884>	"Cyproheptadine"@en
+<http://www.wikidata.org/entity/Q419944>	"moxonidine"@en
+<http://www.wikidata.org/entity/Q419948>	"torasemide"@en
+<http://www.wikidata.org/entity/Q419953>	"topotecan"@en
+<http://www.wikidata.org/entity/Q420207>	"capecitabine"@en
+<http://www.wikidata.org/entity/Q417942>	"fluvastatin"@en
+<http://www.wikidata.org/entity/Q417968>	"cefotaxime"@en
+<http://www.wikidata.org/entity/Q417948>	"chlortetracycline"@en
+<http://www.wikidata.org/entity/Q419503>	"aluminum phosphate"@en
+<http://www.wikidata.org/entity/Q417997>	"ezetimibe"@en
+<http://www.wikidata.org/entity/Q420296>	"cetuximab"@en
+<http://www.wikidata.org/entity/Q420305>	"Ustekinumab"@en
+<http://www.wikidata.org/entity/Q420323>	"lapatinib"@en
+<http://www.wikidata.org/entity/Q418006>	"Colestyramine"@en
+<http://www.wikidata.org/entity/Q420542>	"ticagrelor"@en
+<http://www.wikidata.org/entity/Q420553>	"mycophenolic acid"@en
+<http://www.wikidata.org/entity/Q420571>	"ticlopidine"@en
+<http://www.wikidata.org/entity/Q420586>	"celiprolol"@en
+<http://www.wikidata.org/entity/Q420590>	"ropinirol"@en
+<http://www.wikidata.org/entity/Q420595>	"tigecycline"@en
+<http://www.wikidata.org/entity/Q418060>	"desloratadine"@en
+<http://www.wikidata.org/entity/Q418747>	"(2R)-daptomycin"@en
+<http://www.wikidata.org/entity/Q420626>	"glyburide"@en
+<http://www.wikidata.org/entity/Q419608>	"tetracaine"@en
+<http://www.wikidata.org/entity/Q418101>	"pindolol"@en
+<http://www.wikidata.org/entity/Q418086>	"amdinocillin pivoxil"@en
+<http://www.wikidata.org/entity/Q418123>	"dimethyl fumarate"@en
+<http://www.wikidata.org/entity/Q419028>	"chenodiol"@en
+<http://www.wikidata.org/entity/Q418817>	"etoposide"@en
+<http://www.wikidata.org/entity/Q418785>	"(RS)-amisulpride"@en
+<http://www.wikidata.org/entity/Q418130>	"nebivolol"@en
+<http://www.wikidata.org/entity/Q420288>	"vinpocetine"@en
+<http://www.wikidata.org/entity/Q420228>	"nonivamide"@en
+<http://www.wikidata.org/entity/Q419618>	"deferoxamine"@en
+<http://www.wikidata.org/entity/Q419059>	"bethanechol"@en
+<http://www.wikidata.org/entity/Q419079>	"nabilone"@en
+<http://www.wikidata.org/entity/Q418139>	"esmolol"@en
+<http://www.wikidata.org/entity/Q418153>	"2,5-diketopiperazines"@en
+<http://www.wikidata.org/entity/Q418145>	"clemastine"@en
+<http://www.wikidata.org/entity/Q419646>	"drospirenone"@en
+<http://www.wikidata.org/entity/Q420360>	"phentolamine"@en
+<http://www.wikidata.org/entity/Q419143>	"anastrozole"@en
+<http://www.wikidata.org/entity/Q419834>	"(RS)-primaquine"@en
+<http://www.wikidata.org/entity/Q419820>	"azelastine"@en
+<http://www.wikidata.org/entity/Q420394>	"sucralfate"@en
+<http://www.wikidata.org/entity/Q420387>	"foscarnet"@en
+<http://www.wikidata.org/entity/Q420695>	"chloramine T"@en
+<http://www.wikidata.org/entity/Q420705>	"crystal violet"@en
+<http://www.wikidata.org/entity/Q420685>	"rasagiline"@en
+<http://www.wikidata.org/entity/Q420859>	"oxandrolone"@en
+<http://www.wikidata.org/entity/Q420875>	"Caspofungin"@en
+<http://www.wikidata.org/entity/Q420031>	"Nitroprusside"@en
+<http://www.wikidata.org/entity/Q420035>	"sulfasalazine"@en
+<http://www.wikidata.org/entity/Q420885>	"tranylcypromine"@en
+<http://www.wikidata.org/entity/Q421042>	"vildagliptin"@en
+<http://www.wikidata.org/entity/Q420984>	"silver sulfadiazine"@en
+<http://www.wikidata.org/entity/Q420039>	"Nonoxynol-9"@en
+<http://www.wikidata.org/entity/Q421052>	"everolimus"@en
+<http://www.wikidata.org/entity/Q420056>	"Peginterferon alfa-2a"@en
+<http://www.wikidata.org/entity/Q419401>	"carbachol"@en
+<http://www.wikidata.org/entity/Q419468>	"ciclopirox"@en
+<http://www.wikidata.org/entity/Q419421>	"Tyrothricin"@en
+<http://www.wikidata.org/entity/Q419415>	"simethicone"@en
+<http://www.wikidata.org/entity/Q420607>	"proguanil"@en
+<http://www.wikidata.org/entity/Q420644>	"felodipine"@en
+<http://www.wikidata.org/entity/Q420682>	"guaifenesin"@en
+<http://www.wikidata.org/entity/Q418922>	"urapidil"@en
+<http://www.wikidata.org/entity/Q418913>	"armodafinil"@en
+<http://www.wikidata.org/entity/Q418946>	"Colistin"@en
+<http://www.wikidata.org/entity/Q418928>	"(RS)-fenfluramine"@en
+<http://www.wikidata.org/entity/Q418957>	"pyridoxal phosphate"@en
+<http://www.wikidata.org/entity/Q421547>	"rilpivirine"@en
+<http://www.wikidata.org/entity/Q418970>	"(RS,RS)-reboxetine"@en
+<http://www.wikidata.org/entity/Q419008>	"pemoline"@en
+<http://www.wikidata.org/entity/Q418980>	"Gramicidin D"@en
+<http://www.wikidata.org/entity/Q419849>	"Fludeoxyglucose (18F)"@en
+<http://www.wikidata.org/entity/Q419861>	"Bromodeoxyuridine"@en
+<http://www.wikidata.org/entity/Q419890>	"(+-)-flurbiprofen"@en
+<http://www.wikidata.org/entity/Q421567>	"ethosuximide"@en
+<http://www.wikidata.org/entity/Q421614>	"caryophyllene"@en
+<http://www.wikidata.org/entity/Q421663>	"vigabatrin"@en
+<http://www.wikidata.org/entity/Q421910>	"phenylephrine"@en
+<http://www.wikidata.org/entity/Q419987>	"hydralazine"@en
+<http://www.wikidata.org/entity/Q421862>	"ribavirin"@en
+<http://www.wikidata.org/entity/Q421873>	"erythritol"@en
+<http://www.wikidata.org/entity/Q419921>	"tripotassium citrate"@en
+<http://www.wikidata.org/entity/Q419995>	"amiloride"@en
+<http://www.wikidata.org/entity/Q421905>	"lobeline"@en
+<http://www.wikidata.org/entity/Q419935>	"octreotide"@en
+<http://www.wikidata.org/entity/Q422212>	"budesonide"@en
+<http://www.wikidata.org/entity/Q418819>	"exemestane"@en
+<http://www.wikidata.org/entity/Q420164>	"alemtuzumab"@en
+<http://www.wikidata.org/entity/Q421091>	"levocetirizine"@en
+<http://www.wikidata.org/entity/Q418857>	"acebutolol"@en
+<http://www.wikidata.org/entity/Q419652>	"danazol"@en
+<http://www.wikidata.org/entity/Q419663>	"methimazole"@en
+<http://www.wikidata.org/entity/Q420186>	"famciclovir"@en
+<http://www.wikidata.org/entity/Q419769>	"bosentan"@en
+<http://www.wikidata.org/entity/Q421094>	"hydroxychloroquine"@en
+<http://www.wikidata.org/entity/Q419739>	"triclabendazole"@en
+<http://www.wikidata.org/entity/Q419753>	"melarsoprol"@en
+<http://www.wikidata.org/entity/Q422112>	"methylphenidate"@en
+<http://www.wikidata.org/entity/Q420188>	"fenoterol"@en
+<http://www.wikidata.org/entity/Q419772>	"Policosanol"@en
+<http://www.wikidata.org/entity/Q419841>	"(3aS)-palonosetron"@en
+<http://www.wikidata.org/entity/Q420077>	"lacosamide"@en
+<http://www.wikidata.org/entity/Q421670>	"meropenem"@en
+<http://www.wikidata.org/entity/Q420098>	"imidacloprid"@en
+<http://www.wikidata.org/entity/Q420113>	"ethyl cellulose"@en
+<http://www.wikidata.org/entity/Q420133>	"chlorpheniramine"@en
+<http://www.wikidata.org/entity/Q421768>	"methyltestosterone"@en
+<http://www.wikidata.org/entity/Q421695>	"benfluorex"@en
+<http://www.wikidata.org/entity/Q422134>	"methylene blue"@en
+<http://www.wikidata.org/entity/Q421709>	"nandrolone"@en
+<http://www.wikidata.org/entity/Q421857>	"aluminum sulfate"@en
+<http://www.wikidata.org/entity/Q421713>	"ceftriaxone"@en
+<http://www.wikidata.org/entity/Q419926>	"tiaprofenic acid"@en
+<http://www.wikidata.org/entity/Q419939>	"doxazosin"@en
+<http://www.wikidata.org/entity/Q422327>	"oxaliplatin"@en
+<http://www.wikidata.org/entity/Q421058>	"Milnacipran"@en
+<http://www.wikidata.org/entity/Q421072>	"pyrimethamine"@en
+<http://www.wikidata.org/entity/Q422232>	"methotrexate"@en
+<http://www.wikidata.org/entity/Q421076>	"tacrine"@en
+<http://www.wikidata.org/entity/Q421534>	"asparaginase"@en
+<http://www.wikidata.org/entity/Q422222>	"digoxin"@en
+<http://www.wikidata.org/entity/Q421095>	"metoclopramide"@en
+<http://www.wikidata.org/entity/Q422438>	"chloroquine"@en
+<http://www.wikidata.org/entity/Q421119>	"captopril"@en
+<http://www.wikidata.org/entity/Q422442>	"doxycycline"@en
+<http://www.wikidata.org/entity/Q421136>	"sorafenib"@en
+<http://www.wikidata.org/entity/Q421156>	"olmesartan"@en
+<http://www.wikidata.org/entity/Q422585>	"lopinavir"@en
+<http://www.wikidata.org/entity/Q421193>	"podofilox"@en
+<http://www.wikidata.org/entity/Q421162>	"bifonazole"@en
+<http://www.wikidata.org/entity/Q422482>	"gentamicin"@en
+<http://www.wikidata.org/entity/Q422194>	"mebendazole"@en
+<http://www.wikidata.org/entity/Q422604>	"emtricitabine"@en
+<http://www.wikidata.org/entity/Q422652>	"rifampicin"@en
+<http://www.wikidata.org/entity/Q421352>	"norethindrone"@en
+<http://www.wikidata.org/entity/Q421369>	"maraviroc"@en
+<http://www.wikidata.org/entity/Q422423>	"bromide"@en
+<http://www.wikidata.org/entity/Q421429>	"nimodipine"@en
+<http://www.wikidata.org/entity/Q421375>	"dinoprost"@en
+<http://www.wikidata.org/entity/Q421274>	"dantrolene"@en
+<http://www.wikidata.org/entity/Q421230>	"auranofin"@en
+<http://www.wikidata.org/entity/Q421239>	"D-penicillamine"@en
+<http://www.wikidata.org/entity/Q421291>	"iron(II) gluconate"@en
+<http://www.wikidata.org/entity/Q421304>	"pramipexole"@en
+<http://www.wikidata.org/entity/Q421920>	"flumazenil"@en
+<http://www.wikidata.org/entity/Q421930>	"mirtazapine"@en
+<http://www.wikidata.org/entity/Q421937>	"(RS)-hydroxyzine"@en
+<http://www.wikidata.org/entity/Q422806>	"(RS)-bupivacaine"@en
+<http://www.wikidata.org/entity/Q422080>	"chlorine dioxide"@en
+<http://www.wikidata.org/entity/Q421951>	"kanamycin (extract)"@en
+<http://www.wikidata.org/entity/Q422092>	"alginic acid"@en
+<http://www.wikidata.org/entity/Q422226>	"dapsone"@en
+<http://www.wikidata.org/entity/Q422229>	"diltiazem"@en
+<http://www.wikidata.org/entity/Q422543>	"corticosterone"@en
+<http://www.wikidata.org/entity/Q422219>	"cloxacillin"@en
+<http://www.wikidata.org/entity/Q422215>	"penicillin v"@en
+<http://www.wikidata.org/entity/Q422244>	"fluoxetine"@en
+<http://www.wikidata.org/entity/Q422618>	"ritonavir"@en
+<http://www.wikidata.org/entity/Q422606>	"didanosine"@en
+<http://www.wikidata.org/entity/Q422665>	"trimethoprim"@en
+<http://www.wikidata.org/entity/Q422654>	"saquinavir"@en
+<http://www.wikidata.org/entity/Q423762>	"paclitaxel"@en
+<http://www.wikidata.org/entity/Q422669>	"nitrofurantoin"@en
+<http://www.wikidata.org/entity/Q422613>	"capric acid"@en
+<http://www.wikidata.org/entity/Q422689>	"β-lactulose"@en
+<http://www.wikidata.org/entity/Q422740>	"propofol"@en
+<http://www.wikidata.org/entity/Q422970>	"promethazine"@en
+<http://www.wikidata.org/entity/Q423746>	"pyridoxine"@en
+<http://www.wikidata.org/entity/Q421315>	"naratriptan"@en
+<http://www.wikidata.org/entity/Q421308>	"CDP-choline (1+)"@en
+<http://www.wikidata.org/entity/Q423741>	"procaine"@en
+<http://www.wikidata.org/entity/Q421320>	"Ionomycin calcium salt"@en
+<http://www.wikidata.org/entity/Q421322>	"atosiban"@en
+<http://www.wikidata.org/entity/Q421351>	"oxedrine"@en
+<http://www.wikidata.org/entity/Q421336>	"dihydroergotamine"@en
+<http://www.wikidata.org/entity/Q423751>	"loperamide"@en
+<http://www.wikidata.org/entity/Q423408>	"L-carbocysteine"@en
+<http://www.wikidata.org/entity/Q423404>	"Tipranavir"@en
+<http://www.wikidata.org/entity/Q423417>	"imiquimod"@en
+<http://www.wikidata.org/entity/Q423071>	"midazolam"@en
+<http://www.wikidata.org/entity/Q423111>	"vemurafenib"@en
+<http://www.wikidata.org/entity/Q423393>	"sulbactam"@en
+<http://www.wikidata.org/entity/Q423401>	"isosorbide mononitrate"@en
+<http://www.wikidata.org/entity/Q423075>	"cetirizine"@en
+<http://www.wikidata.org/entity/Q422631>	"lamivudine"@en
+<http://www.wikidata.org/entity/Q422645>	"efavirenz"@en
+<http://www.wikidata.org/entity/Q422745>	"benzocaine"@en
+<http://www.wikidata.org/entity/Q422782>	"(RS)-dobutamine"@en
+<http://www.wikidata.org/entity/Q422252>	"dexamethasone"@en
+<http://www.wikidata.org/entity/Q422273>	"clindamycin"@en
+<http://www.wikidata.org/entity/Q423005>	"malathion"@en
+<http://www.wikidata.org/entity/Q423029>	"norflurane"@en
+<http://www.wikidata.org/entity/Q423364>	"propranolol"@en
+<http://www.wikidata.org/entity/Q423369>	"josamycin"@en
+<http://www.wikidata.org/entity/Q423366>	"nelfinavir"@en
+<http://www.wikidata.org/entity/Q423376>	"tazobactam"@en
+<http://www.wikidata.org/entity/Q423380>	"oxymorphone"@en
+<http://www.wikidata.org/entity/Q423384>	"valganciclovir"@en
+<http://www.wikidata.org/entity/Q423390>	"doxylamine"@en
+<http://www.wikidata.org/entity/Q423428>	"lincomycin"@en
+<http://www.wikidata.org/entity/Q423445>	"cidofovir"@en
+<http://www.wikidata.org/entity/Q423498>	"trimipramine"@en
+<http://www.wikidata.org/entity/Q423520>	"perphenazine"@en
+<http://www.wikidata.org/entity/Q423538>	"tizanidine"@en
+<http://www.wikidata.org/entity/Q423169>	"isoniazid"@en
+<http://www.wikidata.org/entity/Q423765>	"polymyxins"@en
+<http://www.wikidata.org/entity/Q423787>	"piperacillin"@en
+<http://www.wikidata.org/entity/Q424972>	"prednisone"@en
+<http://www.wikidata.org/entity/Q423185>	"cortisone"@en
+<http://www.wikidata.org/entity/Q423288>	"desipramine"@en
+<http://www.wikidata.org/entity/Q423285>	"kallikreins"@en
+<http://www.wikidata.org/entity/Q423308>	"cabergoline"@en
+<http://www.wikidata.org/entity/Q423327>	"enfuvirtide"@en
+<http://www.wikidata.org/entity/Q423314>	"amitrole"@en
+<http://www.wikidata.org/entity/Q423357>	"eugenol"@en
+<http://www.wikidata.org/entity/Q424156>	"tadalafil"@en
+<http://www.wikidata.org/entity/Q424163>	"orlistat"@en
+<http://www.wikidata.org/entity/Q425681>	"(RS)-lenalidomide"@en
+<http://www.wikidata.org/entity/Q424165>	"minoxidil"@en
+<http://www.wikidata.org/entity/Q424167>	"finasteride"@en
+<http://www.wikidata.org/entity/Q424027>	"vancomycin"@en
+<http://www.wikidata.org/entity/Q424037>	"roxithromycin"@en
+<http://www.wikidata.org/entity/Q424049>	"loratadine"@en
+<http://www.wikidata.org/entity/Q424193>	"levofloxacin"@en
+<http://www.wikidata.org/entity/Q425122>	"epirubicin"@en
+<http://www.wikidata.org/entity/Q424057>	"Sipuleucel-T"@en
+<http://www.wikidata.org/entity/Q424145>	"praziquantel"@en
+<http://www.wikidata.org/entity/Q425152>	"imipen"@en
+<http://www.wikidata.org/entity/Q424151>	"sibutramine"@en
+<http://www.wikidata.org/entity/Q425154>	"tocilizumab"@en
+<http://www.wikidata.org/entity/Q425289>	"chlorthalidone"@en
+<http://www.wikidata.org/entity/Q425296>	"prazosin"@en
+<http://www.wikidata.org/entity/Q425286>	"troclosene"@en
+<http://www.wikidata.org/entity/Q425207>	"nabumetone"@en
+<http://www.wikidata.org/entity/Q425198>	"huperzine A"@en
+<http://www.wikidata.org/entity/Q425293>	"Fosinopril"@en
+<http://www.wikidata.org/entity/Q424446>	"lisuride"@en
+<http://www.wikidata.org/entity/Q424477>	"methylergonovine"@en
+<http://www.wikidata.org/entity/Q424489>	"(+/-)-sulforaphane"@en
+<http://www.wikidata.org/entity/Q424508>	"ergonovine"@en
+<http://www.wikidata.org/entity/Q424551>	"sodium ascorbate"@en
+<http://www.wikidata.org/entity/Q424611>	"glucagon-like peptide-1"@en
+<http://www.wikidata.org/entity/Q424760>	"dutasteride"@en
+<http://www.wikidata.org/entity/Q424771>	"rosiglitazone"@en
+<http://www.wikidata.org/entity/Q424869>	"mocetinostat"@en
+<http://www.wikidata.org/entity/Q424940>	"moxifloxacin"@en
+<http://www.wikidata.org/entity/Q425490>	"indinavir"@en
+<http://www.wikidata.org/entity/Q423804>	"Eplerenone"@en
+<http://www.wikidata.org/entity/Q423809>	"(E)-chlorprothixene"@en
+<http://www.wikidata.org/entity/Q423814>	"meso-2,3-dimercaptosuccinic acid"@en
+<http://www.wikidata.org/entity/Q423842>	"dimethyl sulfone"@en
+<http://www.wikidata.org/entity/Q423890>	"digitoxin"@en
+<http://www.wikidata.org/entity/Q423922>	"pentachlorophenol"@en
+<http://www.wikidata.org/entity/Q425680>	"deoxycholic acid"@en
+<http://www.wikidata.org/entity/Q425665>	"immunotoxin"@en
+<http://www.wikidata.org/entity/Q423930>	"hydrochlorothiazide"@en
+<http://www.wikidata.org/entity/Q424976>	"retinol"@en
+<http://www.wikidata.org/entity/Q425502>	"nitrofurazone"@en
+<http://www.wikidata.org/entity/Q426203>	"tezosentan"@en
+<http://www.wikidata.org/entity/Q426401>	"eperisone"@en
+<http://www.wikidata.org/entity/Q426460>	"chloroxylenol"@en
+<http://www.wikidata.org/entity/Q426605>	"nadifloxacin"@en
+<http://www.wikidata.org/entity/Q426846>	"pancreatin"@en
+<http://www.wikidata.org/entity/Q426897>	"pyrantel"@en
+<http://www.wikidata.org/entity/Q427419>	"tocotrienol"@en
+<http://www.wikidata.org/entity/Q425702>	"silibinin A"@en
+<http://www.wikidata.org/entity/Q424952>	"nadolol"@en
+<http://www.wikidata.org/entity/Q425881>	"moxaverine"@en
+<http://www.wikidata.org/entity/Q425894>	"trichostatin A"@en
+<http://www.wikidata.org/entity/Q425887>	"doxofylline"@en
+<http://www.wikidata.org/entity/Q425911>	"miglustat"@en
+<http://www.wikidata.org/entity/Q426185>	"cyproterone acetate"@en
+<http://www.wikidata.org/entity/Q425946>	"suramin"@en
+<http://www.wikidata.org/entity/Q426070>	"dimethindene"@en
+<http://www.wikidata.org/entity/Q552308>	"eye drop"@en
+<http://www.wikidata.org/entity/Q553220>	"ertapenem"@en
+<http://www.wikidata.org/entity/Q553161>	"azimilide"@en
+<http://www.wikidata.org/entity/Q560542>	"cosyntropin"@en
+<http://www.wikidata.org/entity/Q553129>	"Evacetrapib"@en
+<http://www.wikidata.org/entity/Q425362>	"hexachlorophene"@en
+<http://www.wikidata.org/entity/Q425409>	"hypericin"@en
+<http://www.wikidata.org/entity/Q425386>	"dyclonine"@en
+<http://www.wikidata.org/entity/Q423971>	"sodium benzoate"@en
+<http://www.wikidata.org/entity/Q425470>	"pentostatin"@en
+<http://www.wikidata.org/entity/Q423960>	"provitamin"@en
+<http://www.wikidata.org/entity/Q574820>	"antiandrogen"@en
+<http://www.wikidata.org/entity/Q425300>	"benznidazole"@en
+<http://www.wikidata.org/entity/Q423984>	"stavudine"@en
+<http://www.wikidata.org/entity/Q423989>	"diethylstilbestrol"@en
+<http://www.wikidata.org/entity/Q424997>	"mesna"@en
+<http://www.wikidata.org/entity/Q424319>	"bacitracin a"@en
+<http://www.wikidata.org/entity/Q424260>	"tianeptine"@en
+<http://www.wikidata.org/entity/Q424340>	"terbutaline"@en
+<http://www.wikidata.org/entity/Q424378>	"succinylcholine"@en
+<http://www.wikidata.org/entity/Q424372>	"daminozide"@en
+<http://www.wikidata.org/entity/Q424412>	"benperidol"@en
+<http://www.wikidata.org/entity/Q425027>	"glimepiride"@en
+<http://www.wikidata.org/entity/Q729213>	"nicardipine"@en
+<http://www.wikidata.org/entity/Q732234>	"fluprednisolone"@en
+<http://www.wikidata.org/entity/Q733186>	"telmisartan"@en
+<http://www.wikidata.org/entity/Q736270>	"Mefloquine"@en
+<http://www.wikidata.org/entity/Q736113>	"difluprednate"@en
+<http://www.wikidata.org/entity/Q425088>	"temozolomide"@en
+<http://www.wikidata.org/entity/Q574834>	"angiogenesis inhibitor"@en
+<http://www.wikidata.org/entity/Q575222>	"antifibrinolytic"@en
+<http://www.wikidata.org/entity/Q575890>	"antihypertensive drug"@en
+<http://www.wikidata.org/entity/Q576104>	"neonate"@en
+<http://www.wikidata.org/entity/Q577387>	"bezafibrate"@en
+<http://www.wikidata.org/entity/Q576618>	"anticonvulsant agent"@en
+<http://www.wikidata.org/entity/Q579348>	"alprostadil"@en
+<http://www.wikidata.org/entity/Q592802>	"benazepril"@en
+<http://www.wikidata.org/entity/Q582356>	"Interferon gamma-1b"@en
+<http://www.wikidata.org/entity/Q582556>	"lafutidine"@en
+<http://www.wikidata.org/entity/Q937224>	"dolutegravir"@en
+<http://www.wikidata.org/entity/Q471763>	"aminophylline"@en
+<http://www.wikidata.org/entity/Q749664>	"deferiprone"@en
+<http://www.wikidata.org/entity/Q749244>	"Edrecolomab"@en
+<http://www.wikidata.org/entity/Q737743>	"doxapram"@en
+<http://www.wikidata.org/entity/Q738452>	"Milbemycin oxime"@en
+<http://www.wikidata.org/entity/Q483745>	"L-leucine"@en
+<http://www.wikidata.org/entity/Q474191>	"diet"@en
+<http://www.wikidata.org/entity/Q481822>	"acetohydroxamic acid"@en
+<http://www.wikidata.org/entity/Q782318>	"Verteporfin"@en
+<http://www.wikidata.org/entity/Q772735>	"miglitol"@en
+<http://www.wikidata.org/entity/Q771975>	"antazoline"@en
+<http://www.wikidata.org/entity/Q779118>	"deflazacort"@en
+<http://www.wikidata.org/entity/Q784717>	"eprosartan"@en
+<http://www.wikidata.org/entity/Q944073>	"Listerine"@en
+<http://www.wikidata.org/entity/Q798309>	"BCG vaccine"@en
+<http://www.wikidata.org/entity/Q593166>	"(±)-molindone"@en
+<http://www.wikidata.org/entity/Q596022>	"quinapril"@en
+<http://www.wikidata.org/entity/Q596708>	"granisetron"@en
+<http://www.wikidata.org/entity/Q599052>	"(RS)-nefopam"@en
+<http://www.wikidata.org/entity/Q510113>	"Rubitecan"@en
+<http://www.wikidata.org/entity/Q904153>	"sevelamer"@en
+<http://www.wikidata.org/entity/Q600203>	"dopamine agonists"@en
+<http://www.wikidata.org/entity/Q600867>	"proparacaine"@en
+<http://www.wikidata.org/entity/Q617563>	"cysteamine"@en
+<http://www.wikidata.org/entity/Q524995>	"dexrazoxane"@en
+<http://www.wikidata.org/entity/Q607349>	"fluorometholone"@en
+<http://www.wikidata.org/entity/Q608726>	"propyl gallate"@en
+<http://www.wikidata.org/entity/Q514534>	"encainide"@en
+<http://www.wikidata.org/entity/Q521616>	"antimalarial"@en
+<http://www.wikidata.org/entity/Q531507>	"micronutrients"@en
+<http://www.wikidata.org/entity/Q904321>	"propiverine"@en
+<http://www.wikidata.org/entity/Q904464>	"lumefantrine"@en
+<http://www.wikidata.org/entity/Q634959>	"latanoprost"@en
+<http://www.wikidata.org/entity/Q907160>	"leuprolide"@en
+<http://www.wikidata.org/entity/Q909745>	"linagliptin"@en
+<http://www.wikidata.org/entity/Q905901>	"vorinostat"@en
+<http://www.wikidata.org/entity/Q907853>	"droxidopa"@en
+<http://www.wikidata.org/entity/Q907219>	"tiagabine"@en
+<http://www.wikidata.org/entity/Q620730>	"glycine"@en
+<http://www.wikidata.org/entity/Q945537>	"tofisopam"@en
+<http://www.wikidata.org/entity/Q908790>	"edotreotide"@en
+<http://www.wikidata.org/entity/Q621834>	"aprepitant"@en
+<http://www.wikidata.org/entity/Q947266>	"irbesartan"@en
+<http://www.wikidata.org/entity/Q427523>	"opioid"@en
+<http://www.wikidata.org/entity/Q909808>	"creosote"@en
+<http://www.wikidata.org/entity/Q627499>	"pamidronic acid"@en
+<http://www.wikidata.org/entity/Q627524>	"Freund's adjuvant"@en
+<http://www.wikidata.org/entity/Q910277>	"tocopherol"@en
+<http://www.wikidata.org/entity/Q827658>	"sunscreen"@en
+<http://www.wikidata.org/entity/Q631202>	"etoricoxib"@en
+<http://www.wikidata.org/entity/Q1002165>	"fluticasone"@en
+<http://www.wikidata.org/entity/Q830382>	"best practice"@en
+<http://www.wikidata.org/entity/Q831929>	"drotaverine"@en
+<http://www.wikidata.org/entity/Q834280>	"bupropion"@en
+<http://www.wikidata.org/entity/Q904647>	"dexetimide"@en
+<http://www.wikidata.org/entity/Q1044248>	"mometasone furoate"@en
+<http://www.wikidata.org/entity/Q1041804>	"imidapril"@en
+<http://www.wikidata.org/entity/Q1003185>	"fosfestrol"@en
+<http://www.wikidata.org/entity/Q668093>	"atorvastatin"@en
+<http://www.wikidata.org/entity/Q847399>	"milrinone"@en
+<http://www.wikidata.org/entity/Q836952>	"magnesium trisilicate"@en
+<http://www.wikidata.org/entity/Q848264>	"flavoxate"@en
+<http://www.wikidata.org/entity/Q430719>	"decongestant"@en
+<http://www.wikidata.org/entity/Q707939>	"artesunate"@en
+<http://www.wikidata.org/entity/Q433751>	"ATC code A04"@en
+<http://www.wikidata.org/entity/Q854263>	"trioxsalen"@en
+<http://www.wikidata.org/entity/Q684379>	"nepafenac"@en
+<http://www.wikidata.org/entity/Q670131>	"simvastatin"@en
+<http://www.wikidata.org/entity/Q674703>	"trimetazidine"@en
+<http://www.wikidata.org/entity/Q433950>	"ATC code D04"@en
+<http://www.wikidata.org/entity/Q850074>	"brotizolam"@en
+<http://www.wikidata.org/entity/Q850729>	"butenafine"@en
+<http://www.wikidata.org/entity/Q905750>	"nitrous oxide"@en
+<http://www.wikidata.org/entity/Q905952>	"dipivefrin"@en
+<http://www.wikidata.org/entity/Q905905>	"Neuromodulation"@en
+<http://www.wikidata.org/entity/Q544393>	"Trovafloxacin"@en
+<http://www.wikidata.org/entity/Q546434>	"carteolol"@en
+<http://www.wikidata.org/entity/Q545234>	"Tocolytic,uterine relaxants"@en
+<http://www.wikidata.org/entity/Q906453>	"posaconazole"@en
+<http://www.wikidata.org/entity/Q906415>	"tyrosine-kinase inhibitor"@en
+<http://www.wikidata.org/entity/Q906351>	"triptolide"@en
+<http://www.wikidata.org/entity/Q907104>	"ranolazine"@en
+<http://www.wikidata.org/entity/Q908013>	"fenbendazole"@en
+<http://www.wikidata.org/entity/Q908096>	"opioid antagonist"@en
+<http://www.wikidata.org/entity/Q907480>	"iclaprim"@en
+<http://www.wikidata.org/entity/Q907313>	"trilostane"@en
+<http://www.wikidata.org/entity/Q907623>	"nimustine"@en
+<http://www.wikidata.org/entity/Q947595>	"halofantrine"@en
+<http://www.wikidata.org/entity/Q954845>	"statin"@en
+<http://www.wikidata.org/entity/Q695611>	"amlexanox"@en
+<http://www.wikidata.org/entity/Q905783>	"istradefylline"@en
+<http://www.wikidata.org/entity/Q905835>	"plerixafor"@en
+<http://www.wikidata.org/entity/Q793143>	"benzydamine"@en
+<http://www.wikidata.org/entity/Q721432>	"platelet aggregation inhibitors"@en
+<http://www.wikidata.org/entity/Q794162>	"betaxolol"@en
+<http://www.wikidata.org/entity/Q900898>	"probenecid"@en
+<http://www.wikidata.org/entity/Q862989>	"nicorandil"@en
+<http://www.wikidata.org/entity/Q718113>	"weight loss"@en
+<http://www.wikidata.org/entity/Q720356>	"rhein"@en
+<http://www.wikidata.org/entity/Q891968>	"Nabiximols"@en
+<http://www.wikidata.org/entity/Q958087>	"labetalol"@en
+<http://www.wikidata.org/entity/Q902379>	"icatibant"@en
+<http://www.wikidata.org/entity/Q867350>	"cilazapril"@en
+<http://www.wikidata.org/entity/Q871349>	"vasotocin"@en
+<http://www.wikidata.org/entity/Q903322>	"levulinic acid"@en
+<http://www.wikidata.org/entity/Q866657>	"protionamide"@en
+<http://www.wikidata.org/entity/Q867332>	"(RS)-cyclopentolate"@en
+<http://www.wikidata.org/entity/Q904308>	"mestranol"@en
+<http://www.wikidata.org/entity/Q967453>	"immunologic adjuvant"@en
+<http://www.wikidata.org/entity/Q961081>	"Troxerutin"@en
+<http://www.wikidata.org/entity/Q963406>	"Cimetropium bromide"@en
+<http://www.wikidata.org/entity/Q963093>	"sulindac"@en
+<http://www.wikidata.org/entity/Q966412>	"Galiximab"@en
+<http://www.wikidata.org/entity/Q904011>	"desonide"@en
+<http://www.wikidata.org/entity/Q904071>	"moricizine"@en
+<http://www.wikidata.org/entity/Q808845>	"ceftazidime"@en
+<http://www.wikidata.org/entity/Q799775>	"bafetinib"@en
+<http://www.wikidata.org/entity/Q905038>	"fosmidomycin"@en
+<http://www.wikidata.org/entity/Q905664>	"sitaxentan"@en
+<http://www.wikidata.org/entity/Q810254>	"disease-modifying antirheumatic drug"@en
+<http://www.wikidata.org/entity/Q816759>	"beta blocker"@en
+<http://www.wikidata.org/entity/Q818165>	"benserazide"@en
+<http://www.wikidata.org/entity/Q818513>	"benzenesulfonamide"@en
+<http://www.wikidata.org/entity/Q821641>	"metyrapone"@en
+<http://www.wikidata.org/entity/Q909194>	"inhalational anaesthetic"@en
+<http://www.wikidata.org/entity/Q909353>	"tulobuterol"@en
+<http://www.wikidata.org/entity/Q1057705>	"cethromycin"@en
+<http://www.wikidata.org/entity/Q1052672>	"cefpodoxime proxetil"@en
+<http://www.wikidata.org/entity/Q1060922>	"(RS)-oxybutynin"@en
+<http://www.wikidata.org/entity/Q1063862>	"idarubicin"@en
+<http://www.wikidata.org/entity/Q1747559>	"phenelzine"@en
+<http://www.wikidata.org/entity/Q1728148>	"milbemycin"@en
+<http://www.wikidata.org/entity/Q1747785>	"non-opioid analgesic"@en
+<http://www.wikidata.org/entity/Q433885>	"ATC code C03"@en
+<http://www.wikidata.org/entity/Q457239>	"petroleum jelly"@en
+<http://www.wikidata.org/entity/Q1078392>	"indapamide"@en
+<http://www.wikidata.org/entity/Q632405>	"(RS)-epinastine"@en
+<http://www.wikidata.org/entity/Q1087888>	"azilsartan medoxomil"@en
+<http://www.wikidata.org/entity/Q1088175>	"polymyxin B"@en
+<http://www.wikidata.org/entity/Q1082945>	"ceftizoxime"@en
+<http://www.wikidata.org/entity/Q917803>	"(S)-AMPA"@en
+<http://www.wikidata.org/entity/Q924467>	"fluocinolone acetonide"@en
+<http://www.wikidata.org/entity/Q481757>	"aceclofenac"@en
+<http://www.wikidata.org/entity/Q617686>	"Sultamicillin"@en
+<http://www.wikidata.org/entity/Q619815>	"Protoporphyrin IX"@en
+<http://www.wikidata.org/entity/Q619908>	"alkylating antineoplastic agent"@en
+<http://www.wikidata.org/entity/Q1100864>	"clevudine"@en
+<http://www.wikidata.org/entity/Q1109018>	"dezocine"@en
+<http://www.wikidata.org/entity/Q1135705>	"rifabutin"@en
+<http://www.wikidata.org/entity/Q1135788>	"Red yeast rice"@en
+<http://www.wikidata.org/entity/Q1117888>	"isoxsuprine"@en
+<http://www.wikidata.org/entity/Q1181878>	"decitabine"@en
+<http://www.wikidata.org/entity/Q971360>	"Bemiparin"@en
+<http://www.wikidata.org/entity/Q1169164>	"bendroflumethiazide"@en
+<http://www.wikidata.org/entity/Q1998021>	"Pertuzumab"@en
+<http://www.wikidata.org/entity/Q975059>	"ulipristal acetate"@en
+<http://www.wikidata.org/entity/Q1185089>	"butorphanol"@en
+<http://www.wikidata.org/entity/Q1187179>	"Denileukin diftitox"@en
+<http://www.wikidata.org/entity/Q993771>	"Batroxobin"@en
+<http://www.wikidata.org/entity/Q976559>	"sparfloxacin"@en
+<http://www.wikidata.org/entity/Q1188290>	"nizatidine"@en
+<http://www.wikidata.org/entity/Q1215575>	"naproxen"@en
+<http://www.wikidata.org/entity/Q1240093>	"pravastatin"@en
+<http://www.wikidata.org/entity/Q2298283>	"melphalan"@en
+<http://www.wikidata.org/entity/Q1929845>	"NPH insulin"@en
+<http://www.wikidata.org/entity/Q2211240>	"triamcinolone acetonide"@en
+<http://www.wikidata.org/entity/Q1074056>	"triamcinolone"@en
+<http://www.wikidata.org/entity/Q2226212>	"satraplatin"@en
+<http://www.wikidata.org/entity/Q918385>	"training"@en
+<http://www.wikidata.org/entity/Q1752915>	"trifluoperazine"@en
+<http://www.wikidata.org/entity/Q1075324>	"chlorpropamide"@en
+<http://www.wikidata.org/entity/Q1075492>	"lawsone"@en
+<http://www.wikidata.org/entity/Q1758380>	"tobramycin"@en
+<http://www.wikidata.org/entity/Q921133>	"manidipine"@en
+<http://www.wikidata.org/entity/Q929420>	"trandolapril"@en
+<http://www.wikidata.org/entity/Q928378>	"zafirlukast"@en
+<http://www.wikidata.org/entity/Q927234>	"bronchodilator"@en
+<http://www.wikidata.org/entity/Q937085>	"Dexchlorpheniramine"@en
+<http://www.wikidata.org/entity/Q2178381>	"Darbepoetin alfa"@en
+<http://www.wikidata.org/entity/Q1988832>	"bicalutamide"@en
+<http://www.wikidata.org/entity/Q1163827>	"lacidipine"@en
+<http://www.wikidata.org/entity/Q1164067>	"delapril"@en
+<http://www.wikidata.org/entity/Q1758668>	"triflusal"@en
+<http://www.wikidata.org/entity/Q1763990>	"quinupristin-dalfopristin"@en
+<http://www.wikidata.org/entity/Q1169561>	"metolazone"@en
+<http://www.wikidata.org/entity/Q1152037>	"aerobic exercise"@en
+<http://www.wikidata.org/entity/Q1144687>	"fucoidan"@en
+<http://www.wikidata.org/entity/Q2014797>	"ketorolac"@en
+<http://www.wikidata.org/entity/Q2013780>	"Ocrelizumab"@en
+<http://www.wikidata.org/entity/Q2022983>	"sulfacetamide"@en
+<http://www.wikidata.org/entity/Q1243800>	"isosorbide"@en
+<http://www.wikidata.org/entity/Q1593246>	"triamcinolone hexacetonide"@en
+<http://www.wikidata.org/entity/Q2060696>	"pirfenidone"@en
+<http://www.wikidata.org/entity/Q2062094>	"Pramlintide"@en
+<http://www.wikidata.org/entity/Q1618010>	"picibanil"@en
+<http://www.wikidata.org/entity/Q1638852>	"nafcillin"@en
+<http://www.wikidata.org/entity/Q1615256>	"Haemaccel"@en
+<http://www.wikidata.org/entity/Q1644947>	"Tenecteplase"@en
+<http://www.wikidata.org/entity/Q1639595>	"gemifloxacin"@en
+<http://www.wikidata.org/entity/Q1639588>	"cinoxacin"@en
+<http://www.wikidata.org/entity/Q1320691>	"salsalate"@en
+<http://www.wikidata.org/entity/Q1321320>	"tinidazole"@en
+<http://www.wikidata.org/entity/Q1706418>	"dextroamphetamine"@en
+<http://www.wikidata.org/entity/Q1257318>	"bedaquiline"@en
+<http://www.wikidata.org/entity/Q1253473>	"doxifluridine"@en
+<http://www.wikidata.org/entity/Q1280166>	"Ecallantide"@en
+<http://www.wikidata.org/entity/Q1281020>	"entinostat"@en
+<http://www.wikidata.org/entity/Q1707877>	"lanreotide"@en
+<http://www.wikidata.org/entity/Q2754775>	"Insulin Aspart"@en
+<http://www.wikidata.org/entity/Q2273909>	"serotonin–norepinephrine reuptake inhibitor"@en
+<http://www.wikidata.org/entity/Q1420402>	"incretins"@en
+<http://www.wikidata.org/entity/Q2240116>	"levocabastine"@en
+<http://www.wikidata.org/entity/Q2251215>	"kinetin"@en
+<http://www.wikidata.org/entity/Q2254797>	"nateglinide"@en
+<http://www.wikidata.org/entity/Q2291605>	"moexipril"@en
+<http://www.wikidata.org/entity/Q1393556>	"2,4-thiazolidinedione"@en
+<http://www.wikidata.org/entity/Q1385311>	"fosamprenavir"@en
+<http://www.wikidata.org/entity/Q1384342>	"mucokinetic"@en
+<http://www.wikidata.org/entity/Q1339032>	"emodepside"@en
+<http://www.wikidata.org/entity/Q2295855>	"eptifibatide"@en
+<http://www.wikidata.org/entity/Q1439555>	"fotemustine"@en
+<http://www.wikidata.org/entity/Q1453445>	"cefdinir"@en
+<http://www.wikidata.org/entity/Q1479804>	"HIV vaccine"@en
+<http://www.wikidata.org/entity/Q2502747>	"sofosbuvir"@en
+<http://www.wikidata.org/entity/Q2755101>	"general anaesthetic"@en
+<http://www.wikidata.org/entity/Q2756206>	"high-intensity interval training"@en
+<http://www.wikidata.org/entity/Q2757844>	"Sodium stibogluconate"@en
+<http://www.wikidata.org/entity/Q2353907>	"cefoxitin"@en
+<http://www.wikidata.org/entity/Q2357007>	"fenoldopam"@en
+<http://www.wikidata.org/entity/Q2356505>	"(RS)-diethylpropion"@en
+<http://www.wikidata.org/entity/Q2823764>	"Actovegin"@en
+<http://www.wikidata.org/entity/Q2342544>	"acipimox"@en
+<http://www.wikidata.org/entity/Q2341200>	"clodronic acid"@en
+<http://www.wikidata.org/entity/Q2358146>	"ornidazole"@en
+<http://www.wikidata.org/entity/Q2359590>	"trifluridine"@en
+<http://www.wikidata.org/entity/Q2526479>	"liraglutide"@en
+<http://www.wikidata.org/entity/Q2510480>	"vanoxerine"@en
+<http://www.wikidata.org/entity/Q2359690>	"prochlorperazine"@en
+<http://www.wikidata.org/entity/Q2365016>	"gatifloxacin"@en
+<http://www.wikidata.org/entity/Q2365493>	"esketamine"@en
+<http://www.wikidata.org/entity/Q2190150>	"perflubron"@en
+<http://www.wikidata.org/entity/Q2193376>	"travoprost"@en
+<http://www.wikidata.org/entity/Q2705066>	"Dronabinol"@en
+<http://www.wikidata.org/entity/Q2718713>	"(5E)-5-[(3aS,5R,6aS)-5-Hydroxy-4-[(1E,3S)-3-hydroxy-4-methyl-1-octen-6-yn-1-yl]hexahydro-2(1H)-pentalenylidene]pentanoic acid"@en
+<http://www.wikidata.org/entity/Q1230937>	"semustine"@en
+<http://www.wikidata.org/entity/Q1235195>	"Romiplostim"@en
+<http://www.wikidata.org/entity/Q1227207>	"oxantel"@en
+<http://www.wikidata.org/entity/Q2731762>	"teicoplanin"@en
+<http://www.wikidata.org/entity/Q1996249>	"belimumab"@en
+<http://www.wikidata.org/entity/Q1984607>	"phosphocreatine"@en
+<http://www.wikidata.org/entity/Q1958189>	"bromopride"@en
+<http://www.wikidata.org/entity/Q1292703>	"reproterol"@en
+<http://www.wikidata.org/entity/Q2445303>	"amphetamines"@en
+<http://www.wikidata.org/entity/Q1989071>	"Dirithromycin"@en
+<http://www.wikidata.org/entity/Q1992653>	"goserelin"@en
+<http://www.wikidata.org/entity/Q2450337>	"interferon beta-1a"@en
+<http://www.wikidata.org/entity/Q1994556>	"flucloxacillin"@en
+<http://www.wikidata.org/entity/Q1530958>	"Oxybuprocaine"@en
+<http://www.wikidata.org/entity/Q1496686>	"Keyhole limpet hemocyanin"@en
+<http://www.wikidata.org/entity/Q1770257>	"indole-3-carbinol"@en
+<http://www.wikidata.org/entity/Q1640947>	"phenindione"@en
+<http://www.wikidata.org/entity/Q1829318>	"dolasetron"@en
+<http://www.wikidata.org/entity/Q1809112>	"dermatologic drug"@en
+<http://www.wikidata.org/entity/Q2458673>	"ketotifen"@en
+<http://www.wikidata.org/entity/Q1851162>	"interferon beta-1b"@en
+<http://www.wikidata.org/entity/Q2387553>	"tafenoquine"@en
+<http://www.wikidata.org/entity/Q1851701>	"Dalteparin"@en
+<http://www.wikidata.org/entity/Q2734874>	"lornoxicam"@en
+<http://www.wikidata.org/entity/Q2734674>	"cephradine"@en
+<http://www.wikidata.org/entity/Q2736135>	"telithromycin"@en
+<http://www.wikidata.org/entity/Q2393348>	"bimatoprost"@en
+<http://www.wikidata.org/entity/Q2846011>	"Ancrod"@en
+<http://www.wikidata.org/entity/Q2858961>	"apremilast"@en
+<http://www.wikidata.org/entity/Q2823834>	"medroxyprogesterone acetate"@en
+<http://www.wikidata.org/entity/Q2459042>	"ipilimumab"@en
+<http://www.wikidata.org/entity/Q2736402>	"demeclocycline"@en
+<http://www.wikidata.org/entity/Q2421270>	"cortivazol"@en
+<http://www.wikidata.org/entity/Q2412605>	"oxethazaine"@en
+<http://www.wikidata.org/entity/Q2742649>	"antidiarrhoeal"@en
+<http://www.wikidata.org/entity/Q2394106>	"isospaglumic acid"@en
+<http://www.wikidata.org/entity/Q1922379>	"mesenchymal stem cells"@en
+<http://www.wikidata.org/entity/Q1907109>	"masitinib"@en
+<http://www.wikidata.org/entity/Q2757969>	"meglumine antimoniate"@en
+<http://www.wikidata.org/entity/Q1923741>	"respiratory system agents"@en
+<http://www.wikidata.org/entity/Q1927838>	"alpha blocker"@en
+<http://www.wikidata.org/entity/Q2736873>	"alfuzosin"@en
+<http://www.wikidata.org/entity/Q2070778>	"benzonatate"@en
+<http://www.wikidata.org/entity/Q2870929>	"Amoxicillin/clavulanic acid"@en
+<http://www.wikidata.org/entity/Q2154494>	"riociguat"@en
+<http://www.wikidata.org/entity/Q2159860>	"palmidrol"@en
+<http://www.wikidata.org/entity/Q2917126>	"Technetium Tc-99m sestamibi"@en
+<http://www.wikidata.org/entity/Q2924764>	"brexpiprazole"@en
+<http://www.wikidata.org/entity/Q2759348>	"loxoprofen"@en
+<http://www.wikidata.org/entity/Q2823312>	"tiludronic acid"@en
+<http://www.wikidata.org/entity/Q2795791>	"rehabilitation"@en
+<http://www.wikidata.org/entity/Q2784004>	"amsacrine"@en
+<http://www.wikidata.org/entity/Q2760221>	"gemeprost"@en
+<http://www.wikidata.org/entity/Q2071071>	"lynestrenol"@en
+<http://www.wikidata.org/entity/Q2072745>	"trichlormethiazide"@en
+<http://www.wikidata.org/entity/Q2103461>	"acifluorfen"@en
+<http://www.wikidata.org/entity/Q2146170>	"ezogabine"@en
+<http://www.wikidata.org/entity/Q3143635>	"Hyaluronan sodium"@en
+<http://www.wikidata.org/entity/Q2758338>	"etidronic acid"@en
+<http://www.wikidata.org/entity/Q2943789>	"nitazoxanide"@en
+<http://www.wikidata.org/entity/Q3149137>	"Rho(D) immune globulin"@en
+<http://www.wikidata.org/entity/Q3154058>	"iobenguane"@en
+<http://www.wikidata.org/entity/Q2313188>	"Becaplermin"@en
+<http://www.wikidata.org/entity/Q2319020>	"cefadroxil"@en
+<http://www.wikidata.org/entity/Q2313471>	"dicloxacillin"@en
+<http://www.wikidata.org/entity/Q2325775>	"cefoperazone"@en
+<http://www.wikidata.org/entity/Q2325594>	"tranilast"@en
+<http://www.wikidata.org/entity/Q2335618>	"dermatan sulfate"@en
+<http://www.wikidata.org/entity/Q2537076>	"tribufos"@en
+<http://www.wikidata.org/entity/Q2195995>	"repaglinide"@en
+<http://www.wikidata.org/entity/Q2541149>	"pyridoxamine"@en
+<http://www.wikidata.org/entity/Q2552927>	"cefepime"@en
+<http://www.wikidata.org/entity/Q3649449>	"Cadexomer iodine"@en
+<http://www.wikidata.org/entity/Q3065731>	"pyridoxal"@en
+<http://www.wikidata.org/entity/Q3664175>	"cefditoren"@en
+<http://www.wikidata.org/entity/Q3655338>	"cangrelor"@en
+<http://www.wikidata.org/entity/Q3661095>	"clothiapine"@en
+<http://www.wikidata.org/entity/Q3702534>	"mirabegron"@en
+<http://www.wikidata.org/entity/Q3698301>	"cromakalim"@en
+<http://www.wikidata.org/entity/Q4095199>	"botulinum toxin type A"@en
+<http://www.wikidata.org/entity/Q2553496>	"netilmicin"@en
+<http://www.wikidata.org/entity/Q5049003>	"Casopitant"@en
+<http://www.wikidata.org/entity/Q5057052>	"cediranib"@en
+<http://www.wikidata.org/entity/Q2964133>	"chloroprocaine"@en
+<http://www.wikidata.org/entity/Q5065704>	"cetrorelix"@en
+<http://www.wikidata.org/entity/Q2637746>	"trabectedin"@en
+<http://www.wikidata.org/entity/Q2575454>	"EUSOL"@en
+<http://www.wikidata.org/entity/Q5057238>	"cefmetazole"@en
+<http://www.wikidata.org/entity/Q5057301>	"ceftobiprole"@en
+<http://www.wikidata.org/entity/Q4130924>	"gaboxadol"@en
+<http://www.wikidata.org/entity/Q2974480>	"caffeine citrate"@en
+<http://www.wikidata.org/entity/Q3950557>	"Sargramostim"@en
+<http://www.wikidata.org/entity/Q5058846>	"Cenicriviroc"@en
+<http://www.wikidata.org/entity/Q5102980>	"chlormadinone acetate"@en
+<http://www.wikidata.org/entity/Q5103213>	"chlorotrianisene"@en
+<http://www.wikidata.org/entity/Q2979523>	"ramosetron"@en
+<http://www.wikidata.org/entity/Q3088229>	"rasburicase"@en
+<http://www.wikidata.org/entity/Q2993328>	"beta-endorphin"@en
+<http://www.wikidata.org/entity/Q2991856>	"trihexyphenidyl"@en
+<http://www.wikidata.org/entity/Q3069733>	"ferroquine"@en
+<http://www.wikidata.org/entity/Q3080279>	"clofibric acid"@en
+<http://www.wikidata.org/entity/Q3011604>	"dabrafenib"@en
+<http://www.wikidata.org/entity/Q3320636>	"artificial tears"@en
+<http://www.wikidata.org/entity/Q3271540>	"mechanism of action"@en
+<http://www.wikidata.org/entity/Q3271949>	"Lepirudin"@en
+<http://www.wikidata.org/entity/Q3180288>	"nordazepam"@en
+<http://www.wikidata.org/entity/Q3258910>	"lonafarnib"@en
+<http://www.wikidata.org/entity/Q3272027>	"levobupivacaine"@en
+<http://www.wikidata.org/entity/Q3765251>	"darunavir"@en
+<http://www.wikidata.org/entity/Q4327722>	"nociceptin"@en
+<http://www.wikidata.org/entity/Q3275451>	"propantheline"@en
+<http://www.wikidata.org/entity/Q3290587>	"antimineralocorticoid"@en
+<http://www.wikidata.org/entity/Q4482372>	"fesoterodine"@en
+<http://www.wikidata.org/entity/Q4445779>	"sultopride"@en
+<http://www.wikidata.org/entity/Q4413253>	"secoisolariciresinol"@en
+<http://www.wikidata.org/entity/Q4353252>	"nalmefene"@en
+<http://www.wikidata.org/entity/Q4392082>	"Puerarin"@en
+<http://www.wikidata.org/entity/Q4413249>	"secnidazole"@en
+<http://www.wikidata.org/entity/Q4376623>	"prednicarbate"@en
+<http://www.wikidata.org/entity/Q4388537>	"[2-oxo-2-(N-propan-2-ylanilino)ethyl] 4-oxo-3,5-dihydro-2H-1,5-benzothiazepine-7-carboxylate"@en
+<http://www.wikidata.org/entity/Q4634053>	"3,3'-diindolylmethane"@en
+<http://www.wikidata.org/entity/Q4596897>	"2-methoxyestradiol"@en
+<http://www.wikidata.org/entity/Q4505907>	"cystatins"@en
+<http://www.wikidata.org/entity/Q4493217>	"tin fluorides"@en
+<http://www.wikidata.org/entity/Q4639645>	"5-alpha-reductase inhibitors"@en
+<http://www.wikidata.org/entity/Q4637150>	"tempol"@en
+<http://www.wikidata.org/entity/Q4673274>	"acetohexamide"@en
+<http://www.wikidata.org/entity/Q4667249>	"abexinostat"@en
+<http://www.wikidata.org/entity/Q4667244>	"Abetimus"@en
+<http://www.wikidata.org/entity/Q4688818>	"afatinib"@en
+<http://www.wikidata.org/entity/Q4674302>	"Aclarubicin"@en
+<http://www.wikidata.org/entity/Q2697833>	"Abatacept"@en
+<http://www.wikidata.org/entity/Q4721888>	"17α-estradiol"@en
+<http://www.wikidata.org/entity/Q4689254>	"(Z)-4-hydroxytamoxifen"@en
+<http://www.wikidata.org/entity/Q4708967>	"albaconazole"@en
+<http://www.wikidata.org/entity/Q2701912>	"clofibrate"@en
+<http://www.wikidata.org/entity/Q3774852>	"Cathartic"@en
+<http://www.wikidata.org/entity/Q4161323>	"Ergoloid mesylate"@en
+<http://www.wikidata.org/entity/Q2643555>	"Gardasil"@en
+<http://www.wikidata.org/entity/Q4712900>	"alcaftadine"@en
+<http://www.wikidata.org/entity/Q3771944>	"Glembatumumab vedotin"@en
+<http://www.wikidata.org/entity/Q4162428>	"gold sodium thiosulfate"@en
+<http://www.wikidata.org/entity/Q2697578>	"fludrocortisone"@en
+<http://www.wikidata.org/entity/Q3730737>	"Epratuzumab"@en
+<http://www.wikidata.org/entity/Q3723645>	"Elotuzumab"@en
+<http://www.wikidata.org/entity/Q2662662>	"dicyclomine"@en
+<http://www.wikidata.org/entity/Q4161380>	"dydrogesterone"@en
+<http://www.wikidata.org/entity/Q4735269>	"radium ra-223 dichloride"@en
+<http://www.wikidata.org/entity/Q2662393>	"parthenolide"@en
+<http://www.wikidata.org/entity/Q2650256>	"gepirone"@en
+<http://www.wikidata.org/entity/Q2467555>	"furazolidone"@en
+<http://www.wikidata.org/entity/Q3742487>	"fenoverine"@en
+<http://www.wikidata.org/entity/Q4177438>	"trimagnesium dicitrate"@en
+<http://www.wikidata.org/entity/Q4205889>	"ethiodized oil"@en
+<http://www.wikidata.org/entity/Q4224007>	"clobetasol"@en
+<http://www.wikidata.org/entity/Q4199443>	"iloperidone"@en
+<http://www.wikidata.org/entity/Q4197874>	"idebenone"@en
+<http://www.wikidata.org/entity/Q4734170>	"alogliptin"@en
+<http://www.wikidata.org/entity/Q4734924>	"Alpha-adrenergic agonist"@en
+<http://www.wikidata.org/entity/Q4724191>	"algestone"@en
+<http://www.wikidata.org/entity/Q4734671>	"alovudine"@en
+<http://www.wikidata.org/entity/Q4211771>	"camphor"@en
+<http://www.wikidata.org/entity/Q2487682>	"bromfenac"@en
+<http://www.wikidata.org/entity/Q4312826>	"nandrolone phenpropionate"@en
+<http://www.wikidata.org/entity/Q4321582>	"gallium nitrate"@en
+<http://www.wikidata.org/entity/Q3492616>	"Insulin Lispro"@en
+<http://www.wikidata.org/entity/Q2462902>	"bronopol"@en
+<http://www.wikidata.org/entity/Q2465218>	"(RS)-etodolac"@en
+<http://www.wikidata.org/entity/Q3733839>	"etonogestrel"@en
+<http://www.wikidata.org/entity/Q3493048>	"monensin"@en
+<http://www.wikidata.org/entity/Q3494619>	"seliciclib"@en
+<http://www.wikidata.org/entity/Q3495231>	"treprostinil"@en
+<http://www.wikidata.org/entity/Q3530324>	"tofacitinib"@en
+<http://www.wikidata.org/entity/Q3496452>	"ciprofibrate"@en
+<http://www.wikidata.org/entity/Q3529346>	"Tirapazamine"@en
+<http://www.wikidata.org/entity/Q2938837>	"cariprazine"@en
+<http://www.wikidata.org/entity/Q3001265>	"muscarinic antagonist"@en
+<http://www.wikidata.org/entity/Q2928948>	"butoconazole"@en
+<http://www.wikidata.org/entity/Q2938102>	"cardiotonic"@en
+<http://www.wikidata.org/entity/Q3837481>	"Loteprednol etabonate"@en
+<http://www.wikidata.org/entity/Q3557001>	"vicriviroc"@en
+<http://www.wikidata.org/entity/Q3536652>	"highly active antiretroviral therapy"@en
+<http://www.wikidata.org/entity/Q2555060>	"sulfadiazine"@en
+<http://www.wikidata.org/entity/Q3563148>	"vortioxetine"@en
+<http://www.wikidata.org/entity/Q3843044>	"mafenide"@en
+<http://www.wikidata.org/entity/Q3040305>	"aromatase inhibitors"@en
+<http://www.wikidata.org/entity/Q3025599>	"dexfenfluramine"@en
+<http://www.wikidata.org/entity/Q3033497>	"docosanol"@en
+<http://www.wikidata.org/entity/Q3896970>	"Pasireotide"@en
+<http://www.wikidata.org/entity/Q3108899>	"glipizide"@en
+<http://www.wikidata.org/entity/Q3877355>	"nitisinone"@en
+<http://www.wikidata.org/entity/Q3877377>	"nitroaspirin"@en
+<http://www.wikidata.org/entity/Q3877030>	"nilutamide"@en
+<http://www.wikidata.org/entity/Q3877039>	"Nimotuzumab"@en
+<http://www.wikidata.org/entity/Q3121121>	"saxagliptin"@en
+<http://www.wikidata.org/entity/Q3905585>	"(7RS,9S)-Pirarubicin"@en
+<http://www.wikidata.org/entity/Q3109315>	"glutarimide"@en
+<http://www.wikidata.org/entity/Q2569888>	"trimebutine"@en
+<http://www.wikidata.org/entity/Q2573513>	"agglutinin"@en
+<http://www.wikidata.org/entity/Q3899224>	"pentaerythritol tetranitrate"@en
+<http://www.wikidata.org/entity/Q3898423>	"pazufloxacin"@en
+<http://www.wikidata.org/entity/Q2579108>	"L-morphan"@en
+<http://www.wikidata.org/entity/Q2601832>	"ticarcillin"@en
+<http://www.wikidata.org/entity/Q2602246>	"cefotetan"@en
+<http://www.wikidata.org/entity/Q3130053>	"inosine pranobex"@en
+<http://www.wikidata.org/entity/Q3124290>	"pholcodine"@en
+<http://www.wikidata.org/entity/Q2605497>	"homatropine methylbromide"@en
+<http://www.wikidata.org/entity/Q2606497>	"brompheniramine"@en
+<http://www.wikidata.org/entity/Q2619971>	"fibrinolysin"@en
+<http://www.wikidata.org/entity/Q2608288>	"(Z)-thiothixene"@en
+<http://www.wikidata.org/entity/Q2633879>	"carbamide peroxide"@en
+<http://www.wikidata.org/entity/Q3906700>	"Plicamycin"@en
+<http://www.wikidata.org/entity/Q3924793>	"prulifloxacin"@en
+<http://www.wikidata.org/entity/Q3292273>	"orphenadrine"@en
+<http://www.wikidata.org/entity/Q3294635>	"Colestipol"@en
+<http://www.wikidata.org/entity/Q3294630>	"chlorzoxazone"@en
+<http://www.wikidata.org/entity/Q3332124>	"mecamylamine"@en
+<http://www.wikidata.org/entity/Q3315722>	"mipomersen"@en
+<http://www.wikidata.org/entity/Q3435660>	"penicillin G procaine"@en
+<http://www.wikidata.org/entity/Q2602750>	"diflunisal"@en
+<http://www.wikidata.org/entity/Q2603363>	"chlorothiazide"@en
+<http://www.wikidata.org/entity/Q5103229>	"chlorproguanil"@en
+<http://www.wikidata.org/entity/Q3342150>	"nisoldipine"@en
+<http://www.wikidata.org/entity/Q3335996>	"naproxcinod"@en
+<http://www.wikidata.org/entity/Q3351791>	"Oleoyl-estrone"@en
+<http://www.wikidata.org/entity/Q3359058>	"oxiconazole"@en
+<http://www.wikidata.org/entity/Q3577491>	"second trimester ultrasounds"@en
+<http://www.wikidata.org/entity/Q3489331>	"pyrantel pamoate"@en
+<http://www.wikidata.org/entity/Q5119448>	"ciclesonide"@en
+<http://www.wikidata.org/entity/Q5134875>	"clofarabine"@en
+<http://www.wikidata.org/entity/Q3359124>	"vasoconstrictor agents"@en
+<http://www.wikidata.org/entity/Q5268339>	"dexlansoprazole"@en
+<http://www.wikidata.org/entity/Q5135028>	"clonixin"@en
+<http://www.wikidata.org/entity/Q5273861>	"Diclofenac/misoprostol"@en
+<http://www.wikidata.org/entity/Q5275453>	"diflucortolone"@en
+<http://www.wikidata.org/entity/Q5138908>	"cobicistat"@en
+<http://www.wikidata.org/entity/Q5135145>	"cloricromen"@en
+<http://www.wikidata.org/entity/Q5276420>	"dihydroartemisinin"@en
+<http://www.wikidata.org/entity/Q5276413>	"Dihydrexidine"@en
+<http://www.wikidata.org/entity/Q5120034>	"cilomilast"@en
+<http://www.wikidata.org/entity/Q5120864>	"cinepazide"@en
+<http://www.wikidata.org/entity/Q5279734>	"diphenidol"@en
+<http://www.wikidata.org/entity/Q5332073>	"ebselen"@en
+<http://www.wikidata.org/entity/Q3799041>	"Inotuzumab ozogamicin"@en
+<http://www.wikidata.org/entity/Q5222113>	"Daratumumab"@en
+<http://www.wikidata.org/entity/Q3798322>	"indobufen"@en
+<http://www.wikidata.org/entity/Q3791612>	"ibutilide"@en
+<http://www.wikidata.org/entity/Q5303688>	"doxercalciferol"@en
+<http://www.wikidata.org/entity/Q5283598>	"Disufenton sodium"@en
+<http://www.wikidata.org/entity/Q5297311>	"dopexamine"@en
+<http://www.wikidata.org/entity/Q5332142>	"ecamsule"@en
+<http://www.wikidata.org/entity/Q5333851>	"ecopipam"@en
+<http://www.wikidata.org/entity/Q5150954>	"Combretastatin"@en
+<http://www.wikidata.org/entity/Q5144763>	"Colforsin"@en
+<http://www.wikidata.org/entity/Q5150956>	"fosbretabulin"@en
+<http://www.wikidata.org/entity/Q3836670>	"lonidamine"@en
+<http://www.wikidata.org/entity/Q3836750>	"lopinavir/ritonavir"@en
+<http://www.wikidata.org/entity/Q3836403>	"lofexidine"@en
+<http://www.wikidata.org/entity/Q5199020>	"cyclosporins"@en
+<http://www.wikidata.org/entity/Q3833129>	"Lintuzumab"@en
+<http://www.wikidata.org/entity/Q3832559>	"linaclotide"@en
+<http://www.wikidata.org/entity/Q3800087>	"pyrilamine"@en
+<http://www.wikidata.org/entity/Q5222570>	"darexaban"@en
+<http://www.wikidata.org/entity/Q5225810>	"darusentan"@en
+<http://www.wikidata.org/entity/Q5251502>	"deferasirox"@en
+<http://www.wikidata.org/entity/Q7041828>	"nivolumab"@en
+<http://www.wikidata.org/entity/Q4897349>	"betamethasone dipropionate"@en
+<http://www.wikidata.org/entity/Q4882925>	"Belinostat"@en
+<http://www.wikidata.org/entity/Q4884574>	"belotecan"@en
+<http://www.wikidata.org/entity/Q4890968>	"beractant"@en
+<http://www.wikidata.org/entity/Q4747531>	"amonafide"@en
+<http://www.wikidata.org/entity/Q4748723>	"amrubicin"@en
+<http://www.wikidata.org/entity/Q4738021>	"alvimopan"@en
+<http://www.wikidata.org/entity/Q4919218>	"bivalirudin"@en
+<http://www.wikidata.org/entity/Q4898219>	"betrixaban"@en
+<http://www.wikidata.org/entity/Q4902548>	"biapenem"@en
+<http://www.wikidata.org/entity/Q4784668>	"arbekacin"@en
+<http://www.wikidata.org/entity/Q4774393>	"Anti-lymphocyte globulin"@en
+<http://www.wikidata.org/entity/Q4779259>	"apaziquone"@en
+<http://www.wikidata.org/entity/Q4767903>	"annamycin"@en
+<http://www.wikidata.org/entity/Q4811881>	"asunaprevir"@en
+<http://www.wikidata.org/entity/Q4759444>	"Andrographolide"@en
+<http://www.wikidata.org/entity/Q4750639>	"anacetrapib"@en
+<http://www.wikidata.org/entity/Q4764531>	"anidulafungin"@en
+<http://www.wikidata.org/entity/Q4972934>	"brodalumab"@en
+<http://www.wikidata.org/entity/Q4968132>	"brimonidine/timolol"@en
+<http://www.wikidata.org/entity/Q4795601>	"arotinolol"@en
+<http://www.wikidata.org/entity/Q5030940>	"canagliflozin"@en
+<http://www.wikidata.org/entity/Q5019575>	"calfactant"@en
+<http://www.wikidata.org/entity/Q4993812>	"Halichondrin B"@en
+<http://www.wikidata.org/entity/Q4973749>	"bromperidol"@en
+<http://www.wikidata.org/entity/Q4982756>	"bucindolol"@en
+<http://www.wikidata.org/entity/Q4982752>	"Bucillamine"@en
+<http://www.wikidata.org/entity/Q2701638>	"glycocholic acid"@en
+<http://www.wikidata.org/entity/Q4828930>	"aviptadil"@en
+<http://www.wikidata.org/entity/Q4830631>	"axitinib"@en
+<http://www.wikidata.org/entity/Q4815980>	"udenafil"@en
+<http://www.wikidata.org/entity/Q5037853>	"carbetocin"@en
+<http://www.wikidata.org/entity/Q3983108>	"temocillin"@en
+<http://www.wikidata.org/entity/Q3704725>	"Defibrotide"@en
+<http://www.wikidata.org/entity/Q4875166>	"bazedoxifene"@en
+<http://www.wikidata.org/entity/Q4835503>	"dactolisib"@en
+<http://www.wikidata.org/entity/Q3993743>	"toremifene"@en
+<http://www.wikidata.org/entity/Q3985253>	"testolactone"@en
+<http://www.wikidata.org/entity/Q3712521>	"dofetilide"@en
+<http://www.wikidata.org/entity/Q3718510>	"echinocandin"@en
+<http://www.wikidata.org/entity/Q5253067>	"delafloxacin"@en
+<http://www.wikidata.org/entity/Q3706987>	"dichlorphenamide"@en
+<http://www.wikidata.org/entity/Q3705147>	"delorazepam"@en
+<http://www.wikidata.org/entity/Q3997863>	"ado-trastuzumab emtansine"@en
+<http://www.wikidata.org/entity/Q6042242>	"Insulin Glulisine"@en
+<http://www.wikidata.org/entity/Q4006490>	"Urofollitropin"@en
+<http://www.wikidata.org/entity/Q4019783>	"Lidocaine/prilocaine"@en
+<http://www.wikidata.org/entity/Q6057485>	"Intetumumab"@en
+<http://www.wikidata.org/entity/Q6072197>	"irofulven"@en
+<http://www.wikidata.org/entity/Q3607822>	"Alatrofloxacin"@en
+<http://www.wikidata.org/entity/Q3604308>	"cefuroxime axetil"@en
+<http://www.wikidata.org/entity/Q3604243>	"acemannan"@en
+<http://www.wikidata.org/entity/Q6079042>	"isavuconazole"@en
+<http://www.wikidata.org/entity/Q3720273>	"Efungumab"@en
+<http://www.wikidata.org/entity/Q5260067>	"Deoxyglucose"@en
+<http://www.wikidata.org/entity/Q4063441>	"alvocidib"@en
+<http://www.wikidata.org/entity/Q4043462>	"MP-412 REX"@en
+<http://www.wikidata.org/entity/Q3930720>	"razoxane"@en
+<http://www.wikidata.org/entity/Q3935297>	"rifapentine"@en
+<http://www.wikidata.org/entity/Q3638304>	"Benralizumab"@en
+<http://www.wikidata.org/entity/Q6523037>	"Lenograstim"@en
+<http://www.wikidata.org/entity/Q3933703>	"Reteplase"@en
+<http://www.wikidata.org/entity/Q3609421>	"Alefacept"@en
+<http://www.wikidata.org/entity/Q3611854>	"alitretinoin"@en
+<http://www.wikidata.org/entity/Q6095693>	"ivacaftor"@en
+<http://www.wikidata.org/entity/Q3633651>	"bambuterol"@en
+<http://www.wikidata.org/entity/Q3634466>	"Bapineuzumab"@en
+<http://www.wikidata.org/entity/Q3637045>	"bavituximab"@en
+<http://www.wikidata.org/entity/Q5473368>	"fospropofol"@en
+<http://www.wikidata.org/entity/Q5132338>	"clevidipine"@en
+<http://www.wikidata.org/entity/Q3638978>	"besifloxacin"@en
+<http://www.wikidata.org/entity/Q5134843>	"Clocortolone"@en
+<http://www.wikidata.org/entity/Q5508491>	"fulvestrant"@en
+<http://www.wikidata.org/entity/Q5383794>	"epoetin alfa"@en
+<http://www.wikidata.org/entity/Q4998036>	"bupropion/naltrexone"@en
+<http://www.wikidata.org/entity/Q5003180>	"butylphthalide"@en
+<http://www.wikidata.org/entity/Q4746121>	"amibegron"@en
+<http://www.wikidata.org/entity/Q7226111>	"Poly ICLC"@en
+<http://www.wikidata.org/entity/Q7226181>	"polycarbophil calcium"@en
+<http://www.wikidata.org/entity/Q5017121>	"cafedrine"@en
+<http://www.wikidata.org/entity/Q5018528>	"calanolide a"@en
+<http://www.wikidata.org/entity/Q5018775>	"calcimimetic"@en
+<http://www.wikidata.org/entity/Q5018825>	"calcium dobesilate"@en
+<http://www.wikidata.org/entity/Q5026909>	"camostat"@en
+<http://www.wikidata.org/entity/Q7226308>	"Polyestradiol phosphate"@en
+<http://www.wikidata.org/entity/Q4811402>	"astressin-B"@en
+<http://www.wikidata.org/entity/Q5033475>	"canrenone"@en
+<http://www.wikidata.org/entity/Q5038067>	"carboprost"@en
+<http://www.wikidata.org/entity/Q6523413>	"lenvatinib"@en
+<http://www.wikidata.org/entity/Q5462791>	"fluocinonide"@en
+<http://www.wikidata.org/entity/Q5264591>	"Deslorelin"@en
+<http://www.wikidata.org/entity/Q5473324>	"fosaprepitant"@en
+<http://www.wikidata.org/entity/Q5462793>	"fluocortolone"@en
+<http://www.wikidata.org/entity/Q4086927>	"prostate biopsy"@en
+<http://www.wikidata.org/entity/Q5161126>	"conivaptan"@en
+<http://www.wikidata.org/entity/Q6659956>	"lixisenatide"@en
+<http://www.wikidata.org/entity/Q5184160>	"crenolanib"@en
+<http://www.wikidata.org/entity/Q5166679>	"convulsant"@en
+<http://www.wikidata.org/entity/Q6576792>	"online community"@en
+<http://www.wikidata.org/entity/Q6535779>	"levomilnacipran"@en
+<http://www.wikidata.org/entity/Q5186964>	"crizotinib"@en
+<http://www.wikidata.org/entity/Q7227206>	"pomalidomide"@en
+<http://www.wikidata.org/entity/Q6589967>	"SA-4503"@en
+<http://www.wikidata.org/entity/Q6577302>	"sulfalene"@en
+<http://www.wikidata.org/entity/Q5198674>	"cyclobenzaprine"@en
+<http://www.wikidata.org/entity/Q6445931>	"betamethasone valerate"@en
+<http://www.wikidata.org/entity/Q5347555>	"efonidipine"@en
+<http://www.wikidata.org/entity/Q5347186>	"efaproxiral"@en
+<http://www.wikidata.org/entity/Q5367896>	"eltoprazine"@en
+<http://www.wikidata.org/entity/Q7230068>	"Porfimer Sodium"@en
+<http://www.wikidata.org/entity/Q6433265>	"MyPlate"@en
+<http://www.wikidata.org/entity/Q6151362>	"tandospirone"@en
+<http://www.wikidata.org/entity/Q6484656>	"landiolol"@en
+<http://www.wikidata.org/entity/Q5373824>	"empagliflozin"@en
+<http://www.wikidata.org/entity/Q3927871>	"quinestrol"@en
+<http://www.wikidata.org/entity/Q7238392>	"pranlukast"@en
+<http://www.wikidata.org/entity/Q3930120>	"Ranitidine bismuth citrate"@en
+<http://www.wikidata.org/entity/Q7250421>	"propoxycaine"@en
+<http://www.wikidata.org/entity/Q7250075>	"propagermanium"@en
+<http://www.wikidata.org/entity/Q5572286>	"glucagon-like peptide-1 agonist"@en
+<http://www.wikidata.org/entity/Q7239694>	"prednimustine"@en
+<http://www.wikidata.org/entity/Q7245228>	"prinomastat"@en
+<http://www.wikidata.org/entity/Q7247551>	"procyanidin B1"@en
+<http://www.wikidata.org/entity/Q7247553>	"procyanidin B3"@en
+<http://www.wikidata.org/entity/Q7247120>	"procaterol"@en
+<http://www.wikidata.org/entity/Q7240593>	"Preotact"@en
+<http://www.wikidata.org/entity/Q5375179>	"enalaprilat"@en
+<http://www.wikidata.org/entity/Q5379471>	"enoximone"@en
+<http://www.wikidata.org/entity/Q5473363>	"fosphenytoin"@en
+<http://www.wikidata.org/entity/Q4835624>	"BI 811283"@en
+<http://www.wikidata.org/entity/Q4836301>	"BQ-788"@en
+<http://www.wikidata.org/entity/Q4860707>	"baricitinib"@en
+<http://www.wikidata.org/entity/Q4860568>	"Quinagolide"@en
+<http://www.wikidata.org/entity/Q4834481>	"abaloparatide"@en
+<http://www.wikidata.org/entity/Q4864584>	"Lesogaberan"@en
+<http://www.wikidata.org/entity/Q7197338>	"piperaquine"@en
+<http://www.wikidata.org/entity/Q5210237>	"dalbavancin"@en
+<http://www.wikidata.org/entity/Q5201339>	"Cytochalasin D"@en
+<http://www.wikidata.org/entity/Q7199690>	"pixantrone"@en
+<http://www.wikidata.org/entity/Q7075165>	"oblimersen sodium"@en
+<http://www.wikidata.org/entity/Q7051181>	"norgestimate"@en
+<http://www.wikidata.org/entity/Q5222103>	"darapladib"@en
+<http://www.wikidata.org/entity/Q7083106>	"olaparib"@en
+<http://www.wikidata.org/entity/Q5210829>	"dalfopristin"@en
+<http://www.wikidata.org/entity/Q5210285>	"dalcetrapib"@en
+<http://www.wikidata.org/entity/Q5401768>	"estradiol valerate"@en
+<http://www.wikidata.org/entity/Q5401860>	"estropipate"@en
+<http://www.wikidata.org/entity/Q5402427>	"etanidazole"@en
+<http://www.wikidata.org/entity/Q5404453>	"icosapent ethyl"@en
+<http://www.wikidata.org/entity/Q5405160>	"ethynodiol diacetate"@en
+<http://www.wikidata.org/entity/Q5446672>	"fidaxomicin"@en
+<http://www.wikidata.org/entity/Q5420370>	"Exisulind"@en
+<http://www.wikidata.org/entity/Q5419343>	"exatecan"@en
+<http://www.wikidata.org/entity/Q5443576>	"fenretinide"@en
+<http://www.wikidata.org/entity/Q5437132>	"fasudil"@en
+<http://www.wikidata.org/entity/Q5446286>	"fialuridine"@en
+<http://www.wikidata.org/entity/Q3960572>	"Siltuximab"@en
+<http://www.wikidata.org/entity/Q3962119>	"sisomicin"@en
+<http://www.wikidata.org/entity/Q5456188>	"Five Wishes"@en
+<http://www.wikidata.org/entity/Q5462356>	"floxuridine"@en
+<http://www.wikidata.org/entity/Q7290345>	"ramucirumab"@en
+<http://www.wikidata.org/entity/Q3976823>	"sulfamethazine"@en
+<http://www.wikidata.org/entity/Q3962322>	"Sitafloxacin"@en
+<http://www.wikidata.org/entity/Q5462632>	"flurandrenolide"@en
+<http://www.wikidata.org/entity/Q3981568>	"taurolidine"@en
+<http://www.wikidata.org/entity/Q3980782>	"Tanezumab"@en
+<http://www.wikidata.org/entity/Q3981685>	"tazarotene"@en
+<http://www.wikidata.org/entity/Q3982536>	"tedisamil"@en
+<http://www.wikidata.org/entity/Q7226916>	"Polysaccharide-K"@en
+<http://www.wikidata.org/entity/Q7293428>	"Ranpirnase"@en
+<http://www.wikidata.org/entity/Q7301602>	"rebamipide"@en
+<http://www.wikidata.org/entity/Q7307897>	"regadenoson"@en
+<http://www.wikidata.org/entity/Q6004128>	"Imipenem/cilastatin"@en
+<http://www.wikidata.org/entity/Q5986553>	"Icodextrin"@en
+<http://www.wikidata.org/entity/Q5987770>	"idazoxan"@en
+<http://www.wikidata.org/entity/Q5991162>	"Ifetroban"@en
+<http://www.wikidata.org/entity/Q5991156>	"ifenprodil"@en
+<http://www.wikidata.org/entity/Q6040896>	"neosaxitoxin"@en
+<http://www.wikidata.org/entity/Q6024927>	"indiplon"@en
+<http://www.wikidata.org/entity/Q7315650>	"Reslizumab"@en
+<http://www.wikidata.org/entity/Q7312052>	"remogliflozin etabonate"@en
+<http://www.wikidata.org/entity/Q7316645>	"retapamulin"@en
+<http://www.wikidata.org/entity/Q5521314>	"Ganirelix"@en
+<http://www.wikidata.org/entity/Q5514756>	"GTS-21"@en
+<http://www.wikidata.org/entity/Q5515384>	"gabexate"@en
+<http://www.wikidata.org/entity/Q7316808>	"vitamin A acetate"@en
+<http://www.wikidata.org/entity/Q5530013>	"gefarnate"@en
+<http://www.wikidata.org/entity/Q7118227>	"PARP inhibitor"@en
+<http://www.wikidata.org/entity/Q6896158>	"Molgramostim"@en
+<http://www.wikidata.org/entity/Q7130425>	"pancrelipase"@en
+<http://www.wikidata.org/entity/Q7376558>	"rucaparib"@en
+<http://www.wikidata.org/entity/Q7115199>	"oxfendazole"@en
+<http://www.wikidata.org/entity/Q7116436>	"ozagrel"@en
+<http://www.wikidata.org/entity/Q6985503>	"Necitumumab"@en
+<http://www.wikidata.org/entity/Q6986146>	"Nedaplatin"@en
+<http://www.wikidata.org/entity/Q6961039>	"naluzotan"@en
+<http://www.wikidata.org/entity/Q6917197>	"motexafin lutetium"@en
+<http://www.wikidata.org/entity/Q6901567>	"(Z)-ethanolamine oleate"@en
+<http://www.wikidata.org/entity/Q6940221>	"muscarinic agonist"@en
+<http://www.wikidata.org/entity/Q6961789>	"Ularitide"@en
+<http://www.wikidata.org/entity/Q7041453>	"nitroarginine"@en
+<http://www.wikidata.org/entity/Q7037489>	"nilvadipine"@en
+<http://www.wikidata.org/entity/Q7037737>	"nimorazole"@en
+<http://www.wikidata.org/entity/Q7030581>	"nicotinic agonist"@en
+<http://www.wikidata.org/entity/Q6724151>	"macitentan"@en
+<http://www.wikidata.org/entity/Q7083108>	"Olaratumab"@en
+<http://www.wikidata.org/entity/Q7088466>	"olodaterol"@en
+<http://www.wikidata.org/entity/Q11426176>	"prednisolone"@en
+<http://www.wikidata.org/entity/Q6804390>	"Mecasermin"@en
+<http://www.wikidata.org/entity/Q6794291>	"mavrilimumab"@en
+<http://www.wikidata.org/entity/Q6732002>	"magnolol"@en
+<http://www.wikidata.org/entity/Q6763659>	"marimastat"@en
+<http://www.wikidata.org/entity/Q6764468>	"marinobufagenin"@en
+<http://www.wikidata.org/entity/Q6783851>	"masoprocol"@en
+<http://www.wikidata.org/entity/Q7381206>	"cyproterone"@en
+<http://www.wikidata.org/entity/Q7050955>	"norethandrolone"@en
+<http://www.wikidata.org/entity/Q7050956>	"norethindrone enanthate"@en
+<http://www.wikidata.org/entity/Q7098691>	"Oprelvekin"@en
+<http://www.wikidata.org/entity/Q7089373>	"(-)-homoharringtonine"@en
+<http://www.wikidata.org/entity/Q6808975>	"megestrol acetate"@en
+<http://www.wikidata.org/entity/Q7102878>	"oritavancin"@en
+<http://www.wikidata.org/entity/Q7101491>	"Oregovomab"@en
+<http://www.wikidata.org/entity/Q7424731>	"Saruplase"@en
+<http://www.wikidata.org/entity/Q7428510>	"saw palmetto extract"@en
+<http://www.wikidata.org/entity/Q7425965>	"Satavaptan fumarate"@en
+<http://www.wikidata.org/entity/Q7420893>	"sapacitabine"@en
+<http://www.wikidata.org/entity/Q7398796>	"safingol"@en
+<http://www.wikidata.org/entity/Q7383611>	"ruxolitinib"@en
+<http://www.wikidata.org/entity/Q6695342>	"lubiprostone"@en
+<http://www.wikidata.org/entity/Q7455390>	"Serratiopeptidase"@en
+<http://www.wikidata.org/entity/Q7449839>	"Semuloparin"@en
+<http://www.wikidata.org/entity/Q7449117>	"semapimod"@en
+<http://www.wikidata.org/entity/Q7517689>	"simeprevir"@en
+<http://www.wikidata.org/entity/Q6821618>	"mesoridazine"@en
+<http://www.wikidata.org/entity/Q6823309>	"metaxalone"@en
+<http://www.wikidata.org/entity/Q6823919>	"methyclothiazide"@en
+<http://www.wikidata.org/entity/Q6827850>	"micafungin"@en
+<http://www.wikidata.org/entity/Q6824116>	"metirosine"@en
+<http://www.wikidata.org/entity/Q7553347>	"sodium oxybate"@en
+<http://www.wikidata.org/entity/Q7553303>	"sodium channel blocker"@en
+<http://www.wikidata.org/entity/Q7650517>	"suvorexant"@en
+<http://www.wikidata.org/entity/Q7553377>	"Sodium tetradecyl sulfate"@en
+<http://www.wikidata.org/entity/Q7555630>	"solabegron"@en
+<http://www.wikidata.org/entity/Q6842945>	"midostaurin"@en
+<http://www.wikidata.org/entity/Q6875874>	"misonidazole"@en
+<http://www.wikidata.org/entity/Q7279762>	"(+)-emtricitabine"@en
+<http://www.wikidata.org/entity/Q7279814>	"raclopride"@en
+<http://www.wikidata.org/entity/Q7279006>	"(±)-adrenaline"@en
+<http://www.wikidata.org/entity/Q7160547>	"Pegaspargase"@en
+<http://www.wikidata.org/entity/Q5597007>	"grape seed extract"@en
+<http://www.wikidata.org/entity/Q5577596>	"ritodrine"@en
+<http://www.wikidata.org/entity/Q6696022>	"lucanthone"@en
+<http://www.wikidata.org/entity/Q6704977>	"lurtotecan"@en
+<http://www.wikidata.org/entity/Q7263674>	"Pyronaridine"@en
+<http://www.wikidata.org/entity/Q5613599>	"guanfacine"@en
+<http://www.wikidata.org/entity/Q5613542>	"guanabenz"@en
+<http://www.wikidata.org/entity/Q6720157>	"maytansine"@en
+<http://www.wikidata.org/entity/Q5896650>	"honokiol"@en
+<http://www.wikidata.org/entity/Q5908266>	"idelalisib"@en
+<http://www.wikidata.org/entity/Q5646925>	"sivelestat"@en
+<http://www.wikidata.org/entity/Q5891790>	"tramiprosate"@en
+<http://www.wikidata.org/entity/Q5754240>	"higenamine"@en
+<http://www.wikidata.org/entity/Q5675567>	"telcagepant"@en
+<http://www.wikidata.org/entity/Q5954743>	"Hydrocortisone 17-butyrate"@en
+<http://www.wikidata.org/entity/Q5957181>	"staurosporine"@en
+<http://www.wikidata.org/entity/Q7833138>	"trametinib"@en
+<http://www.wikidata.org/entity/Q7842225>	"trimetrexate(1+)"@en
+<http://www.wikidata.org/entity/Q7838098>	"Tremelimumab"@en
+<http://www.wikidata.org/entity/Q7838652>	"treosulfan"@en
+<http://www.wikidata.org/entity/Q5948038>	"enoxolone"@en
+<http://www.wikidata.org/entity/Q7844989>	"Troglitazone"@en
+<http://www.wikidata.org/entity/Q5977854>	"beraprost"@en
+<http://www.wikidata.org/entity/Q7908310>	"vadimezan"@en
+<http://www.wikidata.org/entity/Q7881588>	"umirolimus"@en
+<http://www.wikidata.org/entity/Q7846702>	"Troxacitabine"@en
+<http://www.wikidata.org/entity/Q7912593>	"Valrubicin"@en
+<http://www.wikidata.org/entity/Q7912612>	"Valsartan/hydrochlorothiazide"@en
+<http://www.wikidata.org/entity/Q5984881>	"ibrutinib"@en
+<http://www.wikidata.org/entity/Q5984069>	"ibipinabant"@en
+<http://www.wikidata.org/entity/Q15149723>	"Nintedanib"@en
+<http://www.wikidata.org/entity/Q7160789>	"Peginterferon alfa-2b"@en
+<http://www.wikidata.org/entity/Q15269682>	"anagliptin"@en
+<http://www.wikidata.org/entity/Q6881893>	"mitoguazone"@en
+<http://www.wikidata.org/entity/Q6873840>	"mirodenafil"@en
+<http://www.wikidata.org/entity/Q15269707>	"palbociclib"@en
+<http://www.wikidata.org/entity/Q6881918>	"mitotic inhibitor"@en
+<http://www.wikidata.org/entity/Q6890447>	"Mogamulizumab"@en
+<http://www.wikidata.org/entity/Q7363205>	"romidepsin"@en
+<http://www.wikidata.org/entity/Q7361410>	"rolofylline"@en
+<http://www.wikidata.org/entity/Q7334300>	"Rilonacept"@en
+<http://www.wikidata.org/entity/Q7334301>	"Rilotumumab"@en
+<http://www.wikidata.org/entity/Q7165276>	"Pentosan Polysulfate"@en
+<http://www.wikidata.org/entity/Q7168187>	"performance-enhancing substance"@en
+<http://www.wikidata.org/entity/Q7168568>	"Perindopril/indapamide"@en
+<http://www.wikidata.org/entity/Q7448840>	"selumetinib"@en
+<http://www.wikidata.org/entity/Q7131441>	"panobinostat"@en
+<http://www.wikidata.org/entity/Q7558263>	"Solithromycin"@en
+<http://www.wikidata.org/entity/Q7598360>	"standard of care"@en
+<http://www.wikidata.org/entity/Q7646304>	"surinabant"@en
+<http://www.wikidata.org/entity/Q7678897>	"Talaporfin"@en
+<http://www.wikidata.org/entity/Q7181339>	"phenethyl isothiocyanate"@en
+<http://www.wikidata.org/entity/Q7679524>	"Talimogene laherparepvec"@en
+<http://www.wikidata.org/entity/Q7688892>	"taurochenodeoxycholic acid"@en
+<http://www.wikidata.org/entity/Q7688907>	"tauroursodeoxycholic acid"@en
+<http://www.wikidata.org/entity/Q7695658>	"telavancin"@en
+<http://www.wikidata.org/entity/Q7700570>	"atenolol/chlorthalidone"@en
+<http://www.wikidata.org/entity/Q7194603>	"pimavanserin"@en
+<http://www.wikidata.org/entity/Q7191298>	"pidilizumab"@en
+<http://www.wikidata.org/entity/Q7194521>	"pilsicainide"@en
+<http://www.wikidata.org/entity/Q7190969>	"piclozotan"@en
+<http://www.wikidata.org/entity/Q13896859>	"pembrolizumab"@en
+<http://www.wikidata.org/entity/Q9635292>	"Simvastatin/sitagliptin"@en
+<http://www.wikidata.org/entity/Q10741852>	"ipratropium bromide/salbutamol"@en
+<http://www.wikidata.org/entity/Q7705415>	"Tesamorelin"@en
+<http://www.wikidata.org/entity/Q7782198>	"theodrenaline"@en
+<http://www.wikidata.org/entity/Q7784695>	"thiorphan"@en
+<http://www.wikidata.org/entity/Q7808830>	"Tipifarnib"@en
+<http://www.wikidata.org/entity/Q7799637>	"thymopentin"@en
+<http://www.wikidata.org/entity/Q10268802>	"illegal drug"@en
+<http://www.wikidata.org/entity/Q10261779>	"cromolyn sodium"@en
+<http://www.wikidata.org/entity/Q10282403>	"surgical mask"@en
+<http://www.wikidata.org/entity/Q10354103>	"probucol"@en
+<http://www.wikidata.org/entity/Q10384947>	"trofosfamide"@en
+<http://www.wikidata.org/entity/Q7825683>	"tedizolid"@en
+<http://www.wikidata.org/entity/Q7809264>	"tiropramide"@en
+<http://www.wikidata.org/entity/Q7831165>	"trace metal"@en
+<http://www.wikidata.org/entity/Q7814101>	"tolazamide"@en
+<http://www.wikidata.org/entity/Q7825530>	"torcetrapib"@en
+<http://www.wikidata.org/entity/Q15274561>	"duvoglustat"@en
+<http://www.wikidata.org/entity/Q15304877>	"raltitrexed"@en
+<http://www.wikidata.org/entity/Q15353101>	"Interferon alfacon-1"@en
+<http://www.wikidata.org/entity/Q15391928>	"perillyl alcohol"@en
+<http://www.wikidata.org/entity/Q15408406>	"etiracetam"@en
+<http://www.wikidata.org/entity/Q15295638>	"Norelgestromin"@en
+<http://www.wikidata.org/entity/Q7918002>	"Vedolizumab"@en
+<http://www.wikidata.org/entity/Q15408425>	"arbaclofen placarbil"@en
+<http://www.wikidata.org/entity/Q15409409>	"ledipasvir"@en
+<http://www.wikidata.org/entity/Q15409374>	"nafamostat"@en
+<http://www.wikidata.org/entity/Q15409404>	"lisofylline"@en
+<http://www.wikidata.org/entity/Q7919041>	"veliparib"@en
+<http://www.wikidata.org/entity/Q9268800>	"gloriosine"@en
+<http://www.wikidata.org/entity/Q15646788>	"chlorhexidine"@en
+<http://www.wikidata.org/entity/Q7280139>	"radezolid"@en
+<http://www.wikidata.org/entity/Q7679533>	"talinolol"@en
+<http://www.wikidata.org/entity/Q7698204>	"Temoporfin"@en
+<http://www.wikidata.org/entity/Q7692231>	"Technetium Tc-99m tetrofosmin"@en
+<http://www.wikidata.org/entity/Q7692228>	"Technetium (99mTc) medronic acid"@en
+<http://www.wikidata.org/entity/Q7694156>	"teduglutide"@en
+<http://www.wikidata.org/entity/Q7679540>	"talipexole"@en
+<http://www.wikidata.org/entity/Q15708351>	"naloxegol"@en
+<http://www.wikidata.org/entity/Q15708403>	"Poractant alfa"@en
+<http://www.wikidata.org/entity/Q15708278>	"aducanumab"@en
+<http://www.wikidata.org/entity/Q7701687>	"Terconazole"@en
+<http://www.wikidata.org/entity/Q15709005>	"Botulinum Toxin Type B"@en
+<http://www.wikidata.org/entity/Q15709152>	"chlorhexidine gluconate"@en
+<http://www.wikidata.org/entity/Q11450699>	"estradiol benzoate"@en
+<http://www.wikidata.org/entity/Q11497468>	"antimanic agents"@en
+<http://www.wikidata.org/entity/Q11587666>	"Diallyl sulfide"@en
+<http://www.wikidata.org/entity/Q12830468>	"psychotropic drug"@en
+<http://www.wikidata.org/entity/Q12745763>	"levonordefrin"@en
+<http://www.wikidata.org/entity/Q11786072>	"motexafin gadolinium"@en
+<http://www.wikidata.org/entity/Q12747348>	"vestipitant"@en
+<http://www.wikidata.org/entity/Q13582130>	"Certoparin"@en
+<http://www.wikidata.org/entity/Q13574436>	"Ixekizumab"@en
+<http://www.wikidata.org/entity/Q13019044>	"Amdinocillin"@en
+<http://www.wikidata.org/entity/Q7915615>	"varespladib methyl"@en
+<http://www.wikidata.org/entity/Q7917084>	"vatalanib"@en
+<http://www.wikidata.org/entity/Q16634031>	"isoproterenol"@en
+<http://www.wikidata.org/entity/Q16634231>	"Nandrolone decanoate"@en
+<http://www.wikidata.org/entity/Q15893399>	"diphtheria antitoxin"@en
+<http://www.wikidata.org/entity/Q16875676>	"hormone antagonist"@en
+<http://www.wikidata.org/entity/Q16899782>	"Diarylquinolines"@en
+<http://www.wikidata.org/entity/Q17144959>	"FOLFIRINOX"@en
+<http://www.wikidata.org/entity/Q17076294>	"procyanidin"@en
+<http://www.wikidata.org/entity/Q17149282>	"Glucocorticoids in hippocampal development"@en
+<http://www.wikidata.org/entity/Q15410178>	"testosterone undecanoate"@en
+<http://www.wikidata.org/entity/Q15410251>	"avibactam"@en
+<http://www.wikidata.org/entity/Q20801759>	"Antihemophilic Factor"@en
+<http://www.wikidata.org/entity/Q20707748>	"Atezolizumab"@en
+<http://www.wikidata.org/entity/Q20801721>	"Salmon Calcitonin"@en
+<http://www.wikidata.org/entity/Q20801720>	"Interferon alfa-n1"@en
+<http://www.wikidata.org/entity/Q15410303>	"pritelivir"@en
+<http://www.wikidata.org/entity/Q15424759>	"selexipag"@en
+<http://www.wikidata.org/entity/Q15623825>	"Evolocumab"@en
+<http://www.wikidata.org/entity/Q15427852>	"squalamine"@en
+<http://www.wikidata.org/entity/Q15624030>	"luliconazole"@en
+<http://www.wikidata.org/entity/Q10860583>	"betaine"@en
+<http://www.wikidata.org/entity/Q10860580>	"hematinic"@en
+<http://www.wikidata.org/entity/Q10910139>	"halometasone"@en
+<http://www.wikidata.org/entity/Q10909912>	"ubenimex"@en
+<http://www.wikidata.org/entity/Q11368150>	"Specific Substance Maruyama, SSM"@en
+<http://www.wikidata.org/entity/Q10910504>	"gusperimus"@en
+<http://www.wikidata.org/entity/Q14916330>	"P2RY12"@en
+<http://www.wikidata.org/entity/Q7939403>	"voglibose"@en
+<http://www.wikidata.org/entity/Q7940202>	"volinanserin"@en
+<http://www.wikidata.org/entity/Q7941753>	"vorapaxar"@en
+<http://www.wikidata.org/entity/Q8042940>	"xanomeline"@en
+<http://www.wikidata.org/entity/Q7940537>	"Volociximab"@en
+<http://www.wikidata.org/entity/Q10860261>	"diflucortolone valerate"@en
+<http://www.wikidata.org/entity/Q9003473>	"hydrotalcite"@en
+<http://www.wikidata.org/entity/Q9178218>	"radiopharmaceutical"@en
+<http://www.wikidata.org/entity/Q8347282>	"coagulant"@en
+<http://www.wikidata.org/entity/Q8065569>	"Zalutumumab"@en
+<http://www.wikidata.org/entity/Q20801763>	"Aldesleukin"@en
+<http://www.wikidata.org/entity/Q20801760>	"Intravenous Immunoglobulin"@en
+<http://www.wikidata.org/entity/Q20801777>	"Anti-thymocyte Globulin (Rabbit)"@en
+<http://www.wikidata.org/entity/Q15634081>	"irsogladine"@en
+<http://www.wikidata.org/entity/Q15634095>	"filanesib"@en
+<http://www.wikidata.org/entity/Q21506464>	"osimertinib"@en
+<http://www.wikidata.org/entity/Q20817234>	"thymalfasin"@en
+<http://www.wikidata.org/entity/Q20817235>	"interferon-alpha"@en
+<http://www.wikidata.org/entity/Q7842199>	"trimethobenzamide"@en
+<http://www.wikidata.org/entity/Q25326660>	"niraparib"@en
+<http://www.wikidata.org/entity/Q19904005>	"Durvalumab"@en
+<http://www.wikidata.org/entity/Q25326692>	"Lenzilumab"@en
+<http://www.wikidata.org/entity/Q26270990>	"rifamycin"@en
+<http://www.wikidata.org/entity/Q25401178>	"free radical scavengers"@en
+<http://www.wikidata.org/entity/Q26840825>	"pyridostigmine bromide"@en
+<http://www.wikidata.org/entity/Q26840915>	"methadone hydrochloride"@en
+<http://www.wikidata.org/entity/Q27077063>	"leucovorin calcium"@en
+<http://www.wikidata.org/entity/Q27077698>	"fondaparinux"@en
+<http://www.wikidata.org/entity/Q27077290>	"fenofibric acid"@en
+<http://www.wikidata.org/entity/Q20078502>	"dabigatran etexilate"@en
+<http://www.wikidata.org/entity/Q19946892>	"cerebrolysin"@en
+<http://www.wikidata.org/entity/Q18002993>	"navitoclax"@en
+<http://www.wikidata.org/entity/Q27077788>	"gedatolisib"@en
+<http://www.wikidata.org/entity/Q27105184>	"ketamine hydrochloride"@en
+<http://www.wikidata.org/entity/Q24745424>	"natriuretic peptide, C type"@en
+<http://www.wikidata.org/entity/Q25018296>	"Velpatasvir"@en
+<http://www.wikidata.org/entity/Q24780389>	"Flt3 ligand"@en
+<http://www.wikidata.org/entity/Q24977417>	"islatravir"@en
+<http://www.wikidata.org/entity/Q24721416>	"Natriuretic peptide, brain type"@en
+<http://www.wikidata.org/entity/Q24782841>	"Dextransucrase DSRB"@en
+<http://www.wikidata.org/entity/Q19856779>	"mitomycin"@en
+<http://www.wikidata.org/entity/Q18344323>	"pregnanolone"@en
+<http://www.wikidata.org/entity/Q18578732>	"carboprost tromethamine"@en
+<http://www.wikidata.org/entity/Q18354718>	"fallypride"@en
+<http://www.wikidata.org/entity/Q18209997>	"Galidesivir"@en
+<http://www.wikidata.org/entity/Q18209059>	"advance care planning"@en
+<http://www.wikidata.org/entity/Q18344013>	"Metadoxine"@en
+<http://www.wikidata.org/entity/Q20817252>	"tinzaparin"@en
+<http://www.wikidata.org/entity/Q20817238>	"Samarium (153sm) lexidronam"@en
+<http://www.wikidata.org/entity/Q20817236>	"ecabet"@en
+<http://www.wikidata.org/entity/Q20817257>	"nadroparin"@en
+<http://www.wikidata.org/entity/Q20948663>	"ixazomib"@en
+<http://www.wikidata.org/entity/Q23671272>	"venetoclax"@en
+<http://www.wikidata.org/entity/Q25100575>	"Pevonedistat"@en
+<http://www.wikidata.org/entity/Q25091391>	"darolutamide"@en
+<http://www.wikidata.org/entity/Q26841250>	"methacholine chloride"@en
+<http://www.wikidata.org/entity/Q26841197>	"squaric acid dibutyl ester"@en
+<http://www.wikidata.org/entity/Q27081090>	"NΩ-nitro-L-arginine methyl ester"@en
+<http://www.wikidata.org/entity/Q27088181>	"onapristone"@en
+<http://www.wikidata.org/entity/Q27084209>	"melagatran"@en
+<http://www.wikidata.org/entity/Q27077889>	"gsk-2636771"@en
+<http://www.wikidata.org/entity/Q27088208>	"opicapone"@en
+<http://www.wikidata.org/entity/Q27082450>	"LXA4"@en
+<http://www.wikidata.org/entity/Q27077807>	"ginsenoside Rg3"@en
+<http://www.wikidata.org/entity/Q27083635>	"maxacalcitol"@en
+<http://www.wikidata.org/entity/Q27089351>	"flecainide acetate"@en
+<http://www.wikidata.org/entity/Q24063589>	"nisinic acid"@en
+<http://www.wikidata.org/entity/Q27088402>	"piritrexim"@en
+<http://www.wikidata.org/entity/Q27088384>	"piclidenoson"@en
+<http://www.wikidata.org/entity/Q27088994>	"tin protoporphyrin IX"@en
+<http://www.wikidata.org/entity/Q27088412>	"plevitrexed"@en
+<http://www.wikidata.org/entity/Q27088522>	"rebastinib"@en
+<http://www.wikidata.org/entity/Q27088288>	"peficitinib"@en
+<http://www.wikidata.org/entity/Q27088553>	"ricolinostat"@en
+<http://www.wikidata.org/entity/Q27088685>	"salirasib"@en
+<http://www.wikidata.org/entity/Q27088210>	"orantinib"@en
+<http://www.wikidata.org/entity/Q20089925>	"gliflozins"@en
+<http://www.wikidata.org/entity/Q17149812>	"Janus kinase inhibitors"@en
+<http://www.wikidata.org/entity/Q17193526>	"ipragliflozin"@en
+<http://www.wikidata.org/entity/Q20539232>	"eluxadoline"@en
+<http://www.wikidata.org/entity/Q21011224>	"eliglustat"@en
+<http://www.wikidata.org/entity/Q27074470>	"antarelix"@en
+<http://www.wikidata.org/entity/Q27074464>	"angiotensin 1-7"@en
+<http://www.wikidata.org/entity/Q27074125>	"upadacitinib"@en
+<http://www.wikidata.org/entity/Q27074501>	"argatroban"@en
+<http://www.wikidata.org/entity/Q27074716>	"adavosertib"@en
+<http://www.wikidata.org/entity/Q27074035>	"7-hydroxystaurosporine"@en
+<http://www.wikidata.org/entity/Q27075486>	"brequinar"@en
+<http://www.wikidata.org/entity/Q27075007>	"bempedoic acid"@en
+<http://www.wikidata.org/entity/Q27075280>	"binodenoson"@en
+<http://www.wikidata.org/entity/Q27075664>	"candesartan cilexetil"@en
+<http://www.wikidata.org/entity/Q25100990>	"talazoparib"@en
+<http://www.wikidata.org/entity/Q27098039>	"atracurium"@en
+<http://www.wikidata.org/entity/Q27096436>	"uc-781"@en
+<http://www.wikidata.org/entity/Q27096784>	"chloramphenicol succinate"@en
+<http://www.wikidata.org/entity/Q27097224>	"5-[(2S)-2-methylpiperazin-1-yl]sulfonylisoquinoline"@en
+<http://www.wikidata.org/entity/Q27094456>	"eniluracil"@en
+<http://www.wikidata.org/entity/Q27094388>	"quinidine gluconate"@en
+<http://www.wikidata.org/entity/Q27093778>	"phosphonoacetic acid"@en
+<http://www.wikidata.org/entity/Q27095557>	"phenserine"@en
+<http://www.wikidata.org/entity/Q27095907>	"bryostatin 1"@en
+<http://www.wikidata.org/entity/Q27095075>	"tretazicar"@en
+<http://www.wikidata.org/entity/Q27097831>	"dapivirine"@en
+<http://www.wikidata.org/entity/Q27095558>	"tesmilifene"@en
+<http://www.wikidata.org/entity/Q25104592>	"sarecycline"@en
+<http://www.wikidata.org/entity/Q25323953>	"Entrectinib"@en
+<http://www.wikidata.org/entity/Q25112466>	"Risankizumab"@en
+<http://www.wikidata.org/entity/Q25323757>	"Aripiprazole lauroxil"@en
+<http://www.wikidata.org/entity/Q25104603>	"Rindopepimut"@en
+<http://www.wikidata.org/entity/Q27107351>	"methylprednisolone acetate"@en
+<http://www.wikidata.org/entity/Q27107089>	"ketorolac tromethamine"@en
+<http://www.wikidata.org/entity/Q27107266>	"Lypressin"@en
+<http://www.wikidata.org/entity/Q27107182>	"Lappaconitine"@en
+<http://www.wikidata.org/entity/Q21011231>	"ceftolozane"@en
+<http://www.wikidata.org/entity/Q27105936>	"betamethasone sodium phosphate"@en
+<http://www.wikidata.org/entity/Q27105931>	"benztropine mesylate"@en
+<http://www.wikidata.org/entity/Q21011228>	"dulaglutide"@en
+<http://www.wikidata.org/entity/Q21011234>	"edoxaban"@en
+<http://www.wikidata.org/entity/Q21011233>	"ceritinib"@en
+<http://www.wikidata.org/entity/Q21011227>	"tedizolid phosphate"@en
+<http://www.wikidata.org/entity/Q21011226>	"tavaborole"@en
+<http://www.wikidata.org/entity/Q21011288>	"metacognitive therapy"@en
+<http://www.wikidata.org/entity/Q21083321>	"efatutazone"@en
+<http://www.wikidata.org/entity/Q21057316>	"coal tar pitch volatiles"@en
+<http://www.wikidata.org/entity/Q21098957>	"saracatinib"@en
+<http://www.wikidata.org/entity/Q21098912>	"serlopitant"@en
+<http://www.wikidata.org/entity/Q27106392>	"dexamethasone acetate"@en
+<http://www.wikidata.org/entity/Q27102474>	"hydrocortisone acetate"@en
+<http://www.wikidata.org/entity/Q27106184>	"clindamycin phosphate"@en
+<http://www.wikidata.org/entity/Q27106347>	"decursin"@en
+<http://www.wikidata.org/entity/Q27075985>	"cholesteryl sulfate"@en
+<http://www.wikidata.org/entity/Q27075889>	"CGP-12177"@en
+<http://www.wikidata.org/entity/Q27076117>	"cloprostenol"@en
+<http://www.wikidata.org/entity/Q27107357>	"(RS)-mexiletine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27108063>	"prednisolone acetate"@en
+<http://www.wikidata.org/entity/Q27108402>	"testosterone enanthate"@en
+<http://www.wikidata.org/entity/Q27104064>	"bunolol"@en
+<http://www.wikidata.org/entity/Q27104202>	"hydrocortisone hemisuccinate"@en
+<http://www.wikidata.org/entity/Q21099362>	"aristolochic acid I"@en
+<http://www.wikidata.org/entity/Q21099552>	"rigosertib"@en
+<http://www.wikidata.org/entity/Q27104943>	"dolastatin 10"@en
+<http://www.wikidata.org/entity/Q27105174>	"cefditoren pivoxil"@en
+<http://www.wikidata.org/entity/Q27105159>	"alpha-galactosylceramide"@en
+<http://www.wikidata.org/entity/Q21099600>	"methylselenocysteine"@en
+<http://www.wikidata.org/entity/Q21111228>	"Proteasome 26S subunit, non-ATPase 4"@en
+<http://www.wikidata.org/entity/Q21396219>	"tetrathiomolybdate"@en
+<http://www.wikidata.org/entity/Q27132391>	"formoterol fumarate"@en
+<http://www.wikidata.org/entity/Q27108485>	"trimethaphan camsylate"@en
+<http://www.wikidata.org/entity/Q27108462>	"triamcinolone diacetate"@en
+<http://www.wikidata.org/entity/Q27108523>	"vecuronium bromide"@en
+<http://www.wikidata.org/entity/Q27108525>	"venlafaxine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27113963>	"ethylenediaminetetraacetatoferrate(1-)"@en
+<http://www.wikidata.org/entity/Q27114198>	"alclometasone dipropionate"@en
+<http://www.wikidata.org/entity/Q27114238>	"atazanavir sulfate"@en
+<http://www.wikidata.org/entity/Q27114666>	"imatinib mesylate"@en
+<http://www.wikidata.org/entity/Q27114254>	"betamethasone acetate"@en
+<http://www.wikidata.org/entity/Q27114261>	"bepotastine besilate"@en
+<http://www.wikidata.org/entity/Q27114406>	"erythromycin ethylsuccinate"@en
+<http://www.wikidata.org/entity/Q27161510>	"(5R)-24,25-Dihydroxyvitamin D"@en
+<http://www.wikidata.org/entity/Q27108095>	"propranolol hydrochloride"@en
+<http://www.wikidata.org/entity/Q27117271>	"penicillanic acid"@en
+<http://www.wikidata.org/entity/Q27121179>	"cinacalcet hydrochloride"@en
+<http://www.wikidata.org/entity/Q27122215>	"raloxifene hydrochloride"@en
+<http://www.wikidata.org/entity/Q27122452>	"brimonidine tartrate"@en
+<http://www.wikidata.org/entity/Q27116971>	"duloxetine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27121125>	"diclofenac epolamine"@en
+<http://www.wikidata.org/entity/Q27108136>	"quetiapine fumarate"@en
+<http://www.wikidata.org/entity/Q27124083>	"erlotinib hydrochloride"@en
+<http://www.wikidata.org/entity/Q27123095>	"carbenicillin indanyl"@en
+<http://www.wikidata.org/entity/Q27114732>	"oxytetracycline hydrochloride"@en
+<http://www.wikidata.org/entity/Q27114793>	"sapropterin dihydrochloride"@en
+<http://www.wikidata.org/entity/Q27114836>	"tolterodine tartrate"@en
+<http://www.wikidata.org/entity/Q27115152>	"cetylpyridinium"@en
+<http://www.wikidata.org/entity/Q27132395>	"fingolimod hydrochloride"@en
+<http://www.wikidata.org/entity/Q27116688>	"taxane"@en
+<http://www.wikidata.org/entity/Q27116117>	"8-epi-prostaglandin F2alpha"@en
+<http://www.wikidata.org/entity/Q27106503>	"erythromycin estolate"@en
+<http://www.wikidata.org/entity/Q27146836>	"rosuvastatin calcium"@en
+<http://www.wikidata.org/entity/Q27132705>	"propafenone(1+)"@en
+<http://www.wikidata.org/entity/Q27139037>	"vilazodone hydrochloride"@en
+<http://www.wikidata.org/entity/Q27137065>	"dexamethasone phosphate"@en
+<http://www.wikidata.org/entity/Q27132704>	"sotalol(1+)"@en
+<http://www.wikidata.org/entity/Q27157250>	"paliperidone palmitate"@en
+<http://www.wikidata.org/entity/Q27160191>	"bisantrene"@en
+<http://www.wikidata.org/entity/Q27108275>	"sennoside A"@en
+<http://www.wikidata.org/entity/Q27108147>	"(Z)-N-{2-[({5-[(dimethylamino)methyl]-2-furanyl}methyl)thio]ethyl}-N′-methyl-2-nitro-1,1-ethenediamine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27108214>	"salvianolic acid a"@en
+<http://www.wikidata.org/entity/Q27126379>	"sildenafil citrate"@en
+<http://www.wikidata.org/entity/Q27256351>	"simendan"@en
+<http://www.wikidata.org/entity/Q27256234>	"racepinephrine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27260891>	"lansoprazole N-oxide"@en
+<http://www.wikidata.org/entity/Q27260414>	"dianhydrogalactitol"@en
+<http://www.wikidata.org/entity/Q27259614>	"ticagrelor hydrochloride"@en
+<http://www.wikidata.org/entity/Q27225729>	"atomoxetine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27149808>	"9-aminocamptothecin"@en
+<http://www.wikidata.org/entity/Q27162952>	"tiotropium bromide"@en
+<http://www.wikidata.org/entity/Q27231369>	"itasetron"@en
+<http://www.wikidata.org/entity/Q27236700>	"flutemetamol"@en
+<http://www.wikidata.org/entity/Q27236484>	"nikkomycin Z hydrochloride"@en
+<http://www.wikidata.org/entity/Q27236503>	"biperiden lactate"@en
+<http://www.wikidata.org/entity/Q27259224>	"sitagliptin phosphate"@en
+<http://www.wikidata.org/entity/Q20817068>	"halobetasol propionate"@en
+<http://www.wikidata.org/entity/Q20817188>	"pipecuronium"@en
+<http://www.wikidata.org/entity/Q20817118>	"Histamine Phosphate"@en
+<http://www.wikidata.org/entity/Q21820633>	"Lesinurad"@en
+<http://www.wikidata.org/entity/Q27126475>	"fosinopril(1-)"@en
+<http://www.wikidata.org/entity/Q27130957>	"scopolamine hydrobromide"@en
+<http://www.wikidata.org/entity/Q27128288>	"methyl aminolevulinate hydrochloride"@en
+<http://www.wikidata.org/entity/Q27132072>	"11alpha-hydroxyprogesterone 11-glucosiduronic acid"@en
+<http://www.wikidata.org/entity/Q27126907>	"domperidone maleate"@en
+<http://www.wikidata.org/entity/Q27260984>	"etoposide phosphate"@en
+<http://www.wikidata.org/entity/Q27258678>	"raltegravir potassium"@en
+<http://www.wikidata.org/entity/Q27257882>	"dmp-777"@en
+<http://www.wikidata.org/entity/Q27257344>	"zuclomiphene"@en
+<http://www.wikidata.org/entity/Q27256565>	"technetium Tc-99m mertiatide"@en
+<http://www.wikidata.org/entity/Q27166812>	"tosedostat"@en
+<http://www.wikidata.org/entity/Q27164953>	"flupentixol"@en
+<http://www.wikidata.org/entity/Q27163080>	"(3S,5R,6S)-beta-cryptoxanthin 5,6-epoxide"@en
+<http://www.wikidata.org/entity/Q22075835>	"somatostatin"@en
+<http://www.wikidata.org/entity/Q23044263>	"lifitegrast"@en
+<http://www.wikidata.org/entity/Q22075865>	"Technetium Tc-99m exametazime"@en
+<http://www.wikidata.org/entity/Q22124685>	"L-methionine"@en
+<http://www.wikidata.org/entity/Q22275022>	"epothilone biosynthetic process"@en
+<http://www.wikidata.org/entity/Q22075875>	"Polaprezinc"@en
+<http://www.wikidata.org/entity/Q23668732>	"acalabrutinib"@en
+<http://www.wikidata.org/entity/Q27262132>	"methylprednisolone hemisuccinate"@en
+<http://www.wikidata.org/entity/Q27266327>	"prednisolone 21-phosphate"@en
+<http://www.wikidata.org/entity/Q27236856>	"trifarotene"@en
+<http://www.wikidata.org/entity/Q27237004>	"tetrahydrouridine"@en
+<http://www.wikidata.org/entity/Q27237315>	"hydroxyitraconazole"@en
+<http://www.wikidata.org/entity/Q27252433>	"3,5-diiodothyropropionic acid"@en
+<http://www.wikidata.org/entity/Q27252535>	"repinotan hydrochloride"@en
+<http://www.wikidata.org/entity/Q27252764>	"fluoroazomycin arabinoside"@en
+<http://www.wikidata.org/entity/Q27255961>	"almagate"@en
+<http://www.wikidata.org/entity/Q27253660>	"clomethiazole edisylate"@en
+<http://www.wikidata.org/entity/Q27255766>	"olopatadine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27254880>	"guadecitabine"@en
+<http://www.wikidata.org/entity/Q27252312>	"trospium chloride"@en
+<http://www.wikidata.org/entity/Q27253983>	"tiapride hydrochloride"@en
+<http://www.wikidata.org/entity/Q27261285>	"technetium tc-99m sulfur colloid"@en
+<http://www.wikidata.org/entity/Q27251094>	"furosemide sodium"@en
+<http://www.wikidata.org/entity/Q27251441>	"verinurad"@en
+<http://www.wikidata.org/entity/Q27252228>	"vaborbactam"@en
+<http://www.wikidata.org/entity/Q27271976>	"amiodarone hydrochloride"@en
+<http://www.wikidata.org/entity/Q27269010>	"sulpiride adamantanecarboxylate"@en
+<http://www.wikidata.org/entity/Q27269802>	"betamethasone benzoate"@en
+<http://www.wikidata.org/entity/Q27269230>	"ferrous succinate"@en
+<http://www.wikidata.org/entity/Q27272066>	"bendamustine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27271005>	"clobetasone butyrate"@en
+<http://www.wikidata.org/entity/Q27283244>	"erythromycin stearate"@en
+<http://www.wikidata.org/entity/Q27284137>	"epinephryl borate"@en
+<http://www.wikidata.org/entity/Q27262496>	"rivaroxaban diol"@en
+<http://www.wikidata.org/entity/Q27262801>	"apatinib"@en
+<http://www.wikidata.org/entity/Q27262637>	"vardenafil dihydrochloride"@en
+<http://www.wikidata.org/entity/Q27262776>	"iproplatin"@en
+<http://www.wikidata.org/entity/Q27264629>	"chloroquine phosphate"@en
+<http://www.wikidata.org/entity/Q27264747>	"salmeterol xinafoate"@en
+<http://www.wikidata.org/entity/Q27264013>	"penclomedine"@en
+<http://www.wikidata.org/entity/Q27264459>	"hydroquinidine hydrochloride"@en
+<http://www.wikidata.org/entity/Q27278862>	"prednisolone hemisuccinate"@en
+<http://www.wikidata.org/entity/Q27276773>	"azd-3199"@en
+<http://www.wikidata.org/entity/Q27276430>	"gw-328267"@en
+<http://www.wikidata.org/entity/Q27275368>	"tinoridine"@en
+<http://www.wikidata.org/entity/Q27275230>	"ferric gluconate"@en
+<http://www.wikidata.org/entity/Q27275195>	"clindamycin palmitate"@en
+<http://www.wikidata.org/entity/Q27285188>	"ro-23-7553"@en
+<http://www.wikidata.org/entity/Q27284267>	"monophosphoryl lipid a"@en
+<http://www.wikidata.org/entity/Q27285487>	"vesatolimod"@en
+<http://www.wikidata.org/entity/Q27284724>	"ceftobiprole medocaril sodium"@en
+<http://www.wikidata.org/entity/Q27263777>	"baclofen hydrochloride"@en
+<http://www.wikidata.org/entity/Q27262959>	"ketoprofen lysine"@en
+<http://www.wikidata.org/entity/Q27263339>	"qs-21"@en
+<http://www.wikidata.org/entity/Q27285584>	"plerixafor octahydrochloride"@en
+<http://www.wikidata.org/entity/Q27274109>	"veledimex"@en
+<http://www.wikidata.org/entity/Q27274720>	"S-3304"@en
+<http://www.wikidata.org/entity/Q27273855>	"haloperidol decanoate"@en
+<http://www.wikidata.org/entity/Q28859602>	"clopidogrel / acetylsalicylic acid"@en
+<http://www.wikidata.org/entity/Q27285633>	"risedronate sodium"@en
+<http://www.wikidata.org/entity/Q27285931>	"octenidine"@en
+<http://www.wikidata.org/entity/Q27288128>	"piperazine citrate"@en
+<http://www.wikidata.org/entity/Q27287834>	"anecortave"@en
+<http://www.wikidata.org/entity/Q27286805>	"10-deazaaminopterin"@en
+<http://www.wikidata.org/entity/Q27274982>	"rimacalib"@en
+<http://www.wikidata.org/entity/Q27274815>	"retinamide"@en
+<http://www.wikidata.org/entity/Q27288139>	"penicillin g benzathine"@en
+<http://www.wikidata.org/entity/Q27288520>	"acyline"@en
+<http://www.wikidata.org/entity/Q27289243>	"lisdexamfetamine dimesylate"@en
+<http://www.wikidata.org/entity/Q27289127>	"castor oil phosphate"@en
+<http://www.wikidata.org/entity/Q27288192>	"esorubicin"@en
+<http://www.wikidata.org/entity/Q29004943>	"Caelyx"@en
+<http://www.wikidata.org/entity/Q28859632>	"fenofibrate / pravastatin"@en
+<http://www.wikidata.org/entity/Q27278929>	"prasugrel hydrochloride"@en
+<http://www.wikidata.org/entity/Q27289746>	"motesanib diphosphate"@en
+<http://www.wikidata.org/entity/Q27289710>	"proroxan"@en
+<http://www.wikidata.org/entity/Q27289962>	"metoprolol succinate"@en
+<http://www.wikidata.org/entity/Q27294771>	"N-monoacetylcystine"@en
+<http://www.wikidata.org/entity/Q27292049>	"technetium tc-99m pentetate"@en
+<http://www.wikidata.org/entity/Q27292377>	"voruciclib"@en
+<http://www.wikidata.org/entity/Q27293467>	"tropisetron mesylate"@en
+<http://www.wikidata.org/entity/Q27292704>	"otamixaban hydrochloride"@en
+<http://www.wikidata.org/entity/Q27294252>	"lorazepam acetate"@en
+<http://www.wikidata.org/entity/Q27265681>	"bradykinin triacetate"@en
+<http://www.wikidata.org/entity/Q27264956>	"delanzomib"@en
+<http://www.wikidata.org/entity/Q27265085>	"ilorasertib"@en
+<http://www.wikidata.org/entity/Q27882070>	"lurasidone hydrochloride"@en
+<http://www.wikidata.org/entity/Q27280084>	"gallium citrate"@en
+<http://www.wikidata.org/entity/Q27279801>	"desvenlafaxine succinate"@en
+<http://www.wikidata.org/entity/Q27279527>	"porfiromycin"@en
+<http://www.wikidata.org/entity/Q27279616>	"idrabiotaparinux"@en
+<http://www.wikidata.org/entity/Q27281012>	"quinidine sulfate dihydrate"@en
+<http://www.wikidata.org/entity/Q27280663>	"canertinib dihydrochloride"@en
+<http://www.wikidata.org/entity/Q27868181>	"orengedokuto"@en
+<http://www.wikidata.org/entity/Q27294820>	"givinostat hydrochloride"@en
+<http://www.wikidata.org/entity/Q27281750>	"2-chloro-3'-deoxyadenosine"@en
+<http://www.wikidata.org/entity/Q27281714>	"uprifosbuvir"@en
+<http://www.wikidata.org/entity/Q27888052>	"atorvastatin calcium"@en
+<http://www.wikidata.org/entity/Q39045244>	"cortisone acetate"@en
+<http://www.wikidata.org/entity/Q27282248>	"dipyridamole tripiperidine"@en
+<http://www.wikidata.org/entity/Q27281957>	"mk-0873"@en
+<http://www.wikidata.org/entity/Q27282619>	"esomeprazole sodium"@en
+<http://www.wikidata.org/entity/Q27888058>	"olmesartan medoxomil"@en
+<http://www.wikidata.org/entity/Q40207875>	"antiviral agent"@en
+<http://www.wikidata.org/entity/Q39045292>	"canrenoic acid"@en
+<http://www.wikidata.org/entity/Q39053484>	"artesunate/pyronaridine"@en
+<http://www.wikidata.org/entity/Q39045318>	"Clocortolone pivalate"@en
+<http://www.wikidata.org/entity/Q27888393>	"abiraterone acetate"@en
+<http://www.wikidata.org/entity/Q44793182>	"fluoride"@en
+<http://www.wikidata.org/entity/Q28208734>	"Enclomifene"@en
+<http://www.wikidata.org/entity/Q27896019>	"ensartinib"@en
+<http://www.wikidata.org/entity/Q27895417>	"ivosidenib"@en
+<http://www.wikidata.org/entity/Q27896127>	"f-901318"@en
+<http://www.wikidata.org/entity/Q28209017>	"erenumab"@en
+<http://www.wikidata.org/entity/Q28163641>	"pulmonary surfactant"@en
+<http://www.wikidata.org/entity/Q28209496>	"remdesivir"@en
+<http://www.wikidata.org/entity/Q27282934>	"ritobegron"@en
+<http://www.wikidata.org/entity/Q27283015>	"mitolactol"@en
+<http://www.wikidata.org/entity/Q28559278>	"Plecanatide"@en
+<http://www.wikidata.org/entity/Q28851735>	"adefovir dipivoxil"@en
+<http://www.wikidata.org/entity/Q48566702>	"Hydrocortisone / Neomycin / Polymyxin B"@en
+<http://www.wikidata.org/entity/Q48566655>	"Enalapril / Hydrochlorothiazide"@en
+<http://www.wikidata.org/entity/Q49872458>	"Ergocalciferols"@en
+<http://www.wikidata.org/entity/Q48566781>	"Chlordiazepoxide / clidinium"@en
+<http://www.wikidata.org/entity/Q48566776>	"ethinyl estradiol / norethindrone"@en
+<http://www.wikidata.org/entity/Q48566783>	"acyclovir/hydrocortisone"@en
+<http://www.wikidata.org/entity/Q50429626>	"immunological antineoplastic agent"@en
+<http://www.wikidata.org/entity/Q48566808>	"Amlodipine / atorvastatin"@en
+<http://www.wikidata.org/entity/Q48566819>	"Omeprazole / Sodium Bicarbonate"@en
+<http://www.wikidata.org/entity/Q50429947>	"postcoital contraceptives"@en
+<http://www.wikidata.org/entity/Q50315890>	"chelating agent"@en
+<http://www.wikidata.org/entity/Q50315992>	"HIV protease inhibitors"@en
+<http://www.wikidata.org/entity/Q50265665>	"insulin"@en
+<http://www.wikidata.org/entity/Q50429983>	"estrogen antagonist"@en
+<http://www.wikidata.org/entity/Q50429959>	"neuromuscular nondepolarizing agents"@en
+<http://www.wikidata.org/entity/Q50430050>	"hormones, hormone substitutes, and hormone antagonists"@en
+<http://www.wikidata.org/entity/Q50430176>	"antithyroid agents"@en
+<http://www.wikidata.org/entity/Q50430226>	"serotonergic agent"@en
+<http://www.wikidata.org/entity/Q50430223>	"peripheral nervous system agent"@en
+<http://www.wikidata.org/entity/Q50430133>	"progestins"@en
+<http://www.wikidata.org/entity/Q50430151>	"renal agents"@en
+<http://www.wikidata.org/entity/Q50430184>	"neurotransmitter uptake inhibitor"@en
+<http://www.wikidata.org/entity/Q50430229>	"adrenergic agent"@en
+<http://www.wikidata.org/entity/Q50430231>	"cholinergic agent"@en
+<http://www.wikidata.org/entity/Q47495694>	"(17R)-norethindrone acetate"@en
+<http://www.wikidata.org/entity/Q47487562>	"dexmethylphenidate hydrochloride"@en
+<http://www.wikidata.org/entity/Q50349184>	"immunologic factor"@en
+<http://www.wikidata.org/entity/Q50377192>	"hypnotics and sedatives"@en
+<http://www.wikidata.org/entity/Q29005900>	"Genvoya"@en
+<http://www.wikidata.org/entity/Q29005788>	"Emselex"@en
+<http://www.wikidata.org/entity/Q47495766>	"D-Glucose, 2-deoxy-2-[[(methylnitrosoamino)carbonyl]amino]-"@en
+<http://www.wikidata.org/entity/Q47495783>	"(−)-selegiline"@en
+<http://www.wikidata.org/entity/Q47522000>	"Plasma-lyte 148"@en
+<http://www.wikidata.org/entity/Q48566653>	"Albuterol / Ipratropium"@en
+<http://www.wikidata.org/entity/Q28859601>	"alendronate sodium trihydrate / colecalciferol"@en
+<http://www.wikidata.org/entity/Q31948091>	"beclometasone"@en
+<http://www.wikidata.org/entity/Q29006047>	"Ixiaro"@en
+<http://www.wikidata.org/entity/Q29782697>	"nmrk1"@en
+<http://www.wikidata.org/entity/Q28852424>	"human immunoglobulin g"@en
+<http://www.wikidata.org/entity/Q28852444>	"desirudin"@en
+<http://www.wikidata.org/entity/Q28856123>	"dalbavancin hydrochloride"@en
+<http://www.wikidata.org/entity/Q50316261>	"adrenergic beta-agonists"@en
+<http://www.wikidata.org/entity/Q50316504>	"HIV Integrase Inhibitors"@en
+<http://www.wikidata.org/entity/Q50377200>	"phytogenic antineoplastic agents"@en
+<http://www.wikidata.org/entity/Q50429535>	"orexin receptor antagonists"@en
+<http://www.wikidata.org/entity/Q48566757>	"Bisoprolol / Hydrochlorothiazide"@en
+<http://www.wikidata.org/entity/Q48566764>	"p-Hydroxyamphetamine / Tropicamide"@en
+<http://www.wikidata.org/entity/Q50430271>	"Anesthetics, Combined"@en
+<http://www.wikidata.org/entity/Q50430087>	"mitogens"@en
+<http://www.wikidata.org/entity/Q50430113>	"oxytocics"@en
+<http://www.wikidata.org/entity/Q50430101>	"neuromuscular blocking agents"@en
+<http://www.wikidata.org/entity/Q50429939>	"combined oral contraceptives"@en
+<http://www.wikidata.org/entity/Q50430266>	"hormonal antineoplastic agents"@en
+<http://www.wikidata.org/entity/Q50430264>	"anti-allergic agents"@en
+<http://www.wikidata.org/entity/Q50430246>	"second-generation antidepressive agents"@en
+<http://www.wikidata.org/entity/Q50430265>	"anti-asthmatic agents"@en
+<http://www.wikidata.org/entity/Q34045790>	"Antitussive agents as N-methylaspartate antagonists: further studies"@en
+<http://www.wikidata.org/entity/Q50429941>	"oral hormonal contraceptives"@en
+<http://www.wikidata.org/entity/Q50377179>	"topoisomerase I inhibitors"@en
+<http://www.wikidata.org/entity/Q50377188>	"local anti-infective agent"@en
+<http://www.wikidata.org/entity/Q50429865>	"Antimetabolites"@en
+<http://www.wikidata.org/entity/Q50429629>	"Abuse-Deterrent Formulations"@en
+<http://www.wikidata.org/entity/Q50429823>	"anesthesia adjuvants"@en
+<http://www.wikidata.org/entity/Q50573431>	"Contact Lens Solutions"@en
+<http://www.wikidata.org/entity/Q50573421>	"Hemodialysis Solutions"@en
+<http://www.wikidata.org/entity/Q50573442>	"Nonsteroidal Anti-Androgens"@en
+<http://www.wikidata.org/entity/Q50429910>	"cariostatic agent"@en
+<http://www.wikidata.org/entity/Q50429922>	"cholagogues and choleretics"@en
+<http://www.wikidata.org/entity/Q50573636>	"fibrinolytic agents"@en
+<http://www.wikidata.org/entity/Q50840582>	"Angiotensin II"@en
+<http://www.wikidata.org/entity/Q50377190>	"neuroprotective agent"@en
+<http://www.wikidata.org/entity/Q50377189>	"urinary anti-infective agents"@en
+<http://www.wikidata.org/entity/Q50573405>	"cardioplegic solutions"@en
+<http://www.wikidata.org/entity/Q50573407>	"folic acid antagonists"@en
+<http://www.wikidata.org/entity/Q50430502>	"Cytochrome P-450 CYP1A2 Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430506>	"Cytochrome P-450 CYP2C9 Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430479>	"calcineurin inhibitors"@en
+<http://www.wikidata.org/entity/Q50430512>	"Cytochrome P-450 CYP3A Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430508>	"Cytochrome P-450 CYP2D6 Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430487>	"aromatic amino acid decarboxylase inhibitors"@en
+<http://www.wikidata.org/entity/Q50430501>	"Cytochrome P-450 Enzyme Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430507>	"Cytochrome P-450 CYP2C19 Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430500>	"Estrogen Receptor Antagonists"@en
+<http://www.wikidata.org/entity/Q50573413>	"Root Canal Irrigants"@en
+<http://www.wikidata.org/entity/Q50430244>	"intravenous anesthetics"@en
+<http://www.wikidata.org/entity/Q58758236>	"Tetanus Antitoxin; Its Preparation and Properties"@en
+<http://www.wikidata.org/entity/Q58863345>	"Carbonic anhydrase inhibitors"@en
+<http://www.wikidata.org/entity/Q58814178>	"17 alpha-hydroxyprogesterone caproate does not prolong pregnancy or reduce the rate of preterm birth in women at high risk for preterm delivery and a short cervix: a randomized controlled trial"@en
+<http://www.wikidata.org/entity/Q58973927>	"Penicillins"@en
+<http://www.wikidata.org/entity/Q58523372>	"Heptavalent Pneumococcal Conjugate Vaccine"@en
+<http://www.wikidata.org/entity/Q58723670>	"Emetics and Nauseants"@en
+<http://www.wikidata.org/entity/Q58854638>	"Antiprotozoal agents as water soluble singlet oxygen photosensitizers: Imidazo[1,2-a]pyridine and 5,6,7,8-tetrahydro-imidazo[1,2-a]pyridine derivatives"@en
+<http://www.wikidata.org/entity/Q58844625>	"Antiparasitic agents"@en
+<http://www.wikidata.org/entity/Q58830693>	"COLD AGGLUTININS, THE DIRECT COOMBS' TEST AND SERUM IMMUNOGLOBULINS IN MYCOPLASMA PNEUMONIAE INFECTION"@en
+<http://www.wikidata.org/entity/Q59056118>	"Histamine Antagonists"@en
+<http://www.wikidata.org/entity/Q58981795>	"Enzyme Inhibitors"@en
+<http://www.wikidata.org/entity/Q59488357>	"Serotonin uptake inhibitors attenuate ethanol intake in humans"@en
+<http://www.wikidata.org/entity/Q56090295>	"tanshinone"@en
+<http://www.wikidata.org/entity/Q56363387>	"Chloroquine diphosphate bearing dextran nanoparticles augmented drug delivery and overwhelmed drug resistance in Plasmodium falciparum parasites"@en
+<http://www.wikidata.org/entity/Q55952250>	"Histone Deacetylase Inhibitors"@en
+<http://www.wikidata.org/entity/Q56429438>	"Spironolactone"@en
+<http://www.wikidata.org/entity/Q55641547>	"ravulizumab"@en
+<http://www.wikidata.org/entity/Q56719288>	"metamizole"@en
+<http://www.wikidata.org/entity/Q66559285>	"immunoglobulin"@en
+<http://www.wikidata.org/entity/Q61954719>	"bacitracin"@en
+<http://www.wikidata.org/entity/Q60269771>	"Liver Extracts in the Treatment of Malignant Disease"@en
+<http://www.wikidata.org/entity/Q64085233>	"Retinol palmitate protects against myocardial ischemia/reperfusion injury via reducing oxidative stress and inhibiting apoptosis"@en
+<http://www.wikidata.org/entity/Q107401561>	"MP0420"@en
+<http://www.wikidata.org/entity/Q110495073>	"weight loss treatment"@en
+<http://www.wikidata.org/entity/Q110533402>	"computer glasses"@en
+<http://www.wikidata.org/entity/Q56855890>	"Factor Xa inhibitors [extracellular region]"@en
+<http://www.wikidata.org/entity/Q58086618>	"Radiopharmaceuticals"@en
+<http://www.wikidata.org/entity/Q58125727>	"Hypoglycemic Agents: Micro-Determination by Highly Sensitive and Validated Spectrophotometric Techniques"@en
+<http://www.wikidata.org/entity/Q57694897>	"SurveyCrest"@en
+<http://www.wikidata.org/entity/Q57271764>	"turmeric extract"@en
+<http://www.wikidata.org/entity/Q50430310>	"anti-retroviral agent"@en
+<http://www.wikidata.org/entity/Q50430307>	"Angiogenesis Modulating Agents"@en
+<http://www.wikidata.org/entity/Q50430282>	"leukotriene antagonists"@en
+<http://www.wikidata.org/entity/Q50430308>	"angiogenesis inducing agents"@en
+<http://www.wikidata.org/entity/Q50430305>	"non-sedating histamine H1 antagonists"@en
+<http://www.wikidata.org/entity/Q50430348>	"Viscosupplements"@en
+<http://www.wikidata.org/entity/Q50430355>	"angiotensin receptor antagonists"@en
+<http://www.wikidata.org/entity/Q50430343>	"Histamine H3 Antagonists"@en
+<http://www.wikidata.org/entity/Q50430323>	"Sodium Chloride Symporter Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430312>	"natriuretic agent"@en
+<http://www.wikidata.org/entity/Q50430332>	"complement inactivating agents"@en
+<http://www.wikidata.org/entity/Q50430324>	"Sodium Potassium Chloride Symporter Inhibitors"@en
+<http://www.wikidata.org/entity/Q72481170>	"Heparin calcium"@en
+<http://www.wikidata.org/entity/Q69523775>	"Fluorides, Topical"@en
+<http://www.wikidata.org/entity/Q69754413>	"2-amino-6-chloropyridine"@en
+<http://www.wikidata.org/entity/Q67999591>	"complement system proteins"@en
+<http://www.wikidata.org/entity/Q58414129>	"Caseins in emulsions: interfacial properties and interactions"@en
+<http://www.wikidata.org/entity/Q72502485>	"Propolis"@en
+<http://www.wikidata.org/entity/Q72513759>	"bupivacaine"@en
+<http://www.wikidata.org/entity/Q57479462>	"Laxatives"@en
+<http://www.wikidata.org/entity/Q57528086>	"Osteoarthritis of the Knee"@en
+<http://www.wikidata.org/entity/Q57778960>	"Protective Agents in Parkinson's Disease: Caffeine and Adenosine A2A Receptor Antagonists"@en
+<http://www.wikidata.org/entity/Q57664607>	"Photosensitizing agents and the risk of non-melanoma skin cancer: a population-based case-control study"@en
+<http://www.wikidata.org/entity/Q57980054>	"Kininogens and kallikrein in pruritic papular eruption"@en
+<http://www.wikidata.org/entity/Q57742876>	"baloxavir"@en
+<http://www.wikidata.org/entity/Q75007385>	"ferric compounds"@en
+<http://www.wikidata.org/entity/Q73902577>	"artemisinins"@en
+<http://www.wikidata.org/entity/Q73411935>	"GM604"@en
+<http://www.wikidata.org/entity/Q75011022>	"indoleacetic acids"@en
+<http://www.wikidata.org/entity/Q50430478>	"Bradykinin B2 Receptor Antagonists"@en
+<http://www.wikidata.org/entity/Q72516593>	"cefprozil"@en
+<http://www.wikidata.org/entity/Q80109553>	"Trastuzumab deruxtecan"@en
+<http://www.wikidata.org/entity/Q72515323>	"Carbomer 940"@en
+<http://www.wikidata.org/entity/Q73112927>	"neurotransmitter agent"@en
+<http://www.wikidata.org/entity/Q50430474>	"glycoside hydrolase inhibitors"@en
+<http://www.wikidata.org/entity/Q50430422>	"Adenosine A1 Receptor Antagonists"@en
+<http://www.wikidata.org/entity/Q50430434>	"phosphodiesterase 5 inhibitors"@en
+<http://www.wikidata.org/entity/Q50430436>	"Phosphodiesterase 4 Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430371>	"adrenergic alpha-1 receptor antagonists"@en
+<http://www.wikidata.org/entity/Q50430424>	"Adenosine A3 Receptor Antagonists"@en
+<http://www.wikidata.org/entity/Q50430438>	"androgen receptor antagonists"@en
+<http://www.wikidata.org/entity/Q50430470>	"Acetylcholine Release Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430427>	"purinergic P2 receptor antagonists"@en
+<http://www.wikidata.org/entity/Q50430409>	"Adenosine A1 Receptor Agonists"@en
+<http://www.wikidata.org/entity/Q50430379>	"GABA-B Receptor Agonists"@en
+<http://www.wikidata.org/entity/Q50430451>	"Caspase Inhibitors"@en
+<http://www.wikidata.org/entity/Q50430358>	"parenteral nutrition solutions"@en
+<http://www.wikidata.org/entity/Q50430364>	"Adrenergic alpha-2 Receptor Agonists"@en
+<http://www.wikidata.org/entity/Q50430357>	"angiotensin II type 2 receptor blockers"@en
+<http://www.wikidata.org/entity/Q84263196>	"COVID-19"@en
+<http://www.wikidata.org/entity/Q78458299>	"Prolactin Release-Inhibiting Factors"@en
+<http://www.wikidata.org/entity/Q83016404>	"Angiopeptin"@en
+<http://www.wikidata.org/entity/Q75011930>	"opiate akaloids"@en
+<http://www.wikidata.org/entity/Q76121916>	"HIV Antibodies"@en
+<http://www.wikidata.org/entity/Q76529965>	"Dideoxynucleosides"@en
+<http://www.wikidata.org/entity/Q81984360>	"Triptorelin pamoate"@en
+<http://www.wikidata.org/entity/Q76832137>	"poly I-C"@en
+<http://www.wikidata.org/entity/Q75085996>	"Plasminogen Inactivators"@en
+<http://www.wikidata.org/entity/Q77201006>	"Immunoglobulin Fc Fragments"@en
+<http://www.wikidata.org/entity/Q76120612>	"bispecific antibodies"@en
+<http://www.wikidata.org/entity/Q75192022>	"zanubrutinib"@en
+<http://www.wikidata.org/entity/Q76541752>	"Biphasic Insulins"@en
+<http://www.wikidata.org/entity/Q75838616>	"hepatitis C antibodies"@en
+<http://www.wikidata.org/entity/Q76707266>	"long-acting insulin"@en
+<http://www.wikidata.org/entity/Q76855158>	"Insulin, Short-Acting"@en
+<http://www.wikidata.org/entity/Q97154240>	"tozinameran"@en
+<http://www.wikidata.org/entity/Q98270627>	"Gam-COVID-Vac"@en
+<http://www.wikidata.org/entity/Q97154237>	"COVAX-19"@en
+<http://www.wikidata.org/entity/Q107279954>	"Respecting Choices"@en
+<http://www.wikidata.org/entity/Q106943333>	"sotrovimab"@en
+<http://www.wikidata.org/entity/Q100391783>	"bamlanivimab"@en
+<http://www.wikidata.org/entity/Q100391844>	"LY-CoV016"@en
+<http://www.wikidata.org/entity/Q105209484>	"convalescent plasma"@en
+<http://www.wikidata.org/entity/Q107401559>	"BRII-196/BRII-198"@en
+<http://www.wikidata.org/entity/Q87775025>	"mRNA-1273 vaccine"@en
+<http://www.wikidata.org/entity/Q95042269>	"AZD1222"@en
+<http://www.wikidata.org/entity/Q88454408>	"Xuebijing"@en
+<http://www.wikidata.org/entity/Q96376832>	"molnupiravir"@en
+<http://www.wikidata.org/entity/Q95375726>	"Thoracoscopic sympathicotomy"@en
+<http://www.wikidata.org/entity/Q97154232>	"Institute of Medical Biology COVID-19 vaccine candidate"@en
+<http://www.wikidata.org/entity/Q96695265>	"Ad5-nCoV"@en
+<http://www.wikidata.org/entity/Q96695266>	"INO-4800"@en
+<http://www.wikidata.org/entity/Q97154238>	"SCB-2019"@en
+<http://www.wikidata.org/entity/Q99328880>	"casirivimab/imdevimab"@en
+<http://www.wikidata.org/entity/Q97732199>	"pralsetinib"@en
+<http://www.wikidata.org/entity/Q97154235>	"NVX-CoV2373"@en
+<http://www.wikidata.org/entity/Q97154233>	"CoronaVac"@en

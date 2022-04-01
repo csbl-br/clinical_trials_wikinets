@@ -1,0 +1,1501 @@
+?disease	?diseaseLabel
+<http://www.wikidata.org/entity/Q5445>	"anemia"@en
+<http://www.wikidata.org/entity/Q2836>	"aphasia"@en
+<http://www.wikidata.org/entity/Q6853>	"hepatitis B"@en
+<http://www.wikidata.org/entity/Q8277>	"multiple sclerosis"@en
+<http://www.wikidata.org/entity/Q9690>	"fatigue"@en
+<http://www.wikidata.org/entity/Q8285>	"myasthenia gravis"@en
+<http://www.wikidata.org/entity/Q8388>	"pedophilia"@en
+<http://www.wikidata.org/entity/Q11085>	"Parkinson's disease"@en
+<http://www.wikidata.org/entity/Q12152>	"myocardial infarction"@en
+<http://www.wikidata.org/entity/Q10874>	"blindness"@en
+<http://www.wikidata.org/entity/Q11072>	"amnesia"@en
+<http://www.wikidata.org/entity/Q11081>	"Alzheimer's disease"@en
+<http://www.wikidata.org/entity/Q12125>	"common cold"@en
+<http://www.wikidata.org/entity/Q12174>	"obesity"@en
+<http://www.wikidata.org/entity/Q12156>	"malaria"@en
+<http://www.wikidata.org/entity/Q12090>	"cholera"@en
+<http://www.wikidata.org/entity/Q12192>	"pneumonia"@en
+<http://www.wikidata.org/entity/Q12202>	"stroke"@en
+<http://www.wikidata.org/entity/Q12195>	"poliomyelitis"@en
+<http://www.wikidata.org/entity/Q12199>	"HIV/AIDS"@en
+<http://www.wikidata.org/entity/Q12204>	"tuberculosis"@en
+<http://www.wikidata.org/entity/Q12206>	"diabetes"@en
+<http://www.wikidata.org/entity/Q29496>	"leukemia"@en
+<http://www.wikidata.org/entity/Q18592>	"frontotemporal dementia"@en
+<http://www.wikidata.org/entity/Q18657>	"dissociative identity disorder"@en
+<http://www.wikidata.org/entity/Q25556>	"anovulation"@en
+<http://www.wikidata.org/entity/Q28971>	"impetigo"@en
+<http://www.wikidata.org/entity/Q16499>	"hyperthyroidism"@en
+<http://www.wikidata.org/entity/Q16501>	"hypothyroidism"@en
+<http://www.wikidata.org/entity/Q18579>	"frontotemporal lobar degeneration"@en
+<http://www.wikidata.org/entity/Q12214>	"smallpox"@en
+<http://www.wikidata.org/entity/Q16488>	"postpartum thyroiditis"@en
+<http://www.wikidata.org/entity/Q33525>	"carcinoma"@en
+<http://www.wikidata.org/entity/Q32778>	"bronchiectasis"@en
+<http://www.wikidata.org/entity/Q32446>	"pulmonary fibrosis"@en
+<http://www.wikidata.org/entity/Q32540>	"eosinophilic pneumonia"@en
+<http://www.wikidata.org/entity/Q32811>	"Churg-Strauss syndrome"@en
+<http://www.wikidata.org/entity/Q35805>	"cough"@en
+<http://www.wikidata.org/entity/Q35869>	"asthma"@en
+<http://www.wikidata.org/entity/Q38933>	"fever"@en
+<http://www.wikidata.org/entity/Q39222>	"rabies"@en
+<http://www.wikidata.org/entity/Q40878>	"diarrhea"@en
+<http://www.wikidata.org/entity/Q41112>	"schizophrenia"@en
+<http://www.wikidata.org/entity/Q41083>	"syphilis"@en
+<http://www.wikidata.org/entity/Q41571>	"epilepsy"@en
+<http://www.wikidata.org/entity/Q36956>	"leprosy"@en
+<http://www.wikidata.org/entity/Q41861>	"arterial hypertension"@en
+<http://www.wikidata.org/entity/Q47790>	"tetanus"@en
+<http://www.wikidata.org/entity/Q47912>	"lung cancer"@en
+<http://www.wikidata.org/entity/Q48143>	"meningitis"@en
+<http://www.wikidata.org/entity/Q62736>	"osteoarthritis"@en
+<http://www.wikidata.org/entity/Q49970>	"hyperuricemia"@en
+<http://www.wikidata.org/entity/Q52856>	"diabetic foot"@en
+<http://www.wikidata.org/entity/Q61335>	"pre-eclampsia"@en
+<http://www.wikidata.org/entity/Q44727>	"chickenpox"@en
+<http://www.wikidata.org/entity/Q42844>	"major depressive disorder"@en
+<http://www.wikidata.org/entity/Q47715>	"Down syndrome"@en
+<http://www.wikidata.org/entity/Q52844>	"enthesopathy"@en
+<http://www.wikidata.org/entity/Q55998>	"pleurisy"@en
+<http://www.wikidata.org/entity/Q101991>	"inflammation"@en
+<http://www.wikidata.org/entity/Q83030>	"dementia"@en
+<http://www.wikidata.org/entity/Q79793>	"measles"@en
+<http://www.wikidata.org/entity/Q82504>	"endocarditis"@en
+<http://www.wikidata.org/entity/Q83177>	"depersonalization"@en
+<http://www.wikidata.org/entity/Q83319>	"typhoid fever"@en
+<http://www.wikidata.org/entity/Q114085>	"rhinitis"@en
+<http://www.wikidata.org/entity/Q101896>	"gonorrhea"@en
+<http://www.wikidata.org/entity/Q103177>	"severe acute respiratory syndrome"@en
+<http://www.wikidata.org/entity/Q105688>	"hypoxia"@en
+<http://www.wikidata.org/entity/Q81867>	"albinism"@en
+<http://www.wikidata.org/entity/Q81938>	"pain"@en
+<http://www.wikidata.org/entity/Q105434>	"hypochondriasis"@en
+<http://www.wikidata.org/entity/Q112670>	"mastocytosis"@en
+<http://www.wikidata.org/entity/Q127076>	"vomiting"@en
+<http://www.wikidata.org/entity/Q124292>	"cholangiocarcinoma"@en
+<http://www.wikidata.org/entity/Q120395>	"dyspareunia"@en
+<http://www.wikidata.org/entity/Q121041>	"appendicitis"@en
+<http://www.wikidata.org/entity/Q127556>	"osteochondritis tulaseca"@en
+<http://www.wikidata.org/entity/Q127724>	"cataract"@en
+<http://www.wikidata.org/entity/Q129279>	"dysentery"@en
+<http://www.wikidata.org/entity/Q131742>	"hepatitis"@en
+<http://www.wikidata.org/entity/Q116275>	"myoclonus"@en
+<http://www.wikidata.org/entity/Q118418>	"antisocial personality disorder"@en
+<http://www.wikidata.org/entity/Q120136>	"arcus senilis"@en
+<http://www.wikidata.org/entity/Q128581>	"breast cancer"@en
+<http://www.wikidata.org/entity/Q129104>	"anthrax"@en
+<http://www.wikidata.org/entity/Q131755>	"bipolar disorder"@en
+<http://www.wikidata.org/entity/Q133087>	"gout"@en
+<http://www.wikidata.org/entity/Q133772>	"dental caries"@en
+<http://www.wikidata.org/entity/Q131749>	"anorexia nervosa"@en
+<http://www.wikidata.org/entity/Q132971>	"dyslexia"@en
+<http://www.wikidata.org/entity/Q140067>	"sclerosis"@en
+<http://www.wikidata.org/entity/Q134649>	"diphtheria"@en
+<http://www.wikidata.org/entity/Q147778>	"liver cirrhosis"@en
+<http://www.wikidata.org/entity/Q133780>	"plague"@en
+<http://www.wikidata.org/entity/Q154869>	"hepatitis C"@en
+<http://www.wikidata.org/entity/Q157661>	"hepatitis A"@en
+<http://www.wikidata.org/entity/Q141440>	"brain abscess"@en
+<http://www.wikidata.org/entity/Q143607>	"bleeding gums"@en
+<http://www.wikidata.org/entity/Q143925>	"toothache"@en
+<http://www.wikidata.org/entity/Q154874>	"yellow fever"@en
+<http://www.wikidata.org/entity/Q154878>	"toxoplasmosis"@en
+<http://www.wikidata.org/entity/Q155857>	"rubella"@en
+<http://www.wikidata.org/entity/Q154882>	"legionnaires' disease"@en
+<http://www.wikidata.org/entity/Q154709>	"cerebellar ataxia"@en
+<http://www.wikidata.org/entity/Q152401>	"foot-and-mouth disease"@en
+<http://www.wikidata.org/entity/Q152100>	"tobacco use disorder"@en
+<http://www.wikidata.org/entity/Q156050>	"brucellosis"@en
+<http://www.wikidata.org/entity/Q154865>	"botulism"@en
+<http://www.wikidata.org/entity/Q144119>	"hysteria"@en
+<http://www.wikidata.org/entity/Q156103>	"gastroenteritis"@en
+<http://www.wikidata.org/entity/Q145790>	"iridocyclitis"@en
+<http://www.wikidata.org/entity/Q147270>	"cone dystrophy"@en
+<http://www.wikidata.org/entity/Q153861>	"tularemia"@en
+<http://www.wikidata.org/entity/Q155098>	"leptospirosis"@en
+<http://www.wikidata.org/entity/Q156590>	"priapism"@en
+<http://www.wikidata.org/entity/Q159701>	"glaucoma"@en
+<http://www.wikidata.org/entity/Q164655>	"abscess"@en
+<http://www.wikidata.org/entity/Q164818>	"Q fever"@en
+<http://www.wikidata.org/entity/Q165135>	"goiter"@en
+<http://www.wikidata.org/entity/Q165328>	"osteoporosis"@en
+<http://www.wikidata.org/entity/Q160796>	"delirium"@en
+<http://www.wikidata.org/entity/Q160184>	"flatulence"@en
+<http://www.wikidata.org/entity/Q161790>	"Asperger syndrome"@en
+<http://www.wikidata.org/entity/Q170990>	"arthritis"@en
+<http://www.wikidata.org/entity/Q168403>	"myopia"@en
+<http://www.wikidata.org/entity/Q160653>	"listeriosis"@en
+<http://www.wikidata.org/entity/Q166907>	"cluster headache"@en
+<http://www.wikidata.org/entity/Q167844>	"conjunctivitis"@en
+<http://www.wikidata.org/entity/Q167050>	"Sertoli cell-only syndrome"@en
+<http://www.wikidata.org/entity/Q167178>	"scabies"@en
+<http://www.wikidata.org/entity/Q167264>	"Marburg virus disease"@en
+<http://www.wikidata.org/entity/Q162266>	"hemolytic-uremic syndrome"@en
+<http://www.wikidata.org/entity/Q163469>	"pneumoperitoneum"@en
+<http://www.wikidata.org/entity/Q163905>	"Lafora disease"@en
+<http://www.wikidata.org/entity/Q163865>	"scurvy"@en
+<http://www.wikidata.org/entity/Q177755>	"astrocytoma"@en
+<http://www.wikidata.org/entity/Q173022>	"bronchitis"@en
+<http://www.wikidata.org/entity/Q174589>	"agoraphobia"@en
+<http://www.wikidata.org/entity/Q161964>	"capillary leak syndrome"@en
+<http://www.wikidata.org/entity/Q174857>	"scoliosis"@en
+<http://www.wikidata.org/entity/Q177895>	"astigmatism"@en
+<http://www.wikidata.org/entity/Q177878>	"fucosidosis"@en
+<http://www.wikidata.org/entity/Q178190>	"obsessive-compulsive disorder"@en
+<http://www.wikidata.org/entity/Q178061>	"shock"@en
+<http://www.wikidata.org/entity/Q178069>	"necrosis"@en
+<http://www.wikidata.org/entity/Q178194>	"cystic fibrosis"@en
+<http://www.wikidata.org/entity/Q175180>	"radiculopathy"@en
+<http://www.wikidata.org/entity/Q179630>	"syndrome"@en
+<http://www.wikidata.org/entity/Q178436>	"constipation"@en
+<http://www.wikidata.org/entity/Q176741>	"mumps"@en
+<http://www.wikidata.org/entity/Q177254>	"hyperopia"@en
+<http://www.wikidata.org/entity/Q179399>	"infertility"@en
+<http://www.wikidata.org/entity/Q179945>	"psoriasis"@en
+<http://www.wikidata.org/entity/Q180614>	"melanoma"@en
+<http://www.wikidata.org/entity/Q181754>	"heart failure"@en
+<http://www.wikidata.org/entity/Q180762>	"angina pectoris"@en
+<http://www.wikidata.org/entity/Q180913>	"bulimia"@en
+<http://www.wikidata.org/entity/Q179951>	"strabismus"@en
+<http://www.wikidata.org/entity/Q180007>	"syncope"@en
+<http://www.wikidata.org/entity/Q180152>	"vitiligo"@en
+<http://www.wikidata.org/entity/Q181257>	"prostate cancer"@en
+<http://www.wikidata.org/entity/Q186676>	"stuttering"@en
+<http://www.wikidata.org/entity/Q186889>	"nausea"@en
+<http://www.wikidata.org/entity/Q181876>	"metastasis"@en
+<http://www.wikidata.org/entity/Q184559>	"arteriosclerosis"@en
+<http://www.wikidata.org/entity/Q182155>	"herpes zoster"@en
+<http://www.wikidata.org/entity/Q183130>	"gastritis"@en
+<http://www.wikidata.org/entity/Q183560>	"intellectual disability"@en
+<http://www.wikidata.org/entity/Q184084>	"beriberi"@en
+<http://www.wikidata.org/entity/Q183425>	"abdominal pain"@en
+<http://www.wikidata.org/entity/Q187440>	"urticaria"@en
+<http://www.wikidata.org/entity/Q186470>	"tonsillitis"@en
+<http://www.wikidata.org/entity/Q184674>	"erectile dysfunction"@en
+<http://www.wikidata.org/entity/Q185137>	"thalassemia"@en
+<http://www.wikidata.org/entity/Q188008>	"dyspnea"@en
+<http://www.wikidata.org/entity/Q188151>	"ischemia"@en
+<http://www.wikidata.org/entity/Q183344>	"sinusitis"@en
+<http://www.wikidata.org/entity/Q183392>	"rickets"@en
+<http://www.wikidata.org/entity/Q189580>	"acromegaly"@en
+<http://www.wikidata.org/entity/Q186235>	"myocarditis"@en
+<http://www.wikidata.org/entity/Q188605>	"pulmonary emphysema"@en
+<http://www.wikidata.org/entity/Q189167>	"Zellweger syndrome"@en
+<http://www.wikidata.org/entity/Q189389>	"aneurysm"@en
+<http://www.wikidata.org/entity/Q190564>	"Huntington's disease"@en
+<http://www.wikidata.org/entity/Q187542>	"Li-Fraumeni syndrome"@en
+<http://www.wikidata.org/entity/Q194520>	"atrophy"@en
+<http://www.wikidata.org/entity/Q190805>	"heart disease"@en
+<http://www.wikidata.org/entity/Q191562>	"cerebral amyloid angiopathy"@en
+<http://www.wikidata.org/entity/Q193894>	"sarcoidosis"@en
+<http://www.wikidata.org/entity/Q189470>	"fistula"@en
+<http://www.wikidata.org/entity/Q189588>	"stomach cancer"@en
+<http://www.wikidata.org/entity/Q191779>	"Tourette syndrome"@en
+<http://www.wikidata.org/entity/Q192120>	"cyanosis"@en
+<http://www.wikidata.org/entity/Q192309>	"tinnitus"@en
+<http://www.wikidata.org/entity/Q194290>	"dehydration"@en
+<http://www.wikidata.org/entity/Q189561>	"narcolepsy"@en
+<http://www.wikidata.org/entity/Q193003>	"hydrocephalus"@en
+<http://www.wikidata.org/entity/Q196788>	"cervical intraepithelial neoplasia"@en
+<http://www.wikidata.org/entity/Q202849>	"Turner syndrome"@en
+<http://www.wikidata.org/entity/Q199615>	"encephalitis"@en
+<http://www.wikidata.org/entity/Q203601>	"pneumothorax"@en
+<http://www.wikidata.org/entity/Q208414>	"lymphoma"@en
+<http://www.wikidata.org/entity/Q201180>	"varicose veins"@en
+<http://www.wikidata.org/entity/Q193889>	"ascites"@en
+<http://www.wikidata.org/entity/Q194101>	"dwarfism"@en
+<http://www.wikidata.org/entity/Q201989>	"Lyme disease"@en
+<http://www.wikidata.org/entity/Q202173>	"hordeolum"@en
+<http://www.wikidata.org/entity/Q202758>	"hypoglycemia"@en
+<http://www.wikidata.org/entity/Q205764>	"endometriosis"@en
+<http://www.wikidata.org/entity/Q200741>	"teratoma"@en
+<http://www.wikidata.org/entity/Q200745>	"pseudohypoaldosteronism"@en
+<http://www.wikidata.org/entity/Q206901>	"amyotrophic lateral sclerosis"@en
+<http://www.wikidata.org/entity/Q202387>	"post-traumatic stress disorder"@en
+<http://www.wikidata.org/entity/Q193216>	"trachoma"@en
+<http://www.wikidata.org/entity/Q208166>	"borderline personality disorder"@en
+<http://www.wikidata.org/entity/Q207092>	"erysipelas"@en
+<http://www.wikidata.org/entity/Q207367>	"infectious mononucleosis"@en
+<http://www.wikidata.org/entity/Q207855>	"amblyopia"@en
+<http://www.wikidata.org/entity/Q208562>	"Marfan syndrome"@en
+<http://www.wikidata.org/entity/Q209522>	"binge-eating disorder"@en
+<http://www.wikidata.org/entity/Q209583>	"tachycardia"@en
+<http://www.wikidata.org/entity/Q213373>	"ataxia"@en
+<http://www.wikidata.org/entity/Q210427>	"cerebral palsy"@en
+<http://www.wikidata.org/entity/Q216211>	"hypertrophy"@en
+<http://www.wikidata.org/entity/Q223102>	"peritonitis"@en
+<http://www.wikidata.org/entity/Q223254>	"otitis media"@en
+<http://www.wikidata.org/entity/Q223907>	"tremor"@en
+<http://www.wikidata.org/entity/Q223911>	"sarcoma"@en
+<http://www.wikidata.org/entity/Q213151>	"kwashiorkor"@en
+<http://www.wikidata.org/entity/Q212961>	"pancreatic cancer"@en
+<http://www.wikidata.org/entity/Q213098>	"progeria"@en
+<http://www.wikidata.org/entity/Q220551>	"diabetes insipidus"@en
+<http://www.wikidata.org/entity/Q219223>	"lactose intolerance"@en
+<http://www.wikidata.org/entity/Q220322>	"agnosia"@en
+<http://www.wikidata.org/entity/Q218712>	"Zollinger–Ellison syndrome"@en
+<http://www.wikidata.org/entity/Q220570>	"pulmonary embolism"@en
+<http://www.wikidata.org/entity/Q220193>	"premenstrual syndrome"@en
+<http://www.wikidata.org/entity/Q239027>	"calcinosis"@en
+<http://www.wikidata.org/entity/Q239848>	"dumping syndrome"@en
+<http://www.wikidata.org/entity/Q246068>	"cysticercosis"@en
+<http://www.wikidata.org/entity/Q244438>	"prosopagnosia"@en
+<http://www.wikidata.org/entity/Q240975>	"morphine dependence"@en
+<http://www.wikidata.org/entity/Q246084>	"cystitis"@en
+<http://www.wikidata.org/entity/Q246070>	"cystadenoma"@en
+<http://www.wikidata.org/entity/Q221159>	"schistosomiasis"@en
+<http://www.wikidata.org/entity/Q225957>	"dysarthria"@en
+<http://www.wikidata.org/entity/Q221472>	"fragile X syndrome"@en
+<http://www.wikidata.org/entity/Q270421>	"muscle weakness"@en
+<http://www.wikidata.org/entity/Q229256>	"dermatitis"@en
+<http://www.wikidata.org/entity/Q259626>	"aspergillosis"@en
+<http://www.wikidata.org/entity/Q261327>	"thrombosis"@en
+<http://www.wikidata.org/entity/Q272741>	"adenoma"@en
+<http://www.wikidata.org/entity/Q250449>	"alpha-mannosidosis"@en
+<http://www.wikidata.org/entity/Q247978>	"anisometropia"@en
+<http://www.wikidata.org/entity/Q258858>	"bladder exstrophy"@en
+<http://www.wikidata.org/entity/Q247131>	"hepatorenal syndrome"@en
+<http://www.wikidata.org/entity/Q221441>	"pellagra"@en
+<http://www.wikidata.org/entity/Q250354>	"prune belly syndrome"@en
+<http://www.wikidata.org/entity/Q268292>	"mitral valve insufficiency"@en
+<http://www.wikidata.org/entity/Q275466>	"embolism"@en
+<http://www.wikidata.org/entity/Q266332>	"compulsive behavior"@en
+<http://www.wikidata.org/entity/Q277452>	"Ebstein anomaly"@en
+<http://www.wikidata.org/entity/Q280027>	"uveitis"@en
+<http://www.wikidata.org/entity/Q278515>	"galactorrhea"@en
+<http://www.wikidata.org/entity/Q281490>	"urinary incontinence"@en
+<http://www.wikidata.org/entity/Q271993>	"hyperglycemia"@en
+<http://www.wikidata.org/entity/Q273510>	"candidiasis"@en
+<http://www.wikidata.org/entity/Q304497>	"hemiplegia"@en
+<http://www.wikidata.org/entity/Q319595>	"presbyopia"@en
+<http://www.wikidata.org/entity/Q309067>	"motion sickness"@en
+<http://www.wikidata.org/entity/Q266018>	"acute coronary syndrome"@en
+<http://www.wikidata.org/entity/Q318005>	"nocturnal enuresis"@en
+<http://www.wikidata.org/entity/Q319312>	"premature ejaculation"@en
+<http://www.wikidata.org/entity/Q268594>	"stupor"@en
+<http://www.wikidata.org/entity/Q272714>	"gallstone"@en
+<http://www.wikidata.org/entity/Q332428>	"overweight"@en
+<http://www.wikidata.org/entity/Q326643>	"hepatitis E"@en
+<http://www.wikidata.org/entity/Q230047>	"burning mouth syndrome"@en
+<http://www.wikidata.org/entity/Q327005>	"glanders"@en
+<http://www.wikidata.org/entity/Q233309>	"brain tumor"@en
+<http://www.wikidata.org/entity/Q319812>	"abetalipoproteinemia"@en
+<http://www.wikidata.org/entity/Q320719>	"dependent personality disorder"@en
+<http://www.wikidata.org/entity/Q327281>	"hepatitis D"@en
+<http://www.wikidata.org/entity/Q326071>	"giardiasis"@en
+<http://www.wikidata.org/entity/Q326638>	"Rift Valley fever"@en
+<http://www.wikidata.org/entity/Q331283>	"leishmaniasis"@en
+<http://www.wikidata.org/entity/Q281115>	"Proteus syndrome"@en
+<http://www.wikidata.org/entity/Q282142>	"glioblastoma"@en
+<http://www.wikidata.org/entity/Q298230>	"esophagitis"@en
+<http://www.wikidata.org/entity/Q356033>	"adenocarcinoma"@en
+<http://www.wikidata.org/entity/Q332293>	"carpal tunnel syndrome"@en
+<http://www.wikidata.org/entity/Q298233>	"esophageal atresia"@en
+<http://www.wikidata.org/entity/Q300121>	"atrioventricular block"@en
+<http://www.wikidata.org/entity/Q332154>	"aging"@en
+<http://www.wikidata.org/entity/Q334655>	"amenorrhea"@en
+<http://www.wikidata.org/entity/Q339221>	"gynecomastia"@en
+<http://www.wikidata.org/entity/Q340594>	"achondroplasia"@en
+<http://www.wikidata.org/entity/Q341999>	"hidradenitis suppurativa"@en
+<http://www.wikidata.org/entity/Q369148>	"neurilemmoma"@en
+<http://www.wikidata.org/entity/Q359892>	"salpingitis"@en
+<http://www.wikidata.org/entity/Q369157>	"meningioma"@en
+<http://www.wikidata.org/entity/Q368562>	"hemopneumothorax"@en
+<http://www.wikidata.org/entity/Q367756>	"angiomatosis"@en
+<http://www.wikidata.org/entity/Q361648>	"double outlet right ventricle"@en
+<http://www.wikidata.org/entity/Q394129>	"psychomotor agitation"@en
+<http://www.wikidata.org/entity/Q396013>	"agranulocytosis"@en
+<http://www.wikidata.org/entity/Q395931>	"agraphia"@en
+<http://www.wikidata.org/entity/Q401402>	"nephritis"@en
+<http://www.wikidata.org/entity/Q424337>	"acute kidney injury"@en
+<http://www.wikidata.org/entity/Q467635>	"multiple myeloma"@en
+<http://www.wikidata.org/entity/Q372752>	"prostatitis"@en
+<http://www.wikidata.org/entity/Q424227>	"bronchiolitis"@en
+<http://www.wikidata.org/entity/Q371520>	"polydactyly"@en
+<http://www.wikidata.org/entity/Q355170>	"duodenal ulcer"@en
+<http://www.wikidata.org/entity/Q376666>	"cholecystitis"@en
+<http://www.wikidata.org/entity/Q379299>	"vitreous detachment"@en
+<http://www.wikidata.org/entity/Q382370>	"monkeypox"@en
+<http://www.wikidata.org/entity/Q388388>	"intestinal volvulus"@en
+<http://www.wikidata.org/entity/Q387082>	"ataxia telangiectasia"@en
+<http://www.wikidata.org/entity/Q382641>	"phimosis"@en
+<http://www.wikidata.org/entity/Q427118>	"radial neuropathy"@en
+<http://www.wikidata.org/entity/Q425811>	"hypertensive retinopathy"@en
+<http://www.wikidata.org/entity/Q378681>	"peripheral artery disease"@en
+<http://www.wikidata.org/entity/Q377978>	"thrombophlebitis"@en
+<http://www.wikidata.org/entity/Q427810>	"dysthymic disorder"@en
+<http://www.wikidata.org/entity/Q431643>	"microcephaly"@en
+<http://www.wikidata.org/entity/Q432814>	"Alström syndrome"@en
+<http://www.wikidata.org/entity/Q448698>	"pulmonary alveolar proteinosis"@en
+<http://www.wikidata.org/entity/Q455085>	"granuloma annulare"@en
+<http://www.wikidata.org/entity/Q460591>	"decompression sickness"@en
+<http://www.wikidata.org/entity/Q449631>	"Miller Fisher syndrome"@en
+<http://www.wikidata.org/entity/Q460556>	"ganglioglioma"@en
+<http://www.wikidata.org/entity/Q480700>	"otitis"@en
+<http://www.wikidata.org/entity/Q385532>	"spermatocele"@en
+<http://www.wikidata.org/entity/Q391556>	"hyperemesis gravidarum"@en
+<http://www.wikidata.org/entity/Q485831>	"lymphopenia"@en
+<http://www.wikidata.org/entity/Q487837>	"coccidiosis"@en
+<http://www.wikidata.org/entity/Q487231>	"anastomotic leak"@en
+<http://www.wikidata.org/entity/Q473456>	"hypersplenism"@en
+<http://www.wikidata.org/entity/Q473739>	"chorioamnionitis"@en
+<http://www.wikidata.org/entity/Q476921>	"kidney failure"@en
+<http://www.wikidata.org/entity/Q403463>	"Aicardi syndrome"@en
+<http://www.wikidata.org/entity/Q402575>	"maple syrup urine disease"@en
+<http://www.wikidata.org/entity/Q408089>	"mercury poisoning"@en
+<http://www.wikidata.org/entity/Q418418>	"ankylosis"@en
+<http://www.wikidata.org/entity/Q415833>	"acanthosis nigricans"@en
+<http://www.wikidata.org/entity/Q478389>	"kyphosis"@en
+<http://www.wikidata.org/entity/Q418522>	"akinetic mutism"@en
+<http://www.wikidata.org/entity/Q468433>	"anosmia"@en
+<http://www.wikidata.org/entity/Q520127>	"periodontitis"@en
+<http://www.wikidata.org/entity/Q460937>	"hemangioblastoma"@en
+<http://www.wikidata.org/entity/Q461857>	"ameloblastoma"@en
+<http://www.wikidata.org/entity/Q461854>	"amelogenesis imperfecta"@en
+<http://www.wikidata.org/entity/Q500816>	"polycystic ovary syndrome"@en
+<http://www.wikidata.org/entity/Q504790>	"nephrotic syndrome"@en
+<http://www.wikidata.org/entity/Q468787>	"hematoma"@en
+<http://www.wikidata.org/entity/Q505142>	"eosinophilia"@en
+<http://www.wikidata.org/entity/Q506652>	"pyelonephritis"@en
+<http://www.wikidata.org/entity/Q496812>	"leukopenia"@en
+<http://www.wikidata.org/entity/Q500695>	"retinoblastoma"@en
+<http://www.wikidata.org/entity/Q531019>	"aortic valve stenosis"@en
+<http://www.wikidata.org/entity/Q535364>	"Angelman syndrome"@en
+<http://www.wikidata.org/entity/Q501561>	"pericarditis"@en
+<http://www.wikidata.org/entity/Q537297>	"heartburn"@en
+<http://www.wikidata.org/entity/Q501571>	"catatonia"@en
+<http://www.wikidata.org/entity/Q501829>	"gigantism"@en
+<http://www.wikidata.org/entity/Q503629>	"osteonecrosis"@en
+<http://www.wikidata.org/entity/Q539681>	"angiomyolipoma"@en
+<http://www.wikidata.org/entity/Q540571>	"fibromyalgia"@en
+<http://www.wikidata.org/entity/Q585285>	"thrombocytopenia"@en
+<http://www.wikidata.org/entity/Q549534>	"osteosarcoma"@en
+<http://www.wikidata.org/entity/Q511818>	"tetany"@en
+<http://www.wikidata.org/entity/Q515376>	"renal artery obstruction"@en
+<http://www.wikidata.org/entity/Q517856>	"placenta accreta"@en
+<http://www.wikidata.org/entity/Q517202>	"de Quervain syndrome"@en
+<http://www.wikidata.org/entity/Q509389>	"mastoiditis"@en
+<http://www.wikidata.org/entity/Q511000>	"scleritis"@en
+<http://www.wikidata.org/entity/Q552348>	"eclampsia"@en
+<http://www.wikidata.org/entity/Q557552>	"ankyloglossia"@en
+<http://www.wikidata.org/entity/Q558230>	"cholesteatoma"@en
+<http://www.wikidata.org/entity/Q551085>	"myelitis"@en
+<http://www.wikidata.org/entity/Q558623>	"aphakia"@en
+<http://www.wikidata.org/entity/Q570197>	"proteinuria"@en
+<http://www.wikidata.org/entity/Q525642>	"DiGeorge syndrome"@en
+<http://www.wikidata.org/entity/Q539491>	"angiodysplasia"@en
+<http://www.wikidata.org/entity/Q529292>	"anencephaly"@en
+<http://www.wikidata.org/entity/Q531012>	"congenital hypothyroidism"@en
+<http://www.wikidata.org/entity/Q538432>	"synovitis"@en
+<http://www.wikidata.org/entity/Q521863>	"Beckwith-Wiedemann syndrome"@en
+<http://www.wikidata.org/entity/Q523893>	"ichthyosis"@en
+<http://www.wikidata.org/entity/Q524095>	"macroglossia"@en
+<http://www.wikidata.org/entity/Q524353>	"erythromelalgia"@en
+<http://www.wikidata.org/entity/Q596474>	"conduct disorder"@en
+<http://www.wikidata.org/entity/Q525075>	"hamartoma"@en
+<http://www.wikidata.org/entity/Q598035>	"laryngomalacia"@en
+<http://www.wikidata.org/entity/Q599683>	"Brugada syndrome"@en
+<http://www.wikidata.org/entity/Q601168>	"Peri-implantitis"@en
+<http://www.wikidata.org/entity/Q510236>	"neurasthenia"@en
+<http://www.wikidata.org/entity/Q603644>	"cholangitis"@en
+<http://www.wikidata.org/entity/Q581592>	"paraganglioma"@en
+<http://www.wikidata.org/entity/Q570920>	"tachypnea"@en
+<http://www.wikidata.org/entity/Q582207>	"antiphospholipid syndrome"@en
+<http://www.wikidata.org/entity/Q549229>	"varicocele"@en
+<http://www.wikidata.org/entity/Q548984>	"dentinogenesis imperfecta"@en
+<http://www.wikidata.org/entity/Q540850>	"orchitis"@en
+<http://www.wikidata.org/entity/Q544006>	"anxiety disorder"@en
+<http://www.wikidata.org/entity/Q548913>	"aniseikonia"@en
+<http://www.wikidata.org/entity/Q548719>	"aniridia"@en
+<http://www.wikidata.org/entity/Q574329>	"anthracosis"@en
+<http://www.wikidata.org/entity/Q574360>	"spasm"@en
+<http://www.wikidata.org/entity/Q605006>	"glomerulonephritis"@en
+<http://www.wikidata.org/entity/Q604075>	"multiple endocrine neoplasia type 2A"@en
+<http://www.wikidata.org/entity/Q594013>	"Prader–Willi syndrome"@en
+<http://www.wikidata.org/entity/Q609503>	"gliosarcoma"@en
+<http://www.wikidata.org/entity/Q576109>	"mucopolysaccharidosis VI"@en
+<http://www.wikidata.org/entity/Q574694>	"pseudomyxoma peritonei"@en
+<http://www.wikidata.org/entity/Q630552>	"retinitis"@en
+<http://www.wikidata.org/entity/Q616003>	"aortic aneurysm"@en
+<http://www.wikidata.org/entity/Q595010>	"hypertrichosis"@en
+<http://www.wikidata.org/entity/Q587420>	"myotonia congenita"@en
+<http://www.wikidata.org/entity/Q593277>	"Chemotherapy-induced acral erythema"@en
+<http://www.wikidata.org/entity/Q611984>	"keratoconus"@en
+<http://www.wikidata.org/entity/Q559082>	"chondrocalcinosis"@en
+<http://www.wikidata.org/entity/Q560337>	"Tay-Sachs disease"@en
+<http://www.wikidata.org/entity/Q567820>	"Alexander disease"@en
+<http://www.wikidata.org/entity/Q568865>	"cherubism"@en
+<http://www.wikidata.org/entity/Q560456>	"otomycosis"@en
+<http://www.wikidata.org/entity/Q576349>	"brain diseases"@en
+<http://www.wikidata.org/entity/Q616087>	"aortic valve insufficiency"@en
+<http://www.wikidata.org/entity/Q579665>	"dextrocardia"@en
+<http://www.wikidata.org/entity/Q579527>	"pulmonary valve stenosis"@en
+<http://www.wikidata.org/entity/Q611458>	"neuromyelitis optica"@en
+<http://www.wikidata.org/entity/Q610075>	"Wolf-Hirschhorn syndrome"@en
+<http://www.wikidata.org/entity/Q620760>	"postural orthostatic tachycardia syndrome"@en
+<http://www.wikidata.org/entity/Q644318>	"vasculitis"@en
+<http://www.wikidata.org/entity/Q618622>	"periapical periodontitis"@en
+<http://www.wikidata.org/entity/Q616088>	"aortitis"@en
+<http://www.wikidata.org/entity/Q642548>	"hepatic encephalopathy"@en
+<http://www.wikidata.org/entity/Q645363>	"bursitis"@en
+<http://www.wikidata.org/entity/Q614750>	"bronchiolitis obliterans"@en
+<http://www.wikidata.org/entity/Q622437>	"alpha-1-antitrypsin deficiency"@en
+<http://www.wikidata.org/entity/Q613809>	"Kleine-Levin syndrome"@en
+<http://www.wikidata.org/entity/Q624497>	"altitude sickness"@en
+<http://www.wikidata.org/entity/Q612693>	"xeroderma pigmentosum"@en
+<http://www.wikidata.org/entity/Q622828>	"hypokalemic periodic paralysis"@en
+<http://www.wikidata.org/entity/Q622969>	"orbital cellulitis"@en
+<http://www.wikidata.org/entity/Q615645>	"Fabry disease"@en
+<http://www.wikidata.org/entity/Q615363>	"torticollis"@en
+<http://www.wikidata.org/entity/Q612093>	"granulosa cell tumour"@en
+<http://www.wikidata.org/entity/Q612681>	"anuria"@en
+<http://www.wikidata.org/entity/Q631361>	"diabetic retinopathy"@en
+<http://www.wikidata.org/entity/Q606216>	"ageusia"@en
+<http://www.wikidata.org/entity/Q657193>	"metabolic syndrome"@en
+<http://www.wikidata.org/entity/Q608259>	"trichotillomania"@en
+<http://www.wikidata.org/entity/Q650766>	"tinea capitis vale"@en
+<http://www.wikidata.org/entity/Q649558>	"Chagas disease"@en
+<http://www.wikidata.org/entity/Q651223>	"pneumoconiosis"@en
+<http://www.wikidata.org/entity/Q653971>	"indigestion"@en
+<http://www.wikidata.org/entity/Q652744>	"hand, foot and mouth disease"@en
+<http://www.wikidata.org/entity/Q651680>	"alkaptonuria"@en
+<http://www.wikidata.org/entity/Q654426>	"psychological trauma"@en
+<http://www.wikidata.org/entity/Q653078>	"Whipple disease"@en
+<http://www.wikidata.org/entity/Q653318>	"silicosis"@en
+<http://www.wikidata.org/entity/Q653924>	"long QT syndrome"@en
+<http://www.wikidata.org/entity/Q693442>	"subarachnoid hemorrhage"@en
+<http://www.wikidata.org/entity/Q738153>	"ileus"@en
+<http://www.wikidata.org/entity/Q641605>	"exocrine pancreatic insufficiency"@en
+<http://www.wikidata.org/entity/Q741208>	"pseudotumor cerebri"@en
+<http://www.wikidata.org/entity/Q647099>	"hemoptysis"@en
+<http://www.wikidata.org/entity/Q741713>	"panic disorder"@en
+<http://www.wikidata.org/entity/Q754424>	"apnea"@en
+<http://www.wikidata.org/entity/Q625164>	"retinal detachment"@en
+<http://www.wikidata.org/entity/Q624748>	"multiple endocrine neoplasia type 2B"@en
+<http://www.wikidata.org/entity/Q662185>	"choanal atresia"@en
+<http://www.wikidata.org/entity/Q659033>	"biliary atresia"@en
+<http://www.wikidata.org/entity/Q627368>	"blastomycosis"@en
+<http://www.wikidata.org/entity/Q627625>	"histoplasmosis"@en
+<http://www.wikidata.org/entity/Q662272>	"short bowel syndrome"@en
+<http://www.wikidata.org/entity/Q664174>	"asbestosis"@en
+<http://www.wikidata.org/entity/Q662298>	"ectropion"@en
+<http://www.wikidata.org/entity/Q665207>	"thoracic outlet syndrome"@en
+<http://www.wikidata.org/entity/Q673083>	"gingivitis"@en
+<http://www.wikidata.org/entity/Q665258>	"herpangina"@en
+<http://www.wikidata.org/entity/Q666980>	"Rubinstein-Taybi syndrome"@en
+<http://www.wikidata.org/entity/Q669822>	"Laron syndrome"@en
+<http://www.wikidata.org/entity/Q671776>	"muteness"@en
+<http://www.wikidata.org/entity/Q745832>	"stillbirth"@en
+<http://www.wikidata.org/entity/Q748442>	"Methemoglobinemia"@en
+<http://www.wikidata.org/entity/Q746781>	"neuroacanthocytosis"@en
+<http://www.wikidata.org/entity/Q749159>	"asthenopia"@en
+<http://www.wikidata.org/entity/Q746001>	"thromboangiitis obliterans"@en
+<http://www.wikidata.org/entity/Q749409>	"osteogenesis imperfecta"@en
+<http://www.wikidata.org/entity/Q753904>	"rheumatic fever"@en
+<http://www.wikidata.org/entity/Q752298>	"cri-du-chat syndrome"@en
+<http://www.wikidata.org/entity/Q676191>	"vaginitis"@en
+<http://www.wikidata.org/entity/Q674461>	"multiple chemical sensitivity"@en
+<http://www.wikidata.org/entity/Q659584>	"molluscum contagiosum"@en
+<http://www.wikidata.org/entity/Q693058>	"chest pain"@en
+<http://www.wikidata.org/entity/Q744305>	"lordosis"@en
+<http://www.wikidata.org/entity/Q693519>	"essential tremor"@en
+<http://www.wikidata.org/entity/Q680873>	"otitis externa"@en
+<http://www.wikidata.org/entity/Q681160>	"dermatomyositis"@en
+<http://www.wikidata.org/entity/Q706845>	"Lassa fever"@en
+<http://www.wikidata.org/entity/Q705906>	"paratyphoid fever"@en
+<http://www.wikidata.org/entity/Q686574>	"endometrial hyperplasia"@en
+<http://www.wikidata.org/entity/Q757838>	"keratitis"@en
+<http://www.wikidata.org/entity/Q766856>	"pityriasis rubra pilaris"@en
+<http://www.wikidata.org/entity/Q767327>	"sporotrichosis"@en
+<http://www.wikidata.org/entity/Q763356>	"CREST syndrome"@en
+<http://www.wikidata.org/entity/Q684383>	"exophthalmos"@en
+<http://www.wikidata.org/entity/Q684810>	"berylliosis"@en
+<http://www.wikidata.org/entity/Q707837>	"arteriovenous fistula"@en
+<http://www.wikidata.org/entity/Q769988>	"Goldenhar syndrome"@en
+<http://www.wikidata.org/entity/Q771310>	"anodontia"@en
+<http://www.wikidata.org/entity/Q707774>	"coronary thrombosis"@en
+<http://www.wikidata.org/entity/Q688949>	"fibromuscular dysplasia"@en
+<http://www.wikidata.org/entity/Q689985>	"lipoma"@en
+<http://www.wikidata.org/entity/Q741315>	"von Hippel-Lindau disease"@en
+<http://www.wikidata.org/entity/Q774016>	"Denys-Drash syndrome"@en
+<http://www.wikidata.org/entity/Q632522>	"bacteriuria"@en
+<http://www.wikidata.org/entity/Q770843>	"glucagonoma"@en
+<http://www.wikidata.org/entity/Q783644>	"Lynch syndrome"@en
+<http://www.wikidata.org/entity/Q778502>	"vaginal discharge"@en
+<http://www.wikidata.org/entity/Q780629>	"panniculitis"@en
+<http://www.wikidata.org/entity/Q785827>	"keratoacanthoma"@en
+<http://www.wikidata.org/entity/Q633403>	"asthenia"@en
+<http://www.wikidata.org/entity/Q794026>	"azoospermia"@en
+<http://www.wikidata.org/entity/Q786852>	"gastrinoma"@en
+<http://www.wikidata.org/entity/Q777087>	"echinococcosis"@en
+<http://www.wikidata.org/entity/Q776026>	"biotinidase deficiency"@en
+<http://www.wikidata.org/entity/Q730877>	"hydronephrosis"@en
+<http://www.wikidata.org/entity/Q727436>	"Lesch–Nyhan syndrome"@en
+<http://www.wikidata.org/entity/Q639776>	"cat-scratch disease"@en
+<http://www.wikidata.org/entity/Q815819>	"atrial fibrillation"@en
+<http://www.wikidata.org/entity/Q736776>	"tennis elbow"@en
+<http://www.wikidata.org/entity/Q736715>	"chronic kidney disease"@en
+<http://www.wikidata.org/entity/Q734512>	"bronchopneumonia"@en
+<http://www.wikidata.org/entity/Q735652>	"mitral valve prolapse"@en
+<http://www.wikidata.org/entity/Q742099>	"subclavian steal syndrome"@en
+<http://www.wikidata.org/entity/Q742672>	"dyscalculia"@en
+<http://www.wikidata.org/entity/Q745162>	"polyarteritis nodosa"@en
+<http://www.wikidata.org/entity/Q794072>	"azotemia"@en
+<http://www.wikidata.org/entity/Q794086>	"hypokalemia"@en
+<http://www.wikidata.org/entity/Q797668>	"Babesiosis"@en
+<http://www.wikidata.org/entity/Q796150>	"intertrigo"@en
+<http://www.wikidata.org/entity/Q805030>	"Balkan nephropathy"@en
+<http://www.wikidata.org/entity/Q753654>	"erythema infectiosum"@en
+<http://www.wikidata.org/entity/Q815753>	"filariasis"@en
+<http://www.wikidata.org/entity/Q831530>	"rosacea"@en
+<http://www.wikidata.org/entity/Q756610>	"otosclerosis"@en
+<http://www.wikidata.org/entity/Q835051>	"hyperplasia"@en
+<http://www.wikidata.org/entity/Q816798>	"amyloidosis"@en
+<http://www.wikidata.org/entity/Q778731>	"pyuria"@en
+<http://www.wikidata.org/entity/Q817310>	"benign paroxysmal positional nystagmus"@en
+<http://www.wikidata.org/entity/Q819207>	"pseudohypoparathyroidism"@en
+<http://www.wikidata.org/entity/Q838966>	"irritable bowel syndrome"@en
+<http://www.wikidata.org/entity/Q823027>	"disseminated intravascular coagulation"@en
+<http://www.wikidata.org/entity/Q824292>	"hyponatremia"@en
+<http://www.wikidata.org/entity/Q844935>	"coronary artery disease"@en
+<http://www.wikidata.org/entity/Q816422>	"dysmenorrhea"@en
+<http://www.wikidata.org/entity/Q826759>	"status asthmaticus"@en
+<http://www.wikidata.org/entity/Q827497>	"Muir-Torre syndrome"@en
+<http://www.wikidata.org/entity/Q830265>	"vitelliform macular dystrophy"@en
+<http://www.wikidata.org/entity/Q838145>	"leukoplakia"@en
+<http://www.wikidata.org/entity/Q835061>	"mastitis"@en
+<http://www.wikidata.org/entity/Q876887>	"cellulitis"@en
+<http://www.wikidata.org/entity/Q836356>	"croup"@en
+<http://www.wikidata.org/entity/Q847057>	"retinitis pigmentosa"@en
+<http://www.wikidata.org/entity/Q848371>	"lichen planus"@en
+<http://www.wikidata.org/entity/Q906492>	"dystonia"@en
+<http://www.wikidata.org/entity/Q845698>	"blepharitis"@en
+<http://www.wikidata.org/entity/Q916398>	"lymphedema"@en
+<http://www.wikidata.org/entity/Q842428>	"ascariasis"@en
+<http://www.wikidata.org/entity/Q845779>	"Fanconi anemia"@en
+<http://www.wikidata.org/entity/Q848662>	"ventricular fibrillation"@en
+<http://www.wikidata.org/entity/Q853930>	"starvation"@en
+<http://www.wikidata.org/entity/Q857667>	"pulmonary edema"@en
+<http://www.wikidata.org/entity/Q916280>	"restless legs syndrome"@en
+<http://www.wikidata.org/entity/Q910455>	"tracheomalacia"@en
+<http://www.wikidata.org/entity/Q859142>	"citrullinemia"@en
+<http://www.wikidata.org/entity/Q860395>	"osteomalacia"@en
+<http://www.wikidata.org/entity/Q911386>	"stomatitis"@en
+<http://www.wikidata.org/entity/Q861028>	"hemangioma"@en
+<http://www.wikidata.org/entity/Q912796>	"papilloma"@en
+<http://www.wikidata.org/entity/Q912766>	"postcholecystectomy syndrome"@en
+<http://www.wikidata.org/entity/Q917620>	"onychomycosis"@en
+<http://www.wikidata.org/entity/Q917069>	"rhabdomyolysis"@en
+<http://www.wikidata.org/entity/Q917357>	"Rett syndrome"@en
+<http://www.wikidata.org/entity/Q917227>	"Sandhoff disease"@en
+<http://www.wikidata.org/entity/Q922640>	"bronchopulmonary dysplasia"@en
+<http://www.wikidata.org/entity/Q933716>	"polycythemia"@en
+<http://www.wikidata.org/entity/Q918285>	"adrenocortical carcinoma"@en
+<http://www.wikidata.org/entity/Q922411>	"hypopituitarism"@en
+<http://www.wikidata.org/entity/Q918193>	"catalepsy"@en
+<http://www.wikidata.org/entity/Q877827>	"diabetic ketoacidosis"@en
+<http://www.wikidata.org/entity/Q970208>	"liver failure"@en
+<http://www.wikidata.org/entity/Q883863>	"blepharospasm"@en
+<http://www.wikidata.org/entity/Q934034>	"Chediak-Higashi syndrome"@en
+<http://www.wikidata.org/entity/Q935293>	"purpura"@en
+<http://www.wikidata.org/entity/Q896643>	"brachydactyly"@en
+<http://www.wikidata.org/entity/Q905619>	"necrobiosis lipoidica"@en
+<http://www.wikidata.org/entity/Q922971>	"Acanthamoeba keratitis"@en
+<http://www.wikidata.org/entity/Q938205>	"neuroblastoma"@en
+<http://www.wikidata.org/entity/Q923020>	"epidermolysis bullosa"@en
+<http://www.wikidata.org/entity/Q938983>	"osteomyelitis"@en
+<http://www.wikidata.org/entity/Q973524>	"spondylolisthesis"@en
+<http://www.wikidata.org/entity/Q932843>	"pulpitis"@en
+<http://www.wikidata.org/entity/Q923339>	"osteophyte"@en
+<http://www.wikidata.org/entity/Q928424>	"Barth syndrome"@en
+<http://www.wikidata.org/entity/Q943897>	"gastroparesis"@en
+<http://www.wikidata.org/entity/Q940874>	"granular cell tumor"@en
+<http://www.wikidata.org/entity/Q941770>	"proctitis"@en
+<http://www.wikidata.org/entity/Q938107>	"hypogonadism"@en
+<http://www.wikidata.org/entity/Q942755>	"folliculitis"@en
+<http://www.wikidata.org/entity/Q944142>	"suicidal ideation"@en
+<http://www.wikidata.org/entity/Q921907>	"Charles Bonnet syndrome"@en
+<http://www.wikidata.org/entity/Q988594>	"eczema"@en
+<http://www.wikidata.org/entity/Q861560>	"schizotypal personality disorder"@en
+<http://www.wikidata.org/entity/Q861845>	"kernicterus"@en
+<http://www.wikidata.org/entity/Q868137>	"coccidioidomycosis"@en
+<http://www.wikidata.org/entity/Q866622>	"Bisphosphonate-associated osteonecrosis of the jaw"@en
+<http://www.wikidata.org/entity/Q870891>	"linitis plastica"@en
+<http://www.wikidata.org/entity/Q913856>	"Friedreich ataxia"@en
+<http://www.wikidata.org/entity/Q972514>	"optic neuritis"@en
+<http://www.wikidata.org/entity/Q935781>	"hyperhidrosis"@en
+<http://www.wikidata.org/entity/Q946278>	"tracheitis"@en
+<http://www.wikidata.org/entity/Q946882>	"pericoronitis"@en
+<http://www.wikidata.org/entity/Q948318>	"polycythemia vera"@en
+<http://www.wikidata.org/entity/Q917447>	"inflammatory bowel diseases"@en
+<http://www.wikidata.org/entity/Q925092>	"Wolff-Parkinson-White syndrome"@en
+<http://www.wikidata.org/entity/Q929313>	"cardiac tamponade"@en
+<http://www.wikidata.org/entity/Q947813>	"encephalomalacia"@en
+<http://www.wikidata.org/entity/Q1027995>	"pyloric stenosis"@en
+<http://www.wikidata.org/entity/Q1016605>	"Burkitt lymphoma"@en
+<http://www.wikidata.org/entity/Q1026326>	"calciphylaxis"@en
+<http://www.wikidata.org/entity/Q1024546>	"cancer of unknown primary origin"@en
+<http://www.wikidata.org/entity/Q1022718>	"CADASIL"@en
+<http://www.wikidata.org/entity/Q988405>	"essential hypertension"@en
+<http://www.wikidata.org/entity/Q949694>	"amebiasis"@en
+<http://www.wikidata.org/entity/Q950591>	"scotoma"@en
+<http://www.wikidata.org/entity/Q950838>	"germinoma"@en
+<http://www.wikidata.org/entity/Q1036696>	"hypothermia"@en
+<http://www.wikidata.org/entity/Q914389>	"Cockayne syndrome"@en
+<http://www.wikidata.org/entity/Q1088113>	"chronic pain"@en
+<http://www.wikidata.org/entity/Q998273>	"Smith-Lemli-Opitz syndrome"@en
+<http://www.wikidata.org/entity/Q998803>	"tumor lysis syndrome"@en
+<http://www.wikidata.org/entity/Q953049>	"papilledema"@en
+<http://www.wikidata.org/entity/Q953638>	"Wiskott-Aldrich syndrome"@en
+<http://www.wikidata.org/entity/Q974691>	"epidermodysplasia verruciformis"@en
+<http://www.wikidata.org/entity/Q976163>	"polyhydramnios"@en
+<http://www.wikidata.org/entity/Q980709>	"status epilepticus"@en
+<http://www.wikidata.org/entity/Q1075923>	"cholestasis"@en
+<http://www.wikidata.org/entity/Q980926>	"polymyositis"@en
+<http://www.wikidata.org/entity/Q1053824>	"Raynaud disease"@en
+<http://www.wikidata.org/entity/Q1077603>	"mesothelioma"@en
+<http://www.wikidata.org/entity/Q1053948>	"Stevens-Johnson syndrome"@en
+<http://www.wikidata.org/entity/Q1076086>	"chondromalacia patellae"@en
+<http://www.wikidata.org/entity/Q1076087>	"chondrosarcoma"@en
+<http://www.wikidata.org/entity/Q1076481>	"choriocarcinoma"@en
+<http://www.wikidata.org/entity/Q1076078>	"chondroma"@en
+<http://www.wikidata.org/entity/Q1076060>	"chondrodysplasia punctata"@en
+<http://www.wikidata.org/entity/Q1076389>	"chordoma"@en
+<http://www.wikidata.org/entity/Q1054713>	"xerophthalmia"@en
+<http://www.wikidata.org/entity/Q1066061>	"diverticulitis"@en
+<http://www.wikidata.org/entity/Q954831>	"prolactinoma"@en
+<http://www.wikidata.org/entity/Q959457>	"syndrome of Inappropriate antidiuretic hormone secretion"@en
+<http://www.wikidata.org/entity/Q963944>	"melioidosis"@en
+<http://www.wikidata.org/entity/Q966052>	"cryptorchidism"@en
+<http://www.wikidata.org/entity/Q1044007>	"Carney complex"@en
+<http://www.wikidata.org/entity/Q1044327>	"Caroli disease"@en
+<http://www.wikidata.org/entity/Q1047551>	"Pinealoma"@en
+<http://www.wikidata.org/entity/Q1047559>	"agammaglobulinemia"@en
+<http://www.wikidata.org/entity/Q1049021>	"gender dysphoria"@en
+<http://www.wikidata.org/entity/Q1049655>	"paraplegia"@en
+<http://www.wikidata.org/entity/Q1068997>	"cheilitis"@en
+<http://www.wikidata.org/entity/Q1071707>	"Arnold-Chiari malformation"@en
+<http://www.wikidata.org/entity/Q1049881>	"retinoschisis"@en
+<http://www.wikidata.org/entity/Q1093815>	"hyperhomocysteinemia"@en
+<http://www.wikidata.org/entity/Q1097028>	"spondylosis"@en
+<http://www.wikidata.org/entity/Q1097957>	"intermittent claudication"@en
+<http://www.wikidata.org/entity/Q1129007>	"angioedema"@en
+<http://www.wikidata.org/entity/Q1129121>	"splenomegaly"@en
+<http://www.wikidata.org/entity/Q1129338>	"granuloma"@en
+<http://www.wikidata.org/entity/Q1132108>	"hypospadias"@en
+<http://www.wikidata.org/entity/Q1132120>	"trigeminal neuralgia"@en
+<http://www.wikidata.org/entity/Q959922>	"carbuncle"@en
+<http://www.wikidata.org/entity/Q1061988>	"Flail chest"@en
+<http://www.wikidata.org/entity/Q1054718>	"kidney disease"@en
+<http://www.wikidata.org/entity/Q994859>	"homocystinuria"@en
+<http://www.wikidata.org/entity/Q994942>	"bruxism"@en
+<http://www.wikidata.org/entity/Q1283303>	"tricuspid atresia"@en
+<http://www.wikidata.org/entity/Q1294912>	"endophthalmitis"@en
+<http://www.wikidata.org/entity/Q1306218>	"pericardial effusion"@en
+<http://www.wikidata.org/entity/Q1051223>	"seasonal affective disorder"@en
+<http://www.wikidata.org/entity/Q1313510>	"hypophosphatasia"@en
+<http://www.wikidata.org/entity/Q1076053>	"chondroblastoma"@en
+<http://www.wikidata.org/entity/Q1318384>	"oligodendroglioma"@en
+<http://www.wikidata.org/entity/Q1123139>	"ketosis"@en
+<http://www.wikidata.org/entity/Q1198391>	"intracranial aneurysm"@en
+<http://www.wikidata.org/entity/Q1051355>	"conversion disorder"@en
+<http://www.wikidata.org/entity/Q1200267>	"dermoid cyst"@en
+<http://www.wikidata.org/entity/Q1200839>	"oculocerebrorenal syndrome"@en
+<http://www.wikidata.org/entity/Q1162694>	"keratoconjunctivitis sicca"@en
+<http://www.wikidata.org/entity/Q1051436>	"cauda equina syndrome"@en
+<http://www.wikidata.org/entity/Q1209150>	"cerebral infarction"@en
+<http://www.wikidata.org/entity/Q1053120>	"Gitelman syndrome"@en
+<http://www.wikidata.org/entity/Q1052391>	"inherited pseudoxanthoma elasticum"@en
+<http://www.wikidata.org/entity/Q1346753>	"ependymoma"@en
+<http://www.wikidata.org/entity/Q1359898>	"cryptosporidiosis"@en
+<http://www.wikidata.org/entity/Q1362721>	"tuberous sclerosis"@en
+<http://www.wikidata.org/entity/Q1166142>	"erythema"@en
+<http://www.wikidata.org/entity/Q1147182>	"fecal incontinence"@en
+<http://www.wikidata.org/entity/Q1179460>	"Fanconi syndrome"@en
+<http://www.wikidata.org/entity/Q1161568>	"granulomatosis with polyangiitis"@en
+<http://www.wikidata.org/entity/Q1149042>	"cystinosis"@en
+<http://www.wikidata.org/entity/Q1137321>	"onchocerciasis"@en
+<http://www.wikidata.org/entity/Q1140794>	"mitral valve stenosis"@en
+<http://www.wikidata.org/entity/Q1162164>	"clubfoot"@en
+<http://www.wikidata.org/entity/Q1162276>	"xerostomia"@en
+<http://www.wikidata.org/entity/Q1124606>	"ganglioneuroma"@en
+<http://www.wikidata.org/entity/Q1125160>	"pityriasis rosea"@en
+<http://www.wikidata.org/entity/Q1126831>	"tetralogy of Fallot"@en
+<http://www.wikidata.org/entity/Q1362864>	"hepatomegaly"@en
+<http://www.wikidata.org/entity/Q1363732>	"erythema multiforme"@en
+<http://www.wikidata.org/entity/Q1365309>	"glioma"@en
+<http://www.wikidata.org/entity/Q1363738>	"erythema nodosum"@en
+<http://www.wikidata.org/entity/Q1127727>	"melorheostosis"@en
+<http://www.wikidata.org/entity/Q1320276>	"hypovolemia"@en
+<http://www.wikidata.org/entity/Q1344835>	"hyperparathyroidism"@en
+<http://www.wikidata.org/entity/Q1149046>	"cystinuria"@en
+<http://www.wikidata.org/entity/Q1150378>	"neurodermatitis"@en
+<http://www.wikidata.org/entity/Q1153641>	"Wolfram syndrome"@en
+<http://www.wikidata.org/entity/Q1151300>	"autoimmune lymphoproliferative syndrome"@en
+<http://www.wikidata.org/entity/Q1154055>	"osteochondrosis"@en
+<http://www.wikidata.org/entity/Q1322382>	"ecchymosis"@en
+<http://www.wikidata.org/entity/Q1154422>	"leukocyte-adhesion deficiency syndrome"@en
+<http://www.wikidata.org/entity/Q1157761>	"dacryocystitis"@en
+<http://www.wikidata.org/entity/Q1323713>	"ectodermal dysplasia"@en
+<http://www.wikidata.org/entity/Q1141055>	"diverticulum"@en
+<http://www.wikidata.org/entity/Q1324237>	"glossitis"@en
+<http://www.wikidata.org/entity/Q1328805>	"bone neoplasm"@en
+<http://www.wikidata.org/entity/Q1327273>	"entropion"@en
+<http://www.wikidata.org/entity/Q1332427>	"gonadal dysgenesis"@en
+<http://www.wikidata.org/entity/Q1141499>	"Ehlers-Danlos syndrome"@en
+<http://www.wikidata.org/entity/Q1144618>	"familial Mediterranean fever"@en
+<http://www.wikidata.org/entity/Q1144406>	"oligohydramnios"@en
+<http://www.wikidata.org/entity/Q1345113>	"toxocariasis"@en
+<http://www.wikidata.org/entity/Q1346023>	"encephalocele"@en
+<http://www.wikidata.org/entity/Q1349259>	"Erdheim-Chester disease"@en
+<http://www.wikidata.org/entity/Q1347416>	"epispadias"@en
+<http://www.wikidata.org/entity/Q1347065>	"epiglottitis"@en
+<http://www.wikidata.org/entity/Q1216998>	"neoplasm"@en
+<http://www.wikidata.org/entity/Q1350326>	"frostbite"@en
+<http://www.wikidata.org/entity/Q1194496>	"scrub typhus"@en
+<http://www.wikidata.org/entity/Q1360044>	"syndactyly"@en
+<http://www.wikidata.org/entity/Q1362453>	"fibrosarcoma"@en
+<http://www.wikidata.org/entity/Q1194557>	"laryngitis"@en
+<http://www.wikidata.org/entity/Q1165179>	"Kallmann syndrome"@en
+<http://www.wikidata.org/entity/Q1163908>	"melena"@en
+<http://www.wikidata.org/entity/Q1106881>	"Coffin-Lowry syndrome"@en
+<http://www.wikidata.org/entity/Q1106923>	"Cogan syndrome"@en
+<http://www.wikidata.org/entity/Q1112977>	"syringomyelia"@en
+<http://www.wikidata.org/entity/Q1122485>	"urethritis"@en
+<http://www.wikidata.org/entity/Q1134891>	"pica"@en
+<http://www.wikidata.org/entity/Q1136492>	"Costello syndrome"@en
+<http://www.wikidata.org/entity/Q1333608>	"medulloblastoma"@en
+<http://www.wikidata.org/entity/Q1138584>	"balanitis"@en
+<http://www.wikidata.org/entity/Q1140000>	"Crigler-Najjar syndrome"@en
+<http://www.wikidata.org/entity/Q1365937>	"space motion sickness"@en
+<http://www.wikidata.org/entity/Q1154619>	"Werner syndrome"@en
+<http://www.wikidata.org/entity/Q1151507>	"dermatitis herpetiformis"@en
+<http://www.wikidata.org/entity/Q1368943>	"cerebral hemorrhage"@en
+<http://www.wikidata.org/entity/Q1332448>	"Ellis–Van Creveld syndrome"@en
+<http://www.wikidata.org/entity/Q1334408>	"severe combined immunodeficiency"@en
+<http://www.wikidata.org/entity/Q1339243>	"emphysema"@en
+<http://www.wikidata.org/entity/Q1339539>	"empyema"@en
+<http://www.wikidata.org/entity/Q1340774>	"endometritis"@en
+<http://www.wikidata.org/entity/Q1435822>	"neutropenia"@en
+<http://www.wikidata.org/entity/Q1467339>	"hypertriglyceridemia"@en
+<http://www.wikidata.org/entity/Q1393725>	"factor XIII deficiency"@en
+<http://www.wikidata.org/entity/Q1436063>	"autism spectrum disorder"@en
+<http://www.wikidata.org/entity/Q1398913>	"favism"@en
+<http://www.wikidata.org/entity/Q1402851>	"chorioretinitis"@en
+<http://www.wikidata.org/entity/Q1396345>	"Farber lipogranulomatosis"@en
+<http://www.wikidata.org/entity/Q1472818>	"common variable immunodeficiency"@en
+<http://www.wikidata.org/entity/Q1469646>	"Bloom syndrome"@en
+<http://www.wikidata.org/entity/Q1474877>	"hypercalcemia"@en
+<http://www.wikidata.org/entity/Q1470140>	"cryptococcosis"@en
+<http://www.wikidata.org/entity/Q1339466>	"empty sella syndrome"@en
+<http://www.wikidata.org/entity/Q1405631>	"fever of unknown origin"@en
+<http://www.wikidata.org/entity/Q1480291>	"contracture"@en
+<http://www.wikidata.org/entity/Q1475667>	"taeniasis"@en
+<http://www.wikidata.org/entity/Q1410864>	"fibrous dysplasia of bone"@en
+<http://www.wikidata.org/entity/Q1429863>	"thymoma"@en
+<http://www.wikidata.org/entity/Q1411740>	"histiocytosis"@en
+<http://www.wikidata.org/entity/Q1413860>	"siderosis"@en
+<http://www.wikidata.org/entity/Q1418735>	"neurofibroma"@en
+<http://www.wikidata.org/entity/Q1483214>	"pemphigus"@en
+<http://www.wikidata.org/entity/Q1433212>	"myositis"@en
+<http://www.wikidata.org/entity/Q1343593>	"enophthalmos"@en
+<http://www.wikidata.org/entity/Q1344812>	"epididymitis"@en
+<http://www.wikidata.org/entity/Q1486140>	"gynatresia"@en
+<http://www.wikidata.org/entity/Q1484679>	"gastric antral vascular ectasia"@en
+<http://www.wikidata.org/entity/Q1495085>	"gas gangrene"@en
+<http://www.wikidata.org/entity/Q1233526>	"osteosclerosis"@en
+<http://www.wikidata.org/entity/Q1423087>	"retinopathy of prematurity"@en
+<http://www.wikidata.org/entity/Q1501239>	"insulinoma"@en
+<http://www.wikidata.org/entity/Q1423167>	"phlebitis"@en
+<http://www.wikidata.org/entity/Q1497481>	"failure to thrive"@en
+<http://www.wikidata.org/entity/Q1495674>	"gastroschisis"@en
+<http://www.wikidata.org/entity/Q1235785>	"Stiff-Person syndrome"@en
+<http://www.wikidata.org/entity/Q1266519>	"corneal neovascularization"@en
+<http://www.wikidata.org/entity/Q1250362>	"Nijmegen breakage syndrome"@en
+<http://www.wikidata.org/entity/Q1266418>	"duodenitis"@en
+<http://www.wikidata.org/entity/Q1262684>	"Duane retraction syndrome"@en
+<http://www.wikidata.org/entity/Q1421738>	"glycogen storage disease"@en
+<http://www.wikidata.org/entity/Q1424612>	"intussusception"@en
+<http://www.wikidata.org/entity/Q1424956>	"neuroleptic malignant syndrome"@en
+<http://www.wikidata.org/entity/Q1277793>	"myotonia"@en
+<http://www.wikidata.org/entity/Q1269251>	"dysgerminoma"@en
+<http://www.wikidata.org/entity/Q1426443>	"nocturia"@en
+<http://www.wikidata.org/entity/Q1425572>	"Fraser syndrome"@en
+<http://www.wikidata.org/entity/Q1425208>	"hallux rigidus"@en
+<http://www.wikidata.org/entity/Q1478321>	"spinal stenosis"@en
+<http://www.wikidata.org/entity/Q1433936>	"hyperprolactinemia"@en
+<http://www.wikidata.org/entity/Q1434575>	"spermatic cord torsion"@en
+<http://www.wikidata.org/entity/Q1434446>	"nephrosclerosis"@en
+<http://www.wikidata.org/entity/Q1456383>	"situs inversus"@en
+<http://www.wikidata.org/entity/Q1464888>	"Fuchs' endothelial dystrophy"@en
+<http://www.wikidata.org/entity/Q1414480>	"paraphimosis"@en
+<http://www.wikidata.org/entity/Q1418152>	"Mobius syndrome"@en
+<http://www.wikidata.org/entity/Q1477265>	"pseudopseudohypoparathyroidism"@en
+<http://www.wikidata.org/entity/Q1504713>	"leiomyosarcoma"@en
+<http://www.wikidata.org/entity/Q1546498>	"non-alcoholic fatty liver disease"@en
+<http://www.wikidata.org/entity/Q1527888>	"pancreatitis"@en
+<http://www.wikidata.org/entity/Q1479497>	"porphyria cutanea tarda"@en
+<http://www.wikidata.org/entity/Q1436162>	"pantothenate kinase-associated neurodegeneration"@en
+<http://www.wikidata.org/entity/Q1442621>	"Tangier disease"@en
+<http://www.wikidata.org/entity/Q1456403>	"Legg–Calvé–Perthes disease"@en
+<http://www.wikidata.org/entity/Q1462309>	"coloboma"@en
+<http://www.wikidata.org/entity/Q1459821>	"holoprosencephaly"@en
+<http://www.wikidata.org/entity/Q1505689>	"tenosynovitis"@en
+<http://www.wikidata.org/entity/Q1506572>	"atrial flutter"@en
+<http://www.wikidata.org/entity/Q1634879>	"encephalomyelitis"@en
+<http://www.wikidata.org/entity/Q1632552>	"hyperostosis"@en
+<http://www.wikidata.org/entity/Q1640324>	"hydrophthalmos"@en
+<http://www.wikidata.org/entity/Q1640860>	"hyperaldosteronism"@en
+<http://www.wikidata.org/entity/Q1553850>	"hemoglobinuria"@en
+<http://www.wikidata.org/entity/Q1760461>	"ovarian hyperstimulation syndrome"@en
+<http://www.wikidata.org/entity/Q1641062>	"hyperphosphatemia"@en
+<http://www.wikidata.org/entity/Q1585769>	"urolithiasis"@en
+<http://www.wikidata.org/entity/Q1752891>	"polymyalgia rheumatica"@en
+<http://www.wikidata.org/entity/Q1563513>	"HELLP syndrome"@en
+<http://www.wikidata.org/entity/Q1760607>	"loiasis"@en
+<http://www.wikidata.org/entity/Q1754226>	"megacolon"@en
+<http://www.wikidata.org/entity/Q1755568>	"osteopetrosis"@en
+<http://www.wikidata.org/entity/Q1753520>	"rheumatoid nodule"@en
+<http://www.wikidata.org/entity/Q1786513>	"craniopharyngioma"@en
+<http://www.wikidata.org/entity/Q1774751>	"Klippel-Feil syndrome"@en
+<http://www.wikidata.org/entity/Q1586088>	"hypoparathyroidism"@en
+<http://www.wikidata.org/entity/Q1756898>	"Lambert-Eaton myasthenic syndrome"@en
+<http://www.wikidata.org/entity/Q1786953>	"seminoma"@en
+<http://www.wikidata.org/entity/Q1790371>	"cryoglobulinemia"@en
+<http://www.wikidata.org/entity/Q1870975>	"fasciitis"@en
+<http://www.wikidata.org/entity/Q1876206>	"Pelizaeus-Merzbacher disease"@en
+<http://www.wikidata.org/entity/Q1876491>	"oligospermia"@en
+<http://www.wikidata.org/entity/Q1641068>	"hyperpigmentation"@en
+<http://www.wikidata.org/entity/Q1757427>	"pancytopenia"@en
+<http://www.wikidata.org/entity/Q1570013>	"thrombophilia"@en
+<http://www.wikidata.org/entity/Q1569573>	"hepatopulmonary syndrome"@en
+<http://www.wikidata.org/entity/Q1581845>	"mediastinitis"@en
+<http://www.wikidata.org/entity/Q1756040>	"Pierre Robin syndrome"@en
+<http://www.wikidata.org/entity/Q1807280>	"osteoblastoma"@en
+<http://www.wikidata.org/entity/Q1812702>	"food hypersensitivity"@en
+<http://www.wikidata.org/entity/Q1811132>	"Leber congenital amaurosis"@en
+<http://www.wikidata.org/entity/Q1641384>	"hypophosphatemia"@en
+<http://www.wikidata.org/entity/Q1641399>	"hypoplastic left heart syndrome"@en
+<http://www.wikidata.org/entity/Q1878741>	"lymphocele"@en
+<http://www.wikidata.org/entity/Q1877550>	"lung abscess"@en
+<http://www.wikidata.org/entity/Q1891209>	"mycosis fungoides"@en
+<http://www.wikidata.org/entity/Q1878759>	"lymphangioleiomyomatosis"@en
+<http://www.wikidata.org/entity/Q1641483>	"hypotrichosis"@en
+<http://www.wikidata.org/entity/Q1757915>	"sick sinus syndrome"@en
+<http://www.wikidata.org/entity/Q1592207>	"pseudolymphoma"@en
+<http://www.wikidata.org/entity/Q1642040>	"hemarthrosis"@en
+<http://www.wikidata.org/entity/Q1607658>	"hepatoblastoma"@en
+<http://www.wikidata.org/entity/Q1658731>	"postoperative nausea and vomiting"@en
+<http://www.wikidata.org/entity/Q1642206>	"superior mesenteric artery syndrome"@en
+<http://www.wikidata.org/entity/Q1647794>	"breast cyst"@en
+<http://www.wikidata.org/entity/Q1654860>	"argininosuccinic aciduria"@en
+<http://www.wikidata.org/entity/Q1538213>	"lipodystrophy"@en
+<http://www.wikidata.org/entity/Q1898141>	"rhabdomyosarcoma"@en
+<http://www.wikidata.org/entity/Q1583485>	"Rothmund-Thomson syndrome"@en
+<http://www.wikidata.org/entity/Q1529650>	"Vitreous hemorrhage"@en
+<http://www.wikidata.org/entity/Q1585081>	"malignant hyperthermia"@en
+<http://www.wikidata.org/entity/Q1620594>	"hirsutism"@en
+<http://www.wikidata.org/entity/Q1615557>	"adiposis dolorosa"@en
+<http://www.wikidata.org/entity/Q1758624>	"Pseudarthrosis"@en
+<http://www.wikidata.org/entity/Q1529977>	"muscle rigidity"@en
+<http://www.wikidata.org/entity/Q1621830>	"lupus nephritis"@en
+<http://www.wikidata.org/entity/Q1529983>	"mucopolysaccharidosis II"@en
+<http://www.wikidata.org/entity/Q1585753>	"urethral stricture"@en
+<http://www.wikidata.org/entity/Q1585743>	"urea cycle disorder"@en
+<http://www.wikidata.org/entity/Q1758730>	"transposition of great vessels"@en
+<http://www.wikidata.org/entity/Q1504570>	"protein C deficiency"@en
+<http://www.wikidata.org/entity/Q1541975>	"multiple system atrophy"@en
+<http://www.wikidata.org/entity/Q1781802>	"hyperekplexia"@en
+<http://www.wikidata.org/entity/Q1622407>	"mixed connective tissue disease"@en
+<http://www.wikidata.org/entity/Q1543446>	"Noonan syndrome"@en
+<http://www.wikidata.org/entity/Q1544408>	"Alagille syndrome"@en
+<http://www.wikidata.org/entity/Q1623006>	"keratoconjunctivitis"@en
+<http://www.wikidata.org/entity/Q1544989>	"Peutz-Jeghers syndrome"@en
+<http://www.wikidata.org/entity/Q1507609>	"ochronosis"@en
+<http://www.wikidata.org/entity/Q1516083>	"piebaldism"@en
+<http://www.wikidata.org/entity/Q1518637>	"VIPoma"@en
+<http://www.wikidata.org/entity/Q1545750>	"lymphangioma"@en
+<http://www.wikidata.org/entity/Q1545572>	"splenic infarction"@en
+<http://www.wikidata.org/entity/Q1526459>	"pyoderma gangrenosum"@en
+<http://www.wikidata.org/entity/Q1628473>	"corneal ulcer"@en
+<http://www.wikidata.org/entity/Q1527711>	"nephrocalcinosis"@en
+<http://www.wikidata.org/entity/Q1660341>	"shoulder impingement syndrome"@en
+<http://www.wikidata.org/entity/Q1679678>	"hydrops fetalis"@en
+<http://www.wikidata.org/entity/Q1678281>	"Bardet-Biedl syndrome"@en
+<http://www.wikidata.org/entity/Q1691351>	"lipomatosis"@en
+<http://www.wikidata.org/entity/Q1723331>	"ophthalmoplegia"@en
+<http://www.wikidata.org/entity/Q1736456>	"somatostatinoma"@en
+<http://www.wikidata.org/entity/Q1892153>	"WAGR syndrome"@en
+<http://www.wikidata.org/entity/Q1790134>	"Krukenberg tumor"@en
+<http://www.wikidata.org/entity/Q1798016>	"LEOPARD syndrome"@en
+<http://www.wikidata.org/entity/Q1897162>	"parasitemia"@en
+<http://www.wikidata.org/entity/Q1898104>	"myeloproliferative disorders"@en
+<http://www.wikidata.org/entity/Q1570161>	"hematemesis"@en
+<http://www.wikidata.org/entity/Q1571398>	"vestibular neuronitis"@en
+<http://www.wikidata.org/entity/Q1573307>	"Wernicke encephalopathy"@en
+<http://www.wikidata.org/entity/Q1668089>	"neurocytoma"@en
+<http://www.wikidata.org/entity/Q1704531>	"pilomatrixoma"@en
+<http://www.wikidata.org/entity/Q1734755>	"carcinoid tumor"@en
+<http://www.wikidata.org/entity/Q2035032>	"osteochondroma"@en
+<http://www.wikidata.org/entity/Q2035109>	"nail-patella syndrome"@en
+<http://www.wikidata.org/entity/Q2046550>	"diabetic neuropathy"@en
+<http://www.wikidata.org/entity/Q2038371>	"labyrinthitis"@en
+<http://www.wikidata.org/entity/Q2051832>	"parapsoriasis"@en
+<http://www.wikidata.org/entity/Q2050791>	"Papillon-Lefevre disease"@en
+<http://www.wikidata.org/entity/Q1535394>	"nesidioblastosis"@en
+<http://www.wikidata.org/entity/Q1531490>	"Gliosis"@en
+<http://www.wikidata.org/entity/Q2057356>	"eosinophilic esophagitis"@en
+<http://www.wikidata.org/entity/Q1906054>	"mucopolysaccharidosis I"@en
+<http://www.wikidata.org/entity/Q1918881>	"meconium aspiration syndrome"@en
+<http://www.wikidata.org/entity/Q1920586>	"meningeal carcinomatosis"@en
+<http://www.wikidata.org/entity/Q1934069>	"microscopic polyangiitis"@en
+<http://www.wikidata.org/entity/Q2089854>	"hemosiderosis"@en
+<http://www.wikidata.org/entity/Q1550742>	"genu varum"@en
+<http://www.wikidata.org/entity/Q2092064>	"hemophilia A"@en
+<http://www.wikidata.org/entity/Q2090167>	"plasmacytoma"@en
+<http://www.wikidata.org/entity/Q2062483>	"rectal prolapse"@en
+<http://www.wikidata.org/entity/Q1553018>	"multiple endocrine neoplasia"@en
+<http://www.wikidata.org/entity/Q2453464>	"colitis"@en
+<http://www.wikidata.org/entity/Q2290446>	"idiopathic pulmonary fibrosis"@en
+<http://www.wikidata.org/entity/Q2103933>	"REM sleep behavior disorder"@en
+<http://www.wikidata.org/entity/Q2112335>	"wound infection"@en
+<http://www.wikidata.org/entity/Q1827425>	"liposarcoma"@en
+<http://www.wikidata.org/entity/Q1815019>	"Leigh disease"@en
+<http://www.wikidata.org/entity/Q1823656>	"Liddle syndrome"@en
+<http://www.wikidata.org/entity/Q1827605>	"lipedema"@en
+<http://www.wikidata.org/entity/Q1860507>	"myotonic dystrophy"@en
+<http://www.wikidata.org/entity/Q1862031>	"pinguecula"@en
+<http://www.wikidata.org/entity/Q1862972>	"pterygium"@en
+<http://www.wikidata.org/entity/Q1941101>	"myoma"@en
+<http://www.wikidata.org/entity/Q1951267>	"moyamoya disease"@en
+<http://www.wikidata.org/entity/Q1956682>	"myoglobinuria"@en
+<http://www.wikidata.org/entity/Q1970295>	"Oligomenorrhea"@en
+<http://www.wikidata.org/entity/Q1975850>	"parotitis"@en
+<http://www.wikidata.org/entity/Q1980528>	"acute generalized exanthematous pustulosis"@en
+<http://www.wikidata.org/entity/Q2075261>	"myocardial stunning"@en
+<http://www.wikidata.org/entity/Q1981345>	"neuroma"@en
+<http://www.wikidata.org/entity/Q2000072>	"spondylolysis"@en
+<http://www.wikidata.org/entity/Q2025687>	"iron overload"@en
+<http://www.wikidata.org/entity/Q2562598>	"hemophilia B"@en
+<http://www.wikidata.org/entity/Q2085267>	"pharyngitis"@en
+<http://www.wikidata.org/entity/Q2002586>	"sialadenitis"@en
+<http://www.wikidata.org/entity/Q2012642>	"cryptogenic organizing pneumonia"@en
+<http://www.wikidata.org/entity/Q2640586>	"furunculosis"@en
+<http://www.wikidata.org/entity/Q2637111>	"gingival overgrowth"@en
+<http://www.wikidata.org/entity/Q2565270>	"hydranencephaly"@en
+<http://www.wikidata.org/entity/Q2581333>	"post-concussion syndrome"@en
+<http://www.wikidata.org/entity/Q2661464>	"glucose intolerance"@en
+<http://www.wikidata.org/entity/Q2099138>	"placental insufficiency"@en
+<http://www.wikidata.org/entity/Q2027937>	"choledochal cyst"@en
+<http://www.wikidata.org/entity/Q2028354>	"biliary dyskinesia"@en
+<http://www.wikidata.org/entity/Q2033138>	"angiokeratoma"@en
+<http://www.wikidata.org/entity/Q1827028>	"Ectopia lentis"@en
+<http://www.wikidata.org/entity/Q2112703>	"prolapse"@en
+<http://www.wikidata.org/entity/Q2282783>	"epiretinal membrane"@en
+<http://www.wikidata.org/entity/Q2507106>	"dental pulp necrosis"@en
+<http://www.wikidata.org/entity/Q2507454>	"adrenal insufficiency"@en
+<http://www.wikidata.org/entity/Q2119633>	"pyoderma"@en
+<http://www.wikidata.org/entity/Q2165411>	"spondylitis"@en
+<http://www.wikidata.org/entity/Q2141001>	"chilblains"@en
+<http://www.wikidata.org/entity/Q2123838>	"organ torsion"@en
+<http://www.wikidata.org/entity/Q2521747>	"adamantinoma"@en
+<http://www.wikidata.org/entity/Q2188219>	"tooth ankylosis"@en
+<http://www.wikidata.org/entity/Q2213687>	"sacroiliitis"@en
+<http://www.wikidata.org/entity/Q2259421>	"Schnitzler syndrome"@en
+<http://www.wikidata.org/entity/Q2264130>	"trichuriasis"@en
+<http://www.wikidata.org/entity/Q2280546>	"Shy-Drager syndrome"@en
+<http://www.wikidata.org/entity/Q2291208>	"Sjogren-Larsson syndrome"@en
+<http://www.wikidata.org/entity/Q2295338>	"Smith-Magenis syndrome"@en
+<http://www.wikidata.org/entity/Q2307256>	"neuritis"@en
+<http://www.wikidata.org/entity/Q2298953>	"hidradenitis"@en
+<http://www.wikidata.org/entity/Q2312030>	"discitis"@en
+<http://www.wikidata.org/entity/Q2329041>	"asthenozoospermia"@en
+<http://www.wikidata.org/entity/Q2346396>	"iritis"@en
+<http://www.wikidata.org/entity/Q2346415>	"meningoencephalitis"@en
+<http://www.wikidata.org/entity/Q2356131>	"Unverricht-Lundborg syndrome"@en
+<http://www.wikidata.org/entity/Q2349546>	"Canavan disease"@en
+<http://www.wikidata.org/entity/Q2443552>	"trypanosomiasis"@en
+<http://www.wikidata.org/entity/Q2357409>	"struma ovarii"@en
+<http://www.wikidata.org/entity/Q2360849>	"strongyloidiasis"@en
+<http://www.wikidata.org/entity/Q1923955>	"pyomyositis"@en
+<http://www.wikidata.org/entity/Q1934052>	"microsporidiosis"@en
+<http://www.wikidata.org/entity/Q2697787>	"alopecia"@en
+<http://www.wikidata.org/entity/Q2533455>	"nociceptive pain"@en
+<http://www.wikidata.org/entity/Q2535470>	"vulvovaginitis"@en
+<http://www.wikidata.org/entity/Q2546232>	"Plagiocephaly"@en
+<http://www.wikidata.org/entity/Q2551272>	"hypereosinophilic syndrome"@en
+<http://www.wikidata.org/entity/Q2553422>	"POEMS syndrome"@en
+<http://www.wikidata.org/entity/Q2556242>	"exotropia"@en
+<http://www.wikidata.org/entity/Q2375956>	"blind loop syndrome"@en
+<http://www.wikidata.org/entity/Q2507281>	"vaginal neoplasm"@en
+<http://www.wikidata.org/entity/Q2397009>	"choroideremia"@en
+<http://www.wikidata.org/entity/Q2376518>	"syringoma"@en
+<http://www.wikidata.org/entity/Q2561844>	"facial neuralgia"@en
+<http://www.wikidata.org/entity/Q2557206>	"scimitar syndrome"@en
+<http://www.wikidata.org/entity/Q2431472>	"posterior tibial tendon dysfunction"@en
+<http://www.wikidata.org/entity/Q2735907>	"cutis laxa"@en
+<http://www.wikidata.org/entity/Q2841213>	"factor XII deficiency"@en
+<http://www.wikidata.org/entity/Q2844600>	"muscular atrophy"@en
+<http://www.wikidata.org/entity/Q2756703>	"Septo-optic dysplasia"@en
+<http://www.wikidata.org/entity/Q2142496>	"Silver-Russell syndrome"@en
+<http://www.wikidata.org/entity/Q2165266>	"Nelson syndrome"@en
+<http://www.wikidata.org/entity/Q3221083>	"motor neuron disease"@en
+<http://www.wikidata.org/entity/Q2622714>	"cholesterol ester storage disease"@en
+<http://www.wikidata.org/entity/Q2583311>	"tabes dorsalis"@en
+<http://www.wikidata.org/entity/Q2605012>	"Kearns-Sayre syndrome"@en
+<http://www.wikidata.org/entity/Q3629049>	"optic atrophy"@en
+<http://www.wikidata.org/entity/Q3658498>	"rheumatic heart disease"@en
+<http://www.wikidata.org/entity/Q3640885>	"pulmonary blastoma"@en
+<http://www.wikidata.org/entity/Q3658562>	"non-small-cell lung carcinoma"@en
+<http://www.wikidata.org/entity/Q3667186>	"keratosis"@en
+<http://www.wikidata.org/entity/Q2532540>	"Birt-Hogg-Dube syndrome"@en
+<http://www.wikidata.org/entity/Q2529980>	"bird fancier's lung"@en
+<http://www.wikidata.org/entity/Q3704732>	"antithrombin III deficiency"@en
+<http://www.wikidata.org/entity/Q3693917>	"choroiditis"@en
+<http://www.wikidata.org/entity/Q3705876>	"dermatomycosis"@en
+<http://www.wikidata.org/entity/Q2720759>	"esotropia"@en
+<http://www.wikidata.org/entity/Q3709312>	"dyskeratosis congenita"@en
+<http://www.wikidata.org/entity/Q3724157>	"migraine without aura"@en
+<http://www.wikidata.org/entity/Q2728811>	"premenstrual dysphoric disorder"@en
+<http://www.wikidata.org/entity/Q3961678>	"Laurence-Moon syndrome"@en
+<http://www.wikidata.org/entity/Q3725136>	"endoleak"@en
+<http://www.wikidata.org/entity/Q3775784>	"lymphomatoid granulomatosis"@en
+<http://www.wikidata.org/entity/Q3961690>	"Sudeck's syndrome"@en
+<http://www.wikidata.org/entity/Q2666433>	"MELAS syndrome"@en
+<http://www.wikidata.org/entity/Q4667534>	"leiomyoma"@en
+<http://www.wikidata.org/entity/Q2694437>	"asphyxia neonatorum"@en
+<http://www.wikidata.org/entity/Q3857106>	"chronic idiopathic myelofibrosis"@en
+<http://www.wikidata.org/entity/Q5773040>	"histiocytoma"@en
+<http://www.wikidata.org/entity/Q5830653>	"intracranial embolism"@en
+<http://www.wikidata.org/entity/Q5797309>	"lacrimal duct obstruction"@en
+<http://www.wikidata.org/entity/Q5832599>	"endotoxemia"@en
+<http://www.wikidata.org/entity/Q2669284>	"arachnoiditis"@en
+<http://www.wikidata.org/entity/Q5922406>	"inflammatory breast cancer"@en
+<http://www.wikidata.org/entity/Q5958765>	"hypersensitivity"@en
+<http://www.wikidata.org/entity/Q4675757>	"acrodermatitis"@en
+<http://www.wikidata.org/entity/Q4677915>	"acute chest syndrome"@en
+<http://www.wikidata.org/entity/Q4862390>	"brain ischemia"@en
+<http://www.wikidata.org/entity/Q4684749>	"adrenocortical adenoma"@en
+<http://www.wikidata.org/entity/Q3026441>	"Machado-Joseph disease"@en
+<http://www.wikidata.org/entity/Q3046374>	"zygomycosis"@en
+<http://www.wikidata.org/entity/Q3124960>	"epidermolysis bullosa simplex"@en
+<http://www.wikidata.org/entity/Q3100515>	"hypervitaminosis A"@en
+<http://www.wikidata.org/entity/Q3043268>	"retinal degeneration"@en
+<http://www.wikidata.org/entity/Q4692285>	"aggressive periodontitis"@en
+<http://www.wikidata.org/entity/Q3144913>	"hemangiopericytoma"@en
+<http://www.wikidata.org/entity/Q3799243>	"pulmonary valve insufficiency"@en
+<http://www.wikidata.org/entity/Q3148841>	"meconium ileus"@en
+<http://www.wikidata.org/entity/Q3796380>	"ileitis"@en
+<http://www.wikidata.org/entity/Q4165484>	"lymphoproliferative disorders"@en
+<http://www.wikidata.org/entity/Q5038170>	"carcinosarcoma"@en
+<http://www.wikidata.org/entity/Q5064113>	"cerebrospinal fluid leak"@en
+<http://www.wikidata.org/entity/Q3889390>	"cleft palate"@en
+<http://www.wikidata.org/entity/Q3913024>	"lymphangiosarcoma"@en
+<http://www.wikidata.org/entity/Q3886247>	"urticaria pigmentosa"@en
+<http://www.wikidata.org/entity/Q3858675>	"myositis ossificans"@en
+<http://www.wikidata.org/entity/Q2845978>	"stereotypic movement disorder"@en
+<http://www.wikidata.org/entity/Q2991265>	"polymicrogyria"@en
+<http://www.wikidata.org/entity/Q4170873>	"biliary reflux"@en
+<http://www.wikidata.org/entity/Q3395796>	"polyradiculoneuropathy"@en
+<http://www.wikidata.org/entity/Q3435504>	"AIDS dementia complex"@en
+<http://www.wikidata.org/entity/Q3433884>	"gestational trophoblastic disease"@en
+<http://www.wikidata.org/entity/Q3408668>	"prurigo"@en
+<http://www.wikidata.org/entity/Q3267772>	"salivary gland neoplasm"@en
+<http://www.wikidata.org/entity/Q3443277>	"flushing"@en
+<http://www.wikidata.org/entity/Q3269466>	"lymphadenitis"@en
+<http://www.wikidata.org/entity/Q3304152>	"Jervell-Lange Nielsen syndrome"@en
+<http://www.wikidata.org/entity/Q3347154>	"multiple endocrine neoplasia type 1"@en
+<http://www.wikidata.org/entity/Q3357479>	"osteoradionecrosis"@en
+<http://www.wikidata.org/entity/Q3392956>	"pouchitis"@en
+<http://www.wikidata.org/entity/Q3360152>	"pachyonychia congenita"@en
+<http://www.wikidata.org/entity/Q3991731>	"thyrotoxicosis"@en
+<http://www.wikidata.org/entity/Q4000421>	"Sertoli cell tumor"@en
+<http://www.wikidata.org/entity/Q4007235>	"atrophic vaginitis"@en
+<http://www.wikidata.org/entity/Q4062508>	"alcoholic neuropathy"@en
+<http://www.wikidata.org/entity/Q4021721>	"xanthomatosis"@en
+<http://www.wikidata.org/entity/Q4082071>	"protein-energy malnutrition"@en
+<http://www.wikidata.org/entity/Q3508669>	"Loeys-Dietz syndrome"@en
+<http://www.wikidata.org/entity/Q3493413>	"sphenoid sinusitis"@en
+<http://www.wikidata.org/entity/Q3542021>	"endodermal sinus tumor"@en
+<http://www.wikidata.org/entity/Q3508806>	"eosinophilia-myalgia syndrome"@en
+<http://www.wikidata.org/entity/Q3542018>	"fibroblastic tumour"@en
+<http://www.wikidata.org/entity/Q4271835>	"Cytomegalovirus retinitis"@en
+<http://www.wikidata.org/entity/Q4116448>	"tracheal stenosis"@en
+<http://www.wikidata.org/entity/Q5375429>	"enchondromatosis"@en
+<http://www.wikidata.org/entity/Q5405504>	"linear IgA bullous dermatosis"@en
+<http://www.wikidata.org/entity/Q5493754>	"Frasier syndrome"@en
+<http://www.wikidata.org/entity/Q5437240>	"fat necrosis"@en
+<http://www.wikidata.org/entity/Q5463847>	"focal dermal hypoplasia"@en
+<http://www.wikidata.org/entity/Q5521151>	"ganglioneuroblastoma"@en
+<http://www.wikidata.org/entity/Q4138746>	"hypertensive encephalopathy"@en
+<http://www.wikidata.org/entity/Q4138767>	"vitamin K deficiency"@en
+<http://www.wikidata.org/entity/Q5526789>	"gastric outlet obstruction"@en
+<http://www.wikidata.org/entity/Q5566612>	"glandular and epithelial neoplasm"@en
+<http://www.wikidata.org/entity/Q4139987>	"glomus tumor"@en
+<http://www.wikidata.org/entity/Q5596838>	"Granulomatous mastitis"@en
+<http://www.wikidata.org/entity/Q5609817>	"tinea pedis"@en
+<http://www.wikidata.org/entity/Q4280605>	"mansonelliasis"@en
+<http://www.wikidata.org/entity/Q5731687>	"hepatic veno-occlusive disease"@en
+<http://www.wikidata.org/entity/Q4330029>	"airway obstruction"@en
+<http://www.wikidata.org/entity/Q5749020>	"squamous cell carcinoma of the lung"@en
+<http://www.wikidata.org/entity/Q5773034>	"histiocytic sarcoma"@en
+<http://www.wikidata.org/entity/Q5763722>	"rhinoscleroma"@en
+<http://www.wikidata.org/entity/Q4335552>	"stomach neoplasm"@en
+<http://www.wikidata.org/entity/Q3824795>	"exfoliation syndrome"@en
+<http://www.wikidata.org/entity/Q5598273>	"Gray platelet syndrome"@en
+<http://www.wikidata.org/entity/Q3896379>	"paronychia"@en
+<http://www.wikidata.org/entity/Q3924862>	"intestinal pseudo-obstruction"@en
+<http://www.wikidata.org/entity/Q3899850>	"periarthritis"@en
+<http://www.wikidata.org/entity/Q3936113>	"nasopharyngitis"@en
+<http://www.wikidata.org/entity/Q3726860>	"epidermolysis bullosa acquisita"@en
+<http://www.wikidata.org/entity/Q3765145>	"ichthyosis vulgaris"@en
+<http://www.wikidata.org/entity/Q3775782>	"apical granuloma"@en
+<http://www.wikidata.org/entity/Q2851545>	"oophoritis"@en
+<http://www.wikidata.org/entity/Q2860302>	"kidney cortex necrosis"@en
+<http://www.wikidata.org/entity/Q2881413>	"lateral sclerosis"@en
+<http://www.wikidata.org/entity/Q2989168>	"hair diseases"@en
+<http://www.wikidata.org/entity/Q3059297>	"ethmoid sinusitis"@en
+<http://www.wikidata.org/entity/Q3410985>	"purpura fulminans"@en
+<http://www.wikidata.org/entity/Q3091959>	"anisakiasis"@en
+<http://www.wikidata.org/entity/Q3085434>	"Pallister-Hall syndrome"@en
+<http://www.wikidata.org/entity/Q3542029>	"colonic neoplasm"@en
+<http://www.wikidata.org/entity/Q3589131>	"epidermolysis bullosa dystrophica"@en
+<http://www.wikidata.org/entity/Q6065599>	"toxemia"@en
+<http://www.wikidata.org/entity/Q4335557>	"central nervous system neoplasm"@en
+<http://www.wikidata.org/entity/Q4335554>	"tongue neoplasm"@en
+<http://www.wikidata.org/entity/Q3554941>	"vasoplegia"@en
+<http://www.wikidata.org/entity/Q3616643>	"Anetoderma"@en
+<http://www.wikidata.org/entity/Q3624834>	"periapical abscess"@en
+<http://www.wikidata.org/entity/Q3629047>	"Gyrate atrophy of the choroid"@en
+<http://www.wikidata.org/entity/Q4797546>	"Arteriosclerosis obliterans"@en
+<http://www.wikidata.org/entity/Q4763261>	"angioid streaks"@en
+<http://www.wikidata.org/entity/Q4763273>	"angiolipoma"@en
+<http://www.wikidata.org/entity/Q4850044>	"balanitis xerotica obliterans"@en
+<http://www.wikidata.org/entity/Q6137239>	"hantavirus pulmonary syndrome"@en
+<http://www.wikidata.org/entity/Q5075435>	"alopecia areata"@en
+<http://www.wikidata.org/entity/Q6473911>	"herpes simplex"@en
+<http://www.wikidata.org/entity/Q6811539>	"melanosis"@en
+<http://www.wikidata.org/entity/Q6840464>	"microvasculature remodeling"@en
+<http://www.wikidata.org/entity/Q6931254>	"mucormycosis"@en
+<http://www.wikidata.org/entity/Q4907586>	"Bilateral vestibulopathy"@en
+<http://www.wikidata.org/entity/Q6931269>	"mucositis"@en
+<http://www.wikidata.org/entity/Q9294051>	"ocular hypertension"@en
+<http://www.wikidata.org/entity/Q5114004>	"chronic traumatic encephalopathy"@en
+<http://www.wikidata.org/entity/Q5160437>	"congenital hyperinsulinism"@en
+<http://www.wikidata.org/entity/Q4366062>	"pneumococcal infection"@en
+<http://www.wikidata.org/entity/Q4412533>	"aspartylglucosaminuria"@en
+<http://www.wikidata.org/entity/Q4338644>	"spinal osteochondrosis"@en
+<http://www.wikidata.org/entity/Q4420121>	"Dent disease"@en
+<http://www.wikidata.org/entity/Q6710283>	"Wolman disease"@en
+<http://www.wikidata.org/entity/Q4597494>	"intestinal atresia"@en
+<http://www.wikidata.org/entity/Q4651855>	"AIDS-related complex"@en
+<http://www.wikidata.org/entity/Q6947906>	"myocardial ischemia"@en
+<http://www.wikidata.org/entity/Q6993502>	"neonatal abstinence syndrome"@en
+<http://www.wikidata.org/entity/Q4667072>	"fibroma"@en
+<http://www.wikidata.org/entity/Q6995207>	"nephrosis"@en
+<http://www.wikidata.org/entity/Q7130412>	"pancreatic neoplasm"@en
+<http://www.wikidata.org/entity/Q7144437>	"patellofemoral pain syndrome"@en
+<http://www.wikidata.org/entity/Q4667164>	"Aberrant crypt foci"@en
+<http://www.wikidata.org/entity/Q7161811>	"pelvic neoplasm"@en
+<http://www.wikidata.org/entity/Q9397786>	"venous thromboembolism"@en
+<http://www.wikidata.org/entity/Q10529545>	"hyperandrogenism"@en
+<http://www.wikidata.org/entity/Q10748814>	"megalencephaly"@en
+<http://www.wikidata.org/entity/Q5172183>	"coronary aneurysm"@en
+<http://www.wikidata.org/entity/Q5171111>	"corneal perforation"@en
+<http://www.wikidata.org/entity/Q10916362>	"dizziness"@en
+<http://www.wikidata.org/entity/Q5201177>	"cystadenocarcinoma"@en
+<http://www.wikidata.org/entity/Q7004538>	"Nevi and melanomas"@en
+<http://www.wikidata.org/entity/Q7098796>	"optic nerve glioma"@en
+<http://www.wikidata.org/entity/Q7098792>	"optic disk drusen"@en
+<http://www.wikidata.org/entity/Q7002244>	"neurogenic inflammation"@en
+<http://www.wikidata.org/entity/Q6058506>	"Intraocular lymphoma"@en
+<http://www.wikidata.org/entity/Q12252367>	"atherosclerosis"@en
+<http://www.wikidata.org/entity/Q7165022>	"pentalogy of Cantrell"@en
+<http://www.wikidata.org/entity/Q11540874>	"vertebrobasilar insufficiency"@en
+<http://www.wikidata.org/entity/Q7170410>	"persistent fetal circulation syndrome"@en
+<http://www.wikidata.org/entity/Q11590740>	"nerve sheath neoplasms"@en
+<http://www.wikidata.org/entity/Q11549084>	"vesicular stomatitis"@en
+<http://www.wikidata.org/entity/Q5283757>	"diurnal enuresis"@en
+<http://www.wikidata.org/entity/Q5319554>	"dysplastic nevus syndrome"@en
+<http://www.wikidata.org/entity/Q5274956>	"dientamoebiasis"@en
+<http://www.wikidata.org/entity/Q11627066>	"West Nile fever"@en
+<http://www.wikidata.org/entity/Q7180167>	"phagocyte bactericidal dysfunction"@en
+<http://www.wikidata.org/entity/Q7170412>	"persistent hyperplastic primary vitreous"@en
+<http://www.wikidata.org/entity/Q5375191>	"dental enamel hypoplasia"@en
+<http://www.wikidata.org/entity/Q7193408>	"pigmentation disorder"@en
+<http://www.wikidata.org/entity/Q7202249>	"platelet storage pool deficiency"@en
+<http://www.wikidata.org/entity/Q7202556>	"Platybasia"@en
+<http://www.wikidata.org/entity/Q7204730>	"pleuropneumonia"@en
+<http://www.wikidata.org/entity/Q7247500>	"Proctocolitis"@en
+<http://www.wikidata.org/entity/Q11679861>	"ancylostomiasis"@en
+<http://www.wikidata.org/entity/Q7250337>	"propionic acidemia"@en
+<http://www.wikidata.org/entity/Q7562539>	"facial paralysis"@en
+<http://www.wikidata.org/entity/Q7249599>	"prolidase deficiency"@en
+<http://www.wikidata.org/entity/Q7758678>	"night blindness"@en
+<http://www.wikidata.org/entity/Q6731385>	"Magnesium deficiency"@en
+<http://www.wikidata.org/entity/Q6743515>	"rhabdoid tumor"@en
+<http://www.wikidata.org/entity/Q11793790>	"ovarian neoplasm"@en
+<http://www.wikidata.org/entity/Q6934642>	"multicystic dysplastic kidney"@en
+<http://www.wikidata.org/entity/Q7316771>	"retinal vasculitis"@en
+<http://www.wikidata.org/entity/Q7263794>	"pyruvate carboxylase deficiency disease"@en
+<http://www.wikidata.org/entity/Q7607891>	"stenosing tenosynovitis"@en
+<http://www.wikidata.org/entity/Q12050056>	"cleft lip"@en
+<http://www.wikidata.org/entity/Q18555032>	"factor VII deficiency"@en
+<http://www.wikidata.org/entity/Q18554982>	"intestinal perforation"@en
+<http://www.wikidata.org/entity/Q18554955>	"rectal neoplasm"@en
+<http://www.wikidata.org/entity/Q18554884>	"retinal vein occlusion"@en
+<http://www.wikidata.org/entity/Q7099404>	"oral submucous fibrosis"@en
+<http://www.wikidata.org/entity/Q18555210>	"acalculous cholecystitis"@en
+<http://www.wikidata.org/entity/Q18555152>	"mesenchymoma"@en
+<http://www.wikidata.org/entity/Q18555036>	"factor X deficiency"@en
+<http://www.wikidata.org/entity/Q18555128>	"laryngeal neoplasm"@en
+<http://www.wikidata.org/entity/Q18555162>	"Leydig cell tumor"@en
+<http://www.wikidata.org/entity/Q7824277>	"tooth resorption"@en
+<http://www.wikidata.org/entity/Q7831319>	"tracheoesophageal fistula"@en
+<http://www.wikidata.org/entity/Q7136148>	"parathyroid neoplasm"@en
+<http://www.wikidata.org/entity/Q7900421>	"ureteral neoplasm"@en
+<http://www.wikidata.org/entity/Q7845637>	"trophoblastic neoplasm"@en
+<http://www.wikidata.org/entity/Q7888578>	"neurosyphilis"@en
+<http://www.wikidata.org/entity/Q12829165>	"unconsciousness"@en
+<http://www.wikidata.org/entity/Q7943634>	"Vulvar vestibulitis"@en
+<http://www.wikidata.org/entity/Q13365776>	"uremia"@en
+<http://www.wikidata.org/entity/Q9002005>	"hemorrhagic fever with renal syndrome"@en
+<http://www.wikidata.org/entity/Q8961561>	"endomyocardial fibrosis"@en
+<http://www.wikidata.org/entity/Q18554018>	"cholecystolithiasis"@en
+<http://www.wikidata.org/entity/Q9008818>	"venous insufficiency"@en
+<http://www.wikidata.org/entity/Q18554068>	"lens subluxation"@en
+<http://www.wikidata.org/entity/Q18554084>	"sciatic neuropathy"@en
+<http://www.wikidata.org/entity/Q18554228>	"panuveitis"@en
+<http://www.wikidata.org/entity/Q18554121>	"penile neoplasm"@en
+<http://www.wikidata.org/entity/Q18554201>	"tibial neuropathy"@en
+<http://www.wikidata.org/entity/Q18554101>	"laryngostenosis"@en
+<http://www.wikidata.org/entity/Q18554151>	"hyperlipoproteinemia type V"@en
+<http://www.wikidata.org/entity/Q13522706>	"colic"@en
+<http://www.wikidata.org/entity/Q9390284>	"Netherton syndrome"@en
+<http://www.wikidata.org/entity/Q9376235>	"endolymphatic hydrops"@en
+<http://www.wikidata.org/entity/Q9256161>	"eunuchism"@en
+<http://www.wikidata.org/entity/Q9290860>	"choledocholithiasis"@en
+<http://www.wikidata.org/entity/Q13641482>	"kidney neoplasm"@en
+<http://www.wikidata.org/entity/Q18554368>	"pars planitis"@en
+<http://www.wikidata.org/entity/Q18554274>	"bile reflux"@en
+<http://www.wikidata.org/entity/Q18554349>	"urethral obstruction"@en
+<http://www.wikidata.org/entity/Q18554476>	"pneumatosis cystoides intestinalis"@en
+<http://www.wikidata.org/entity/Q18554679>	"root caries"@en
+<http://www.wikidata.org/entity/Q18554515>	"neurogenic bowel"@en
+<http://www.wikidata.org/entity/Q18554694>	"ureterolithiasis"@en
+<http://www.wikidata.org/entity/Q18555257>	"Sertoli-Leydig cell tumor"@en
+<http://www.wikidata.org/entity/Q18555290>	"ascaridiasis"@en
+<http://www.wikidata.org/entity/Q18555343>	"causalgia"@en
+<http://www.wikidata.org/entity/Q18555924>	"carotid artery thrombosis"@en
+<http://www.wikidata.org/entity/Q18555944>	"brain infarction"@en
+<http://www.wikidata.org/entity/Q18556111>	"bronchial neoplasm"@en
+<http://www.wikidata.org/entity/Q18556246>	"coronary restenosis"@en
+<http://www.wikidata.org/entity/Q18556225>	"femoral neuropathy"@en
+<http://www.wikidata.org/entity/Q18555982>	"sagittal sinus thrombosis"@en
+<http://www.wikidata.org/entity/Q18555964>	"neurofibrosarcoma"@en
+<http://www.wikidata.org/entity/Q18556223>	"intracranial thrombosis"@en
+<http://www.wikidata.org/entity/Q13668767>	"maxillary sinusitis"@en
+<http://www.wikidata.org/entity/Q15124212>	"lung neoplasm"@en
+<http://www.wikidata.org/entity/Q6946984>	"Mycobacterium avium-intracellulare infection"@en
+<http://www.wikidata.org/entity/Q17635591>	"plasmablastic lymphoma"@en
+<http://www.wikidata.org/entity/Q18553444>	"nicotine dependence"@en
+<http://www.wikidata.org/entity/Q18553263>	"periventricular nodular heterotopia"@en
+<http://www.wikidata.org/entity/Q18553364>	"biliary tract neoplasm"@en
+<http://www.wikidata.org/entity/Q18452351>	"Owren's disease"@en
+<http://www.wikidata.org/entity/Q17640201>	"soft tissue neoplasm"@en
+<http://www.wikidata.org/entity/Q18553762>	"migraine with aura"@en
+<http://www.wikidata.org/entity/Q18553640>	"Her2-receptor positive breast cancer"@en
+<http://www.wikidata.org/entity/Q16116595>	"intestinal neoplasm"@en
+<http://www.wikidata.org/entity/Q11829083>	"meningocele"@en
+<http://www.wikidata.org/entity/Q18553872>	"diaphragmatic eventration"@en
+<http://www.wikidata.org/entity/Q18553869>	"legionellosis"@en
+<http://www.wikidata.org/entity/Q18553993>	"corneal edema"@en
+<http://www.wikidata.org/entity/Q18553935>	"frontal sinusitis"@en
+<http://www.wikidata.org/entity/Q11835644>	"thyroiditis"@en
+<http://www.wikidata.org/entity/Q18554019>	"hypohidrosis"@en
+<http://www.wikidata.org/entity/Q18554548>	"neuroaspergillosis"@en
+<http://www.wikidata.org/entity/Q18554532>	"paranasal sinus neoplasm"@en
+<http://www.wikidata.org/entity/Q17141201>	"Tinea"@en
+<http://www.wikidata.org/entity/Q18555979>	"duodenal obstruction"@en
+<http://www.wikidata.org/entity/Q18556105>	"colonic pseudo-obstruction"@en
+<http://www.wikidata.org/entity/Q18556021>	"brachial plexus neuritis"@en
+<http://www.wikidata.org/entity/Q18555981>	"lateral sinus thrombosis"@en
+<http://www.wikidata.org/entity/Q18556247>	"coronary stenosis"@en
+<http://www.wikidata.org/entity/Q17144183>	"Tooth mobility"@en
+<http://www.wikidata.org/entity/Q17146775>	"Hypergammaglobulinemia"@en
+<http://www.wikidata.org/entity/Q11921610>	"mental fatigue"@en
+<http://www.wikidata.org/entity/Q11903425>	"Newcastle disease"@en
+<http://www.wikidata.org/entity/Q17165460>	"Atypical hemolytic uremic syndrome"@en
+<http://www.wikidata.org/entity/Q17300307>	"low tension glaucoma"@en
+<http://www.wikidata.org/entity/Q16775468>	"elephantiasis"@en
+<http://www.wikidata.org/entity/Q7824270>	"tooth loss"@en
+<http://www.wikidata.org/entity/Q16831900>	"intracranial hypotension"@en
+<http://www.wikidata.org/entity/Q16956975>	"overnutrition"@en
+<http://www.wikidata.org/entity/Q7900855>	"urogenital neoplasm"@en
+<http://www.wikidata.org/entity/Q7899540>	"Urachal cyst"@en
+<http://www.wikidata.org/entity/Q17002116>	"fetal alcohol spectrum disorders"@en
+<http://www.wikidata.org/entity/Q18557037>	"nephrolithiasis"@en
+<http://www.wikidata.org/entity/Q17121503>	"iridocorneal endothelial syndrome"@en
+<http://www.wikidata.org/entity/Q27429789>	"macular degeneration"@en
+<http://www.wikidata.org/entity/Q18556303>	"myofibroma"@en
+<http://www.wikidata.org/entity/Q15637420>	"lethargy"@en
+<http://www.wikidata.org/entity/Q18555316>	"squamous cell neoplasm"@en
+<http://www.wikidata.org/entity/Q18556674>	"ureteral obstruction"@en
+<http://www.wikidata.org/entity/Q13616307>	"osteochondritis"@en
+<http://www.wikidata.org/entity/Q18556697>	"human immunodeficiency virus infectious disease"@en
+<http://www.wikidata.org/entity/Q18557019>	"composite lymphoma"@en
+<http://www.wikidata.org/entity/Q18556743>	"gingival hypertrophy"@en
+<http://www.wikidata.org/entity/Q13632630>	"thyroid neoplasm"@en
+<http://www.wikidata.org/entity/Q18556640>	"leiomyomatosis"@en
+<http://www.wikidata.org/entity/Q18556623>	"swayback"@en
+<http://www.wikidata.org/entity/Q18556380>	"anus neoplasm"@en
+<http://www.wikidata.org/entity/Q18556562>	"adenocarcinoma in situ"@en
+<http://www.wikidata.org/entity/Q18556287>	"parovarian cyst"@en
+<http://www.wikidata.org/entity/Q18556252>	"gait apraxia"@en
+<http://www.wikidata.org/entity/Q18556278>	"polyradiculopathy"@en
+<http://www.wikidata.org/entity/Q23929670>	"breast neoplasm"@en
+<http://www.wikidata.org/entity/Q21110038>	"corneal opacity"@en
+<http://www.wikidata.org/entity/Q30397754>	"fetal death"@en
+<http://www.wikidata.org/entity/Q25402299>	"second primary neoplasm"@en
+<http://www.wikidata.org/entity/Q21116733>	"respiratory hypersensitivity"@en
+<http://www.wikidata.org/entity/Q25324230>	"pancreatic cyst"@en
+<http://www.wikidata.org/entity/Q21505502>	"spina bifida occulta"@en
+<http://www.wikidata.org/entity/Q28564860>	"hyperlipoproteinemia type IV"@en
+<http://www.wikidata.org/entity/Q28501458>	"intra-abdominal abscess"@en
+<http://www.wikidata.org/entity/Q18558125>	"intracranial hypertension"@en
+<http://www.wikidata.org/entity/Q18558000>	"paraneoplastic polyneuropathy"@en
+<http://www.wikidata.org/entity/Q18558015>	"breast carcinoma in situ"@en
+<http://www.wikidata.org/entity/Q18557283>	"plasma cell neoplasm"@en
+<http://www.wikidata.org/entity/Q18557546>	"urinary system benign neoplasm"@en
+<http://www.wikidata.org/entity/Q18557950>	"retinal artery occlusion"@en
+<http://www.wikidata.org/entity/Q18557438>	"ACTH-secreting pituitary adenoma"@en
+<http://www.wikidata.org/entity/Q18557651>	"eccrine porocarcinoma"@en
+<http://www.wikidata.org/entity/Q12735648>	"myosarcoma"@en
+<http://www.wikidata.org/entity/Q12643772>	"heat exhaustion"@en
+<http://www.wikidata.org/entity/Q41795609>	"esophageal fistula"@en
+<http://www.wikidata.org/entity/Q30900016>	"microvascular angina"@en
+<http://www.wikidata.org/entity/Q34398936>	"bilateral hearing loss"@en
+<http://www.wikidata.org/entity/Q34397578>	"Digestive System Fistula"@en
+<http://www.wikidata.org/entity/Q42183538>	"respiratory signs and symptoms"@en
+<http://www.wikidata.org/entity/Q18558194>	"ophthalmia neonatorum"@en
+<http://www.wikidata.org/entity/Q18558272>	"heroin dependence"@en
+<http://www.wikidata.org/entity/Q18921119>	"skin neoplasm"@en
+<http://www.wikidata.org/entity/Q54971278>	"nerve degeneration"@en
+<http://www.wikidata.org/entity/Q54971415>	"capsule opacification"@en
+<http://www.wikidata.org/entity/Q18928105>	"Kartagener syndrome"@en
+<http://www.wikidata.org/entity/Q18558073>	"liver neoplasm"@en
+<http://www.wikidata.org/entity/Q18968209>	"adenosarcoma"@en
+<http://www.wikidata.org/entity/Q18975047>	"hematologic cancer"@en
+<http://www.wikidata.org/entity/Q18967954>	"root resorption"@en
+<http://www.wikidata.org/entity/Q54946225>	"candidemia"@en
+<http://www.wikidata.org/entity/Q18557760>	"ocular hypotension"@en
+<http://www.wikidata.org/entity/Q18928476>	"fusariosis"@en
+<http://www.wikidata.org/entity/Q18967247>	"Chagas cardiomyopathy"@en
+<http://www.wikidata.org/entity/Q54946292>	"oral hemorrhage"@en
+<http://www.wikidata.org/entity/Q54946623>	"invasive pulmonary aspergillosis"@en
+<http://www.wikidata.org/entity/Q54946565>	"dental leakage"@en
+<http://www.wikidata.org/entity/Q54947504>	"urinary fistula"@en
+<http://www.wikidata.org/entity/Q54947001>	"elbow tendinopathy"@en
+<http://www.wikidata.org/entity/Q54947136>	"corneal endothelial cell loss"@en
+<http://www.wikidata.org/entity/Q54911334>	"ventricular dysfunction"@en
+<http://www.wikidata.org/entity/Q12859063>	"metastatic breast cancer"@en
+<http://www.wikidata.org/entity/Q54972217>	"severe acute malnutrition"@en
+<http://www.wikidata.org/entity/Q27675547>	"vaccinia"@en
+<http://www.wikidata.org/entity/Q54972627>	"multiple pulmonary nodules"@en
+<http://www.wikidata.org/entity/Q42324521>	"paroxysmal hemicrania"@en
+<http://www.wikidata.org/entity/Q42293706>	"retinal neovascularization"@en
+<http://www.wikidata.org/entity/Q42581703>	"delayed emergence from anesthesia"@en
+<http://www.wikidata.org/entity/Q51714514>	"problem behavior"@en
+<http://www.wikidata.org/entity/Q54911504>	"vascular calcification"@en
+<http://www.wikidata.org/entity/Q54911517>	"sepsis-associated encephalopathy"@en
+<http://www.wikidata.org/entity/Q54911677>	"necrobiotic disorders"@en
+<http://www.wikidata.org/entity/Q54911678>	"iliac aneurysm"@en
+<http://www.wikidata.org/entity/Q54911704>	"bites and stings"@en
+<http://www.wikidata.org/entity/Q54911717>	"eye abnormalities"@en
+<http://www.wikidata.org/entity/Q57859955>	"cognitive dysfunction"@en
+<http://www.wikidata.org/entity/Q18975327>	"neuroepithelial neoplasm"@en
+<http://www.wikidata.org/entity/Q18975915>	"head and neck neoplasms"@en
+<http://www.wikidata.org/entity/Q54973000>	"HIV seropositivity"@en
+<http://www.wikidata.org/entity/Q54974031>	"periodontal attachment loss"@en
+<http://www.wikidata.org/entity/Q54911777>	"esophageal and gastric varices"@en
+<http://www.wikidata.org/entity/Q55082242>	"talipes"@en
+<http://www.wikidata.org/entity/Q55092942>	"castration-resistant prostatic neoplasm"@en
+<http://www.wikidata.org/entity/Q55043796>	"ruptured aneurysm"@en
+<http://www.wikidata.org/entity/Q54974116>	"central nervous system venous angioma"@en
+<http://www.wikidata.org/entity/Q54912155>	"cutaneous fistula"@en
+<http://www.wikidata.org/entity/Q54927356>	"rotator cuff tear arthropathy"@en
+<http://www.wikidata.org/entity/Q54928159>	"tooth demineralization"@en
+<http://www.wikidata.org/entity/Q54927311>	"infectious encephalitis"@en
+<http://www.wikidata.org/entity/Q54927442>	"intracranial embolism and thrombosis"@en
+<http://www.wikidata.org/entity/Q54930822>	"fracture dislocation"@en
+<http://www.wikidata.org/entity/Q19000425>	"peritoneal neoplasm"@en
+<http://www.wikidata.org/entity/Q54912147>	"post-exercise hypotension"@en
+<http://www.wikidata.org/entity/Q40649915>	"choristoma"@en
+<http://www.wikidata.org/entity/Q34399186>	"reciprocating tachycardia"@en
+<http://www.wikidata.org/entity/Q40103033>	"hemimegalencephaly"@en
+<http://www.wikidata.org/entity/Q54931334>	"intestinal fistula"@en
+<http://www.wikidata.org/entity/Q21077147>	"eye pain"@en
+<http://www.wikidata.org/entity/Q42261552>	"delayed graft function"@en
+<http://www.wikidata.org/entity/Q56014511>	"prostate neoplasm"@en
+<http://www.wikidata.org/entity/Q55093037>	"immunoblastic lymphadenopathy"@en
+<http://www.wikidata.org/entity/Q56014520>	"esophageal neoplasm"@en
+<http://www.wikidata.org/entity/Q56014549>	"bile duct neoplasm"@en
+<http://www.wikidata.org/entity/Q56014516>	"neoplasm of thorax"@en
+<http://www.wikidata.org/entity/Q55105885>	"shoulder pain"@en
+<http://www.wikidata.org/entity/Q58833980>	"residual neoplasm"@en
+<http://www.wikidata.org/entity/Q58833981>	"male breast neoplasm"@en
+<http://www.wikidata.org/entity/Q54945893>	"pelvic infection"@en
+<http://www.wikidata.org/entity/Q54943809>	"dental pulp exposure"@en
+<http://www.wikidata.org/entity/Q54943978>	"collagenous sprue"@en
+<http://www.wikidata.org/entity/Q54945742>	"hyper-IgM immunodeficiency syndrome, Type 1"@en
+<http://www.wikidata.org/entity/Q54944172>	"virilism"@en
+<http://www.wikidata.org/entity/Q27680586>	"intracranial arteriosclerosis"@en
+<http://www.wikidata.org/entity/Q55789538>	"oral cavity neoplasm"@en
+<http://www.wikidata.org/entity/Q55789539>	"nervous system neoplasm"@en
+<http://www.wikidata.org/entity/Q55787784>	"tumor of testis and paratestis"@en
+<http://www.wikidata.org/entity/Q55779807>	"metastatic prostate carcinoma"@en
+<http://www.wikidata.org/entity/Q55789782>	"gram-positive bacterial infections"@en
+<http://www.wikidata.org/entity/Q55789594>	"neoplasm of oropharynx"@en
+<http://www.wikidata.org/entity/Q56014502>	"uterine cervix neoplasm"@en
+<http://www.wikidata.org/entity/Q56014498>	"uveal neoplasm"@en
+<http://www.wikidata.org/entity/Q55949884>	"bladder neoplasm"@en
+<http://www.wikidata.org/entity/Q55082384>	"chemotherapy-induced febrile neutropenia"@en
+<http://www.wikidata.org/entity/Q55092991>	"atypical squamous cells of the cervix"@en
+<http://www.wikidata.org/entity/Q55092798>	"cerebrovascular trauma"@en
+<http://www.wikidata.org/entity/Q55092959>	"intrauterine device migration"@en
+<http://www.wikidata.org/entity/Q55093014>	"gastric fistula"@en
+<http://www.wikidata.org/entity/Q55092788>	"facial asymmetry"@en
+<http://www.wikidata.org/entity/Q55082435>	"spinal osteophytosis"@en
+<http://www.wikidata.org/entity/Q58833953>	"nasopharyngeal neoplasm"@en
+<http://www.wikidata.org/entity/Q58833940>	"fallopian tube neoplasm"@en
+<http://www.wikidata.org/entity/Q58833942>	"gastrointestinal neoplasm"@en
+<http://www.wikidata.org/entity/Q58833963>	"respiratory tract neoplasm"@en
+<http://www.wikidata.org/entity/Q58833962>	"pituitary neoplasm"@en
+<http://www.wikidata.org/entity/Q58833969>	"urethral neoplasm"@en
+<http://www.wikidata.org/entity/Q58833955>	"germ cell and embryonal neoplasms"@en
+<http://www.wikidata.org/entity/Q58833976>	"colorectal neoplasm"@en
+<http://www.wikidata.org/entity/Q58833978>	"endometrial neoplasm"@en
+<http://www.wikidata.org/entity/Q52601023>	"vulvar neoplasm"@en
+<http://www.wikidata.org/entity/Q52577085>	"Atrial Remodeling"@en
+<http://www.wikidata.org/entity/Q54875151>	"knee dislocation"@en
+<http://www.wikidata.org/entity/Q53844926>	"thymus neoplasm"@en
+<http://www.wikidata.org/entity/Q54971821>	"myocardial reperfusion injury"@en
+<http://www.wikidata.org/entity/Q54972151>	"spina bifida cystica"@en
+<http://www.wikidata.org/entity/Q84263196>	"COVID-19"@en
+<http://www.wikidata.org/entity/Q54911376>	"prenatal exposure delayed effects"@en
+<http://www.wikidata.org/entity/Q54911437>	"postoperative hemorrhage"@en
+<http://www.wikidata.org/entity/Q54911488>	"mesial movement of teeth"@en
+<http://www.wikidata.org/entity/Q54911767>	"prostatic intraepithelial neoplasia"@en
+<http://www.wikidata.org/entity/Q56014508>	"pharynx neoplasm"@en
+<http://www.wikidata.org/entity/Q56014489>	"female reproductive system neoplasm"@en
+<http://www.wikidata.org/entity/Q56014509>	"gallbladder neoplasm"@en
+<http://www.wikidata.org/entity/Q56014517>	"uterine neoplasm"@en
+<http://www.wikidata.org/entity/Q95566669>	"hypertension"@en
+<http://www.wikidata.org/entity/Q58833983>	"triple-negative breast neoplasm"@en
+<http://www.wikidata.org/entity/Q58845312>	"digestive system neoplasm"@en
+<http://www.wikidata.org/entity/Q58845352>	"connective and soft tissue neoplasms"@en
+<http://www.wikidata.org/entity/Q60712481>	"dysbacteriosis"@en
+<http://www.wikidata.org/entity/Q67841409>	"headache disorders"@en
+<http://www.wikidata.org/entity/Q64513386>	"bulimia nervosa"@en
+<http://www.wikidata.org/entity/Q102187456>	"male stress incontinence"@en
