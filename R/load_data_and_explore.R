@@ -4,24 +4,22 @@ library(tidyverse)
 library(igraph)
 library(ggraph)
 
-setwd("projects/clinical_trials_wikidata/")
-
 #Load edges and nodes
-edges <- data.table::fread("../data/edges_dis_interventions.tsv")
+edges <- data.table::fread("data/edges_dis_interventions.tsv")
 colnames(edges) <- c("weight", "from", "to")
 edges <- edges[, c(2, 3, 1)]
 
+#Remove COVID19 from "interventions"
 covid19_id <- "<http://www.wikidata.org/entity/Q84263196>"
 
 edges <- edges %>%
-  filter(to != covid19_id)
+  dplyr::filter(to != covid19_id)
 
-disease_nodes <- data.table::fread("../data/disease_nodes.tsv")
+disease_nodes <- data.table::fread("data/disease_nodes.tsv")
 colnames(disease_nodes) <- c("URL", "label")
 disease_nodes$class <- "disease"
 
-intervention_nodes <-
-  data.table::fread("../data/intervention_nodes.tsv")
+intervention_nodes <- data.table::fread("data/intervention_nodes.tsv")
 colnames(intervention_nodes) <- c("URL", "label")
 intervention_nodes$class <- "intervention"
 intervention_nodes <- intervention_nodes %>%
@@ -49,23 +47,23 @@ V(g1)$mod <- louv$membership
 all_nodes_sorted$mod <- louv$membership
 
 #Plot the network
-p <- ggraph::ggraph(graph = g1,layout = "kk")+
-  ggraph::geom_edge_link()+
-  ggraph::geom_node_point()+
-  theme_void()
-p
+# p <- ggraph::ggraph(graph = g1,layout = "kk")+
+#   ggraph::geom_edge_link()+
+#   ggraph::geom_node_point()+
+#   theme_void()
+# p
 
 #Plot top10 disease and interventions
 p <- all_nodes_sorted %>%
   group_by(class) %>%
-  top_n(n = 20,wt = degree) %>%
+  top_n(n = 50,wt = degree) %>%
   arrange(desc(degree)) %>%
   ungroup() %>%
   mutate(label=factor(label,levels = unique(label))) %>%
   ggplot(aes(x=label,y=degree,fill=class))+
   geom_col()+
   theme_minimal()+
-  theme(axis.text.x = element_text(angle = 45,hjust = 1))+
+  theme(axis.text.x = element_text(angle = 90,hjust = 1,size = 15))+
   facet_wrap(facets = ~class,scales = "free_x",nrow = 2)
 p  
 
