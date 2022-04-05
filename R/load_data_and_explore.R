@@ -56,7 +56,7 @@ all_nodes_sorted$mod <- louv$membership
 #Plot top10 disease and interventions
 p <- all_nodes_sorted %>%
   group_by(class) %>%
-  top_n(n = 50,wt = degree) %>%
+  top_n(n = 20,wt = degree) %>%
   arrange(desc(degree)) %>%
   ungroup() %>%
   mutate(label=factor(label,levels = unique(label))) %>%
@@ -65,7 +65,9 @@ p <- all_nodes_sorted %>%
   theme_minimal()+
   theme(axis.text.x = element_text(angle = 90,hjust = 1,size = 15))+
   facet_wrap(facets = ~class,scales = "free_x",nrow = 2)
-p  
-
+pdf(file = "figures/top20_diseases_and_interventions.pdf",
+    width = 8,height = 10)
+print(p)  
+dev.off()
 
 
